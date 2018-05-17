@@ -1,0 +1,375 @@
+Logging started ...
+
+2018-05-13 08:45:15+0530 > zs10062013
+2018-05-13 08:45:52+0530 > <LAlt><LCtrl>tssh zumi<LShft>@10<BckSp>92.168.1.42
+2018-05-13 08:46:29+0530 > zs10062013
+2018-05-13 08:46:33+0530 > cd a<BckSp>my<Tab><Tab><Tab>ke<Tab>
+2018-05-13 08:46:55+0530 > di<BckSp><BckSp><BckSp>git status
+2018-05-13 08:47:01+0530 > vim <BckSp><BckSp><BckSp><BckSp><BckSp>di<BckSp><BckSp>git diff <RShft><Ins>
+2018-05-13 08:47:34+0530 > git diff <RShft><Ins>
+2018-05-13 08:47:47+0530 > vim <RShft><Ins>
+2018-05-13 08:47:53+0530 > /<LShft>Harish
+2018-05-13 08:47:57+0530 > /<LShft>HARISH
+2018-05-13 08:48:01+0530 > /ptr
+2018-05-13 08:48:07+0530 > n<Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Left><#+13><Left>i<Del><Del><Esc><RShft>:wq
+2018-05-13 08:48:26+0530 > cd ../..<BckSp><BckSp>
+2018-05-13 08:48:32+0530 > sou<Tab>bu<Tab>/e<Tab>
+2018-05-13 08:48:38+0530 > lunch
+2018-05-13 08:48:42+0530 > 10
+2018-05-13 08:48:45+0530 > ls
+2018-05-13 08:52:21+0530 > cd <BckSp><BckSp><BckSp><BckSp><BckSp>google
+2018-05-13 08:53:36+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>andr<BckSp><BckSp><BckSp><BckSp><BckSp><Right><Down><Down><Down><Down><Esc><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><Up><#+1><Up><#+24><Up><Up><Up><#+21><Up><Up><Down><Down><Down><#+3><Down><Down><Down><Down><#+16><Up><#+24>linux bsp <LAlt><Tab><Tab><Tab><Tab><Up><Up><Up><Up><Up>
+2018-05-13 09:02:12+0530 > <RShft>:q
+2018-05-13 09:02:15+0530 > <Up><Up><Down><Left><#+33><Right>k<Tab>
+2018-05-13 09:02:22+0530 > /<RShft>*ptr
+2018-05-13 09:02:30+0530 > <Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><Left><Left><Left>i<BckSp><Esc><RShft>:w<BckSp>e<BckSp>w<LShft>!<BckSp>q
+2018-05-13 09:02:40+0530 > cd k<Tab>
+2018-05-13 09:03:32+0530 > ls
+2018-05-13 09:03:32+0530 > find -name wat<Tab><BckSp><BckSp><BckSp>atc<BckSp><BckSp><BckSp>watchdog
+2018-05-13 09:03:51+0530 > cd de<Tab><BckSp>r<Tab>w<Tab>a<Tab>
+2018-05-13 09:04:05+0530 > ls
+2018-05-13 09:04:06+0530 > <BckSp><#+4>cd <BckSp><BckSp><BckSp><BckSp>vim ../../../bo<Tab>a<Tab>b<Tab>d<Tab><BckSp>f<Tab><BckSp><BckSp><Tab>u<Tab>w<Tab><BckSp>in<Tab>w<Tab>a<Tab><Tab><Tab><BckSp>a<Tab><Tab>t<Tab>
+2018-05-13 09:05:20+0530 > <Down><#+28><Down><#+41><Down><Down><Down><#+57><LCtrl><LShft>c
+2018-05-13 09:05:37+0530 > c
+2018-05-13 09:05:37+0530 > <LCtrl><LShft>c
+2018-05-13 09:05:40+0530 > c
+2018-05-13 09:05:40+0530 > <RShft>:q
+2018-05-13 09:05:42+0530 > cd<BckSp><BckSp>grep -rmns<BckSp><BckSp><BckSp>ns <RShft><Ins>
+2018-05-13 09:05:54+0530 > <Up><Left><#+15><Left><BckSp><BckSp><LShft>IMX
+2018-05-13 09:06:02+0530 > c<LAlt>d<BckSp><BckSp>cd ../<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>cd ..
+2018-05-13 09:06:10+0530 > <Up><Up>
+2018-05-13 09:06:13+0530 > <Up><Up><Up><Up><Up><Left><#+58><BckSp><BckSp><BckSp>
+2018-05-13 09:07:40+0530 > <Down><#+115><Up><#+80><Up><Up><Up><Up><#+3><LCtrl><LShft>c
+2018-05-13 09:07:55+0530 > c
+2018-05-13 09:07:55+0530 > <RShft>:q
+2018-05-13 09:07:57+0530 > grep -rns <RShft><Ins>
+2018-05-13 09:08:03+0530 > cd <BckSp><BckSp><BckSp>cd ..<BckSp><BckSp><BckSp> ..
+2018-05-13 09:12:25+0530 > fidn <BckSp><BckSp><BckSp>nd -name <Up><Up><Up><Down><Down><Down><RShft><Ins><Left><#+11><Right><#+12><BckSp><#+22><BckSp><BckSp><BckSp> watchdos<BckSp>g
+2018-05-13 09:12:56+0530 > vim <RShft><Ins><Left><#+29><Left><Left><BckSp><BckSp><PgDn><BckSp><End><Tab><Tab>/<Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>.<Tab>
+2018-05-13 09:13:29+0530 > <RShft>:q
+2018-05-13 09:13:31+0530 > <Up><Left><#+30><Left><Left><Left><#+1><Left><End><BckSp><#+10><Tab><Tab>.<Tab>
+2018-05-13 09:13:41+0530 > 
+2018-05-13 09:13:43+0530 > 
+2018-05-13 09:13:44+0530 > <RShft>:q
+2018-05-13 09:13:45+0530 > <Up><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Tab><Tab>nw<Tab>a<Tab>/<Tab><Tab><Tab>
+2018-05-13 09:13:58+0530 > <RShft>:q
+2018-05-13 09:14:00+0530 > vim <RShft><Ins><Tab><Tab><Tab>y<BckSp><#+35><BckSp><BckSp>vi<BckSp><BckSp><BckSp>ls
+2018-05-13 09:14:40+0530 > <BckSp><#+25>kenel <BckSp><BckSp><BckSp><BckSp>rnel flash image creator
+2018-05-13 09:19:19+0530 > <Left><#+24><Right><Right><BckSp><BckSp><BckSp><BckSp><BckSp>splase
+2018-05-13 09:19:31+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>chh<BckSp>ange<Down><RShft>
+2018-05-13 09:19:44+0530 > <Down><Down><Down><#+13><Down><Down><Down><#+10><Down><#+13><Down><#+17><Down><#+18><Up><Down><#+12><Up><Up><Up><Up><Up><Up><Up><Up><Up><#+15><Down><#+16><Down><Down><Down><#+13><Down><Down><Down><LAlt><Tab>vim linu<Tab><BckSp><BckSp><BckSp><BckSp>dr<Tab>vi<Tab>d<Tab>lo<Tab>
+2018-05-13 09:23:18+0530 > <RShft>:q
+2018-05-13 09:23:21+0530 > cd dr<Tab>vid<Tab>e<BckSp>lo<Tab>
+2018-05-13 09:23:27+0530 > ls
+2018-05-13 09:23:28+0530 > <LCtrl><LAlt>tcd <LShft>Doc<Tab>
+2018-05-13 09:25:56+0530 > ls
+2018-05-13 09:25:57+0530 > scp zumi<LShft>@192.1y68<BckSp><BckSp><BckSp>68.1.42<RShft>"<BckSp><RShft>:/<BckSp><LAlt><Tab>pwm<BckSp>d
+2018-05-13 09:26:23+0530 > <LCtrl><LShft>c
+2018-05-13 09:26:29+0530 > c
+2018-05-13 09:26:29+0530 > <LCtrl><LShft><LAlt><Tab><RShft><Ins>/<LAlt><Tab><LAlt><Tab><RShft><Ins> .
+2018-05-13 09:27:05+0530 > zs10062013
+2018-05-13 09:27:10+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><Tab><Tab><Tab><Tab><LCtrl>c
+2018-05-13 09:27:39+0530 > c
+2018-05-13 09:27:40+0530 > <LShft><LAlt><Tab><Up><Left><Left><BckSp><#+25><BckSp><BckSp><BckSp><BckSp><BckSp><RShft><Ins>
+2018-05-13 09:27:51+0530 > zs10062013
+2018-05-13 09:27:57+0530 > <LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><Up><Left><#+6><Left><BckSp><#+25><BckSp><BckSp><RShft><Ins>
+2018-05-13 09:28:39+0530 > zs10062013
+2018-05-13 09:28:44+0530 > <LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab>mail.zumi
+2018-05-13 09:29:43+0530 > hare3eharish<LShft>SRI<Down>
+2018-05-13 09:30:55+0530 > <Down>
+2018-05-13 09:30:55+0530 > <Down><Down><Down><Down><Up><Up><Down><Down><Up><BckSp><BckSp><BckSp><Right>
+2018-05-13 09:31:35+0530 > <Down><Down><#+19><Down><Down><Down><Down><Down><LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><Tab><Tab>cd ../../..
+2018-05-13 09:32:44+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab>vim ar<Tab>ar<Tab>m<LAlt><Tab><LAlt><Tab>/,z<BckSp><BckSp>mz<BckSp>ac<Tab><Tab><Tab>imx<Tab><Tab><Tab>y<LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><BckSp><Tab><Tab><BckSp><Tab><LAlt><Tab><LAlt><Tab><BckSp><BckSp><BckSp><BckSp><Tab><Tab><LAlt><Tab><LAlt><Tab><BckSp><#+29><LAlt><Tab><LAlt><Tab>cd ar<Tab>arm
+2018-05-13 09:35:45+0530 > <LAlt><Tab><LCtrl>c
+2018-05-13 09:35:52+0530 > c
+2018-05-13 09:35:53+0530 > <LAlt><Tab>find -name <RShft><Ins>
+2018-05-13 09:35:59+0530 > <Up><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><RShft>*
+2018-05-13 09:36:09+0530 > <Up><BckSp><BckSp><BckSp>x<RShft>*
+2018-05-13 09:36:17+0530 > vim <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><#+1>vim mac<Tab>im<Tab><Tab><Tab>y<RShft><Ins>
+2018-05-13 09:37:34+0530 > <Down><#+45><Down><#+41><Down><Down><#+15><Down><Down><#+22><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+13><LAlt><Tab><LCtrl>c
+2018-05-13 09:37:53+0530 > c
+2018-05-13 09:37:53+0530 > <LAlt><Tab><RShft>:q
+2018-05-13 09:37:58+0530 > grep -rns <RShft><Ins>
+2018-05-13 09:38:05+0530 > <Up><Left><#+13><Left><Left><BckSp>w
+2018-05-13 09:38:39+0530 > <RCtrl><RShft><Up><Up><#+27><Up><#+15><Down><#+16><Down><#+39><Up><Up><#+21><Up><#+23><Up><#+18><Up><#+16><Up><#+15><Up><#+4><Up><Up><Up><Up><#+12><Up><Up><Up><Up><Up><#+7><Up><Up><#+22><Down><Down><Down><Down><#+20><Down><#+15><Down><Down><Down><#+15><Down><#+13><Down><#+5><Down><Down><#+8><Down><Down><#+19><Down><Down><Down><Down><Down><Down><Down><#+4><Down><#+28><Down><#+7><RCtrl><RShft><Down><Down><Down><Down><Down><Up><#+7><Up><Up><Up><#+1><Up><Up><Up><Up><Up><Up><Up><Up><#+16><Up><#+19><Up><#+14><Up><#+10><Up><#+16><Down><#+14>vim in<Tab><Tab><Tab><BckSp><BckSp><BckSp><#+22><LAlt><Tab><Down><#+41><Up><Up><Down><Right><Down><Down><Up><Down><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><Down><Down><Down><Down><Down><Up><Up><Up><Up><Up><Up><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+1><Up><#+43><Down><#+28><Down><Down><#+7><Down><Down><Down><Down><Down><Down><Down><LAlt><Tab>cd<BckSp><BckSp><BckSp><BckSp>vim <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>find n<BckSp>-na <BckSp>mae <BckSp><BckSp><BckSp>e <RShft><Ins>
+2018-05-13 09:42:04+0530 > cd ../..
+2018-05-13 09:42:08+0530 > <Up><Up>
+2018-05-13 09:42:10+0530 > vim <RShft><Ins><Left><#+30><BckSp><BckSp>
+2018-05-13 09:42:30+0530 > <RShft>:q
+2018-05-13 09:42:33+0530 > <Up><BckSp><BckSp><BckSp><Tab><Tab><Tab>.<Tab><BckSp><#+17><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>lin<Tab>wa<Tab><Tab><Tab>t<Tab>
+2018-05-13 09:42:59+0530 > <Down><#+34><Down><#+10><Down><#+46><Down><#+17><Down><#+20><Down><#+23><Down><#+18><Down><#+16><Up><Up><#+21><Up><Up><Up><Up><Up><Up><Down><Up><Down><Right><#+21><RShft>*<Down><Down><Down><Down><Down><Down><#+18><Down><#+35><Down><Down><Down><#+27><Down><#+28><Up><Up><Up><Up><#+68><Up><Up><Up><Up><#+11><Down><#+19><Down><Down><Down><Down><Up><#+59><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><#+50><Up><Up><#+3><LAlt><Tab><Right><Right><Right><Left><Left><Right><Right><Left><Left><Right><Right><Left><Right><Right>
+2018-05-13 09:45:26+0530 > <Down><#+22><Down><Down><Down><Down><Down><Down><Down><#+15><Up><#+8><Down><#+13><Down><Down><Up><#+40><Up><Up><Up><Down><#+10><Down><Down><Down><#+3><Up><Up><Down><Down><Up><Up><Down><Down><#+37><Down><Down><#+44><RShft>:q
+2018-05-13 09:45:57+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><Tab><Down><#+29><Up><#+60><Up><Up><#+6><Up><#+20><Down><#+83><Down><#+7><Down><Down><Down><Up><#+30><Down><#+52><Down><Down><Down><Down><Down><#+23><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Left><Left><Left><Left><Left><Left><Left><Up><Up><Down><Down><Down><Down><Up><RShft>*<Down><#+19><Down><Down><Down><Down><Up><#+151><Up><#+17><RShft>:q
+2018-05-13 09:47:54+0530 > <Up>
+2018-05-13 09:48:00+0530 > <Down><#+4><PgDn><#+1><PgDn><Down><#+3><Down><Down><#+32><Down><Down><Down><Down><Up><Right><#+29><Down><#+69><Down><Down><Down><Down><Down><#+21><Up><#+22><Up><Up><Up><LCtrl><LShft><LCtrl><LShft><RShft>:q
+2018-05-13 09:48:32+0530 > vim con<Tab><BckSp><BckSp><BckSp>ar<Tab>arm<Tab>/con<Tab><BckSp><#+22><BckSp>.x<BckSp>c<Tab><Tab><Tab><Tab>n<Tab>
+2018-05-13 09:48:54+0530 > /<RShft><Ins>
+2018-05-13 09:48:57+0530 > <RShft>/watchdog<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>WATCHDOS<BckSp>G
+2018-05-13 09:52:11+0530 > nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn<Down><Down><Down><Down><Down><Up><Up><Up><Up><Up><Up><Down><Down><RShft>:q
+2018-05-13 09:53:36+0530 > <Down><#+61><Down><Down><Down><#+3><Down><#+9><Down><#+4><Down><Down><LAlt><Tab><LAlt><Tab>ls vide<Tab><BckSp><Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>cd vid<Tab><Tab><Tab><Tab><BckSp><BckSp><BckSp><LAlt><LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Up><#+35><Down><#+25><Up><Up><Up><Up><Up><LAlt><Tab>cd<BckSp><BckSp>dri<Tab>vide<Tab>lo<Tab>
+2018-05-13 09:55:54+0530 > ls
+2018-05-13 09:55:55+0530 > vim <LShft>Ma<Tab>
+2018-05-13 09:56:11+0530 > <Down><#+66><Down><Down><Down><Up><#+73><Up><Up><LAlt><Tab>
+2018-05-13 09:57:09+0530 > scp <Down><Down>
+2018-05-13 09:57:30+0530 > <BckSp><#+17><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab>`<RShft>:q
+2018-05-13 10:02:41+0530 > ls
+2018-05-13 10:02:44+0530 > ls
+2018-05-13 10:02:53+0530 > scp zumi<RShft>@192/<BckSp>.168.1.58<RShft>:<LAlt><Tab>cd <Tab><Tab><BckSp><BckSp><BckSp><BckSp><LAlt><Tab>cd <LShft>Dpw<Tab><BckSp><BckSp>ow<Tab><#+2><Tab><BckSp>n<Tab><BckSp><BckSp>on<Tab><BckSp><BckSp>ow<Tab>n<Tab><Tab><Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>cd ..
+2018-05-13 10:04:12+0530 > cd s<BckSp><LShft>Dow<Tab>
+2018-05-13 10:04:15+0530 > ls
+2018-05-13 10:04:16+0530 > cd <LShft>VI<Tab><BckSp><BckSp>vi<Tab><BckSp><BckSp><RCtrl><PgUp><PgUp><Del><Del><BckSp><BckSp><BckSp><BckSp><BckSp><#+2><BckSp><BckSp><BckSp><RCtrl><RShft><Up><Up><Up><Up><#+25><Up><#+24><Up><#+26><Up><#+17><Down><LShft>cd <LShft>F<Tab><Tab><Tab><Tab>drf<Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><#+45><Down><#+15><PgDn><PgDn><LCtrl>fwatch<LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><LAlt><Tab><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+39><Up><#+30><Down><#+18><Up><Up><Down><Down><Down><#+10><Down><Down><Down><#+21><Down><Down><Down><Down><Up><#+23><Up><Up><Up><Up><Up><Up><Up><Down><Down><LAlt><Tab><CpsLk><Down><Down><Up><Up><#+69><Down><#+67><Down><#+167><PgDn><PgDn><PgDn><PgDn><PgDn><PgUp><PgUp><PgDn><PgUp><PgDn><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgDn><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgUp><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><#+1><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn><Up><Up><Up><#+14><Up><LCtrl>c
+2018-05-13 10:07:24+0530 > c
+2018-05-13 10:07:24+0530 > <LAlt><Tab><LAlt><Tab><Tab><Tab><BckSp><#+35>CD <BckSp><BckSp><BckSp><BckSp><CpsLk>cd ../../..
+2018-05-13 10:07:39+0530 > gre <BckSp><BckSp>ep -rns <RShft><Ins><RShft>"<Left><#+22><Left><Left><RShft>"
+2018-05-13 10:07:51+0530 > pi<BckSp><BckSp>k<BckSp>imnx<BckSp><BckSp>x6 libux<BckSp><BckSp><BckSp>ux <BckSp><BckSp><BckSp>nux watchdog enable
+2018-05-13 10:08:24+0530 > <Down><#+18><Up><Up><Up><Up><Up><Up><Down><#+20><Down><#+14><Down><#+1><Down><#+16><Down><#+13><Down><#+14><Down><Down><Down><Up><Up><Up><#+19><Up><#+14><Down><#+14><Down><#+14><Down><#+17><Up><#+9><Up><LCtrl>c
+2018-05-13 10:10:26+0530 > fv<Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><#+10><Down><#+18><Down><#+13><Down><Down><#+5><Down><Down><LCtrl>c
+2018-05-13 10:11:28+0530 > c
+2018-05-13 10:11:28+0530 > <LAlt><Tab>grep -rns <RShft><BckSp><BckSp><BckSp><BckSp><BckSp><#+18>cd dr<Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>d ar<Tab>ar<Tab>m<Tab>
+2018-05-13 10:11:43+0530 > grep -rns <RShft>+<BckSp><RShft><Ins>
+2018-05-13 10:11:52+0530 > <LAlt><Tab><Down><Down><Down><Down><Down><Down><Down><Down><#+4><Down><#+10><Up><Up><Up><Up><Up><Up><Up><Up><#+20><Up><Up><Down><Down><Down><Down><Down><#+4><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><#+12><Down><Down><#+14><Down><#+15><Up><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+10><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+5><Down><#+14><Down><#+13><Down><Down><#+14><Up><Down><#+16><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+17><Up><#+128><Up><Up><Up><#+3><Up><#+36><Down><#+12><Down><Down><Down><#+21><Down><Up><Up><Up><Up><Up><Up><#+13><Down><#+26><Up><#+28><Down><Down><Down><Up><Up><Up><#+22><Down><#+19><Down><#+6><Down><Down><#+16><Down><#+4><Down><#+16><Down><Down><#+19><Up><#+22><Down><#+29><Down><#+16><Down><#+20><Down><#+21><Up><Up><Up><Up><Up><Up><LCtrl>c
+2018-05-13 10:28:18+0530 > c
+2018-05-13 10:28:18+0530 > c
+2018-05-13 10:28:18+0530 > c
+2018-05-13 10:28:19+0530 > <Up><Up><Up><#+17><RShft>
+2018-05-13 10:28:30+0530 > 
+2018-05-13 10:28:30+0530 > <Up><Up><LCtrl>v<LCtrl>s<BckSp><BckSp><Up><Up><Up><Down><#+3><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+13><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><Up>cd ../..
+2018-05-13 11:03:08+0530 > cd dr<Tab><#+1>vi<Tab><BckSp>d<Tab><BckSp>i<Tab><BckSp><BckSp><Tab><Tab>nvide<Tab>lo<Tab>
+2018-05-13 11:03:18+0530 > ls
+2018-05-13 11:03:18+0530 > scp zumi<RShft>@192.168.1.58<RShft>:<LAlt><Tab>cd <BckSp><BckSp><BckSp>cd f<BckSp><LShft>F<Tab>lo<Tab><Tab><Tab>dr<Tab><BckSp><#+12><BckSp><BckSp><BckSp>ar<Tab><Tab><Tab><Tab><Tab>
+2018-05-13 11:04:15+0530 > <BckSp><BckSp>
+2018-05-13 11:04:17+0530 > <Right>
+2018-05-13 11:04:19+0530 > <Right>
+2018-05-13 11:04:19+0530 > <Right>
+2018-05-13 11:04:20+0530 > <Right><BckSp><BckSp><BckSp><Right>
+2018-05-13 11:04:27+0530 > <Right>
+2018-05-13 11:04:27+0530 > <Right>
+2018-05-13 11:04:28+0530 > <Right><Right><Right><LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab>
+2018-05-13 11:05:23+0530 > ls
+2018-05-13 11:05:25+0530 > cd ../..
+2018-05-13 11:05:47+0530 > cd ..
+2018-05-13 11:05:51+0530 > ls
+2018-05-13 11:05:52+0530 > cd d<Tab>r<BckSp><Tab><Tab><Tab>l<BckSp>
+2018-05-13 11:06:03+0530 > ls
+2018-05-13 11:06:04+0530 > pwd
+2018-05-13 11:06:30+0530 > <RShft><Ins>/<LAlt><Tab><LAlt><Tab><RShft><Ins> .
+2018-05-13 11:07:19+0530 > yes
+2018-05-13 11:07:23+0530 > zs10062013
+2018-05-13 11:07:28+0530 > ls
+2018-05-13 11:07:35+0530 > <LAlt><Tab><LAlt><Tab>cp lo<Tab><RShft>_<Tab>b<BckSp>n<Tab>p<Tab>lo<Tab><RShft>_<Tab>b<BckSp>n<Tab>p<Tab><Left><#+19><BckSp><BckSp><BckSp><BckSp>lo<LAlt><Tab><LAlt><Tab>chivar<LAlt><Tab><LAlt><Tab>
+2018-05-13 11:08:59+0530 > ls
+2018-05-13 11:09:01+0530 > vim log<Tab>.<Tab>
+2018-05-13 11:12:04+0530 > <Down><#+64><Down><Down><Down><Down><#+25><LAlt><Tab><LAlt><Tab><Tab><Tab><Tab><Tab><Down><#+30><Up><#+14><Up><Up><Down><Down><Down><Up><Down><Down><Down><Up><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><Up><Up><Up><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LCtrl>flogl<BckSp>o<RShft>_name<Down><Up><Down><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><Up><Down><Up><Down><Up><LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><LCtrl>c
+2018-05-13 11:14:36+0530 > c
+2018-05-13 11:14:36+0530 > fv<BckSp><#+30><LCtrl>v<LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><Tab><Tab><RShft>:q
+2018-05-13 11:15:23+0530 > grep -rns <RShft><Ins>
+2018-05-13 11:15:28+0530 > <Up><Left><Left><#+16> struct<Left><Left><Left><Left><Left><Left><RShft>"<End><RShft>"
+2018-05-13 11:16:02+0530 > vim co<Tab><BckSp><BckSp>lo<Tab>.<Tab>
+2018-05-13 11:16:35+0530 > <Down><#+3><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+17><Down><Down><Down><Down><Down><Down><Down><Down><#+34><Down><Down><Down><Down><#+13><Down><Down><Down><Down><#+12><Down><Down><Down><#+26><Down><Down><Down><#+33><Down><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><#+32><Down><#+27><Up><#+35><Up><Up><Up><Up><Up><Up><Up><Up><Up><#+16><Down><#+27><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+9><Down><Down><Down><Down><Down><Up><#+80><Up><Up><LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><Down><Down><Up><Up><LAlt><Tab>/linux <BckSp><RShft>_logo
+2018-05-13 11:18:02+0530 > nnnnnn<Down><#+76><Up><#+31><LAlt><Tab><Down><#+59><Down><Down><Down><#+23><Down><#+13><Down><#+10><Down><#+19><Down><#+26><Up><#+60><Down><Up><#+12><LCtrl>c
+2018-05-13 11:18:55+0530 > c
+2018-05-13 11:18:56+0530 > <LAlt><Tab><Down><#+40><Up><#+29><Down><Down>i<#+1><Right><#+19><Right>
+2018-05-13 11:19:06+0530 > <RShft><Ins><Esc><Up><Up><Up><Right><#+23><Right><Left>i<BckSp><BckSp><BckSp><BckSp>l<BckSp><CpsLk>LOCH<LAlt><Tab><LAlt><Tab>IN<LAlt><Tab><LAlt><Tab><BckSp>VAR<Right><Right><Right><Right><Right><Right><Right><Right><Right><Down><Down><Up><Up><Down><#+1><Down><Left><Left><BckSp><BckSp><BckSp><BckSp><CpsLk>lochivar<Esc><RShft>:wq
+2018-05-13 11:32:25+0530 > ls
+2018-05-13 11:32:38+0530 > <Up><Up>
+2018-05-13 11:32:45+0530 > <Down><#+19><PgDn><PgDn><PgDn><PgUp><RShft>:q
+2018-05-13 11:33:04+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><Tab><LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><Tab><Down><Down><Down><Down><Down><LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab>vim <LShft>K<Tab>
+2018-05-13 11:34:22+0530 > <Down><Down><Down><Down><Down><#+44><RShft>:q
+2018-05-13 11:34:27+0530 > <Up><Up>
+2018-05-13 11:34:29+0530 > <PgDn><PgDn><PgUp><RShft>:q
+2018-05-13 11:34:56+0530 > <Up><Up>
+2018-05-13 11:34:58+0530 > <Down><#+73><Down><Down><Down><Down><Down><Down><#+30><Up><#+70><Up><Up><Up><Up><Up><Up><#+15><Up><Up><Up><Up><Up><Up><Up><Down><#+18><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down>i
+2018-05-13 11:35:15+0530 > 
+2018-05-13 11:35:15+0530 > <LCtrl><LShft><Up><Up><Down><RShft><Ins><Del><Up><Up><Up><Right><#+25>i<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>LO<CpsLk>C<LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab>HIVAR<LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><RShft>:WQ<BckSp><BckSp><BckSp><Esc><RShft>:WQ<BckSp><BckSp><CpsLk>wq
+2018-05-13 11:36:33+0530 > <Up><Up><RShft><Up><Up><Down><Down><Down><Down><Down><Down>vim <LShft>Ma<Tab>
+2018-05-13 11:36:40+0530 > <Down><#+16><Down><Down><Down><Down><Down><Down>i<Up><Up><Up><Up><Esc><Up><Up><Up><Up><Up>yypi<Right><#+13><Up><Right><#+22><Right><Right><Right><Right>i<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft><CpsLk>LOC<LAlt><Tab><LAlt><Tab>HIVAR<Right><#+27><Right><Right><Right><Right><Right><Left><BckSp><BckSp><BckSp><BckSp><BckSp><CpsLk>lochivar<Esc><RShft>:wq
+2018-05-13 11:37:58+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><Down><Down><Down><Down><#+23><Up><Up><Up><Up><Up><Up><Up><Up><LAlt><Tab>vim ../../li<Tab><BckSp><#+14><BckSp><BckSp><BckSp>inc<Tab><Tab><BckSp><BckSp><BckSp><LAlt><Tab><LAlt><Tab>inc<Tab><Tab><Tab><Tab><Tab><Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>../../inc<Tab>lin<Tab>lin<Tab><LAlt><Tab><LAlt><Tab><Tab><Tab>u<Tab>
+2018-05-13 11:38:50+0530 > yyp<Up><Down><Down><Up><Down><Up><Up><#+4><Down><#+42>uuuuuu<Down><Down><Down><Down><#+40><Down><Down>yyp<Up><Down><Right><#+45><Right><Right><Right><Right>i<BckSp><BckSp><BckSp><BckSp><BckSp><LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab>lochivar<Esc><RShft>:wq
+2018-05-13 11:39:59+0530 > <LAlt><Tab><LAlt><Tab><Up><Down><Down><Down>vim kl<BckSp>=<BckSp><BckSp>==<BckSp><BckSp><BckSp> log<Tab>.c<Tab>
+2018-05-13 11:40:23+0530 > <Down><Down><#+60><Down><#+21><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+13><Up><#+73><Up><#+22><Up><Up><Up><Up><Down><#+41><Down><#+1><Down><Down><Down><Down><Down><Down><Down><Up><Down><#+22><Down><Up><#+35>/extern
+2018-05-13 11:41:03+0530 > <RShft>:wq<BckSp><BckSp>q
+2018-05-13 11:41:06+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><LAlt><Tab>cd ../../..<BckSp><BckSp>
+2018-05-13 11:41:31+0530 > cd ..
+2018-05-13 11:41:33+0530 > <LShft>export <LShft>A<CpsLk>r<BckSp><CpsLk>RCH=<LShft>arj<BckSp>m
+2018-05-13 11:41:48+0530 > makeme<BckSp><BckSp> menuconfig<BckSp><BckSp><BckSp>fig<LCtrl><LShft>c
+2018-05-13 11:42:11+0530 > <Up><Down><Down>mam<BckSp><BckSp>a<BckSp>ake menuconfig
+2018-05-13 11:42:23+0530 > /<RShft><Ins>
+2018-05-13 11:42:32+0530 > 
+2018-05-13 11:43:06+0530 > /logo<RShft>_kub<BckSp><BckSp><BckSp>lib<BckSp>
+2018-05-13 11:43:13+0530 > 
+2018-05-13 11:43:26+0530 > <Right>
+2018-05-13 11:43:28+0530 > <Right>
+2018-05-13 11:43:33+0530 > <Up>
+2018-05-13 11:43:35+0530 > <Down><Down>/<Up><Up><Down><Down><RShft><Ins>
+2018-05-13 11:43:41+0530 > <Esc><Esc><Esc><Esc><Esc><Esc><Esc><Esc><Right>
+2018-05-13 11:43:48+0530 > vun <BckSp><BckSp><BckSp><BckSp>cd kub<Tab><BckSp><BckSp><BckSp>d<Tab>vude<BckSp><BckSp><BckSp>ide<Tab>lo<Tab>
+2018-05-13 11:44:02+0530 > ls
+2018-05-13 11:44:02+0530 > vim <LShft>K<Tab>
+2018-05-13 11:44:05+0530 > <RShft>:q
+2018-05-13 11:44:33+0530 > <Down><#+55><PgDn><PgDn><PgDn><PgDn>/<BckSp><LCtrl>flogo<BckSp><BckSp><BckSp><BckSp><LAlt><Tab><RShft><LAlt><Tab>cd ../../..
+2018-05-13 11:45:41+0530 > cd ..
+2018-05-13 11:45:44+0530 > sou<Tab>bu<Tab>/e<Tab>
+2018-05-13 11:45:48+0530 > lunch 10
+2018-05-13 11:45:55+0530 > makem<BckSp> biit<BckSp><BckSp><BckSp><BckSp>booot<BckSp><BckSp>t <BckSp>image
+2018-05-13 11:46:12+0530 > <RCtrl><RShft><Up><Up><#+195><Down><#+2>vim ke<Tab>ser<BckSp><BckSp><BckSp>dr<Tab>vid<Tab>lo<Tab><LShft>K<Tab>
+2018-05-13 11:51:22+0530 > <Down><#+29><Down><Down><Down><Down><Down><Down><Up><#+11><Down><Down><Up><Up><Up><#+1><Up><Up><Right><Down><Right><#+21><RShft>*<RShft>:q
+2018-05-13 11:51:53+0530 > cd ke<Tab>dr<Tab><#+1>vid<Tab>lo<Tab>
+2018-05-13 11:52:00+0530 > gr<Tab>p<BckSp>e<Tab>p<Tab> -rns <RShft><Ins>
+2018-05-13 11:52:07+0530 > vim lo<Tab><BckSp><BckSp><BckSp><BckSp><LShft>K<Tab>
+2018-05-13 11:52:31+0530 > <Down><#+26><Down><Down><Down><Up><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><#+54><RShft>:q
+2018-05-13 11:52:57+0530 > cdc <BckSp><BckSp> ../../..
+2018-05-13 11:53:04+0530 > make menuconfig
+2018-05-13 11:53:10+0530 > <Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+1><RShft>/<RShft><Ins><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>L<LShft>OC
+2018-05-13 11:53:26+0530 > <Esc>
+2018-05-13 11:53:40+0530 > <Up><Up><Up><Down><Down><Down><Down><Down><RShft>
+2018-05-13 11:53:45+0530 > <Down><#+19><Up><Up><Up><Up><Down><#+14><Down><#+18><Up><Down><#+12><Down><Down><Down><#+27><Up><#+17><Up><Up>
+2018-05-13 11:53:59+0530 > <RShft><Down><#+25><Down><Down><Down><Down><Down><Down><Down><Down><Up><Up><Up><Up><Up><Up><Up><#+6><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><#+34>
+2018-05-13 11:54:11+0530 > <Down><Down><Down><Down><Down><Up><Up><Up><Up><Down><Down><Down><Down><Down><Up><Up><Down><Down><Up>/<RShft><Ins><BckSp><#+16><BckSp>oc
+2018-05-13 11:54:57+0530 > <RShft>:q<PgDn><Right>
+2018-05-13 11:55:12+0530 > <Right><PgDn>
+2018-05-13 11:55:13+0530 > <Right>
+2018-05-13 11:55:13+0530 > <Right>
+2018-05-13 11:55:14+0530 > <Right>
+2018-05-13 11:55:15+0530 > <Up><Up><Up><Up><Down><Down><Down><#+2><Down><Up><Up><Up><Down><#+21>vim vd<BckSp><BckSp>dr<Tab>d<BckSp>vi<Tab><BckSp>di<BckSp><BckSp>ide<Tab>lo<Tab>lo<Tab><BckSp><BckSp><BckSp><BckSp><LShft>K<Tab>
+2018-05-13 11:55:38+0530 > <Down><#+27><Down><Down><Down><Down><Down><Down><Down><Up><Right><#+29><Down><Right><#+25><Right><Left>i<BckSp><BckSp><BckSp><BckSp><BckSp><LShft>L<LShft>OCHI<LShft>VA<LShft><LShft>R<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>ochivar<Esc>`<RShft>:wq
+2018-05-13 11:56:09+0530 > <RShft>:wq<BckSp><BckSp><BckSp>i<Right><Left><Left><Left><Right><Right><RShft><Esc><#+1><RShft>:wq
+2018-05-13 11:56:28+0530 > <Up><Up>
+2018-05-13 11:56:34+0530 > /
+2018-05-13 11:56:37+0530 > 
+2018-05-13 11:56:38+0530 > <Down><Down><#+19><RShft>
+2018-05-13 11:56:41+0530 > <Down><#+56><Up><Up><Up><Up><Up><Up><Up><#+6><Up><Up><Up>
+2018-05-13 11:56:46+0530 > <Down><#+16><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><Up><Down><Down><Down><Down><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down>
+2018-05-13 11:57:04+0530 > <Down><Down><Down><RShft><Right>
+2018-05-13 11:57:21+0530 > <Right>
+2018-05-13 11:57:22+0530 > <Right>
+2018-05-13 11:57:23+0530 > <Right>
+2018-05-13 11:57:23+0530 > <Right>
+2018-05-13 11:57:26+0530 > c<BckSp><BckSp>cd ..
+2018-05-13 11:57:31+0530 > <Up><RShft><BckSp><BckSp><BckSp><BckSp><BckSp>make bootimage
+2018-05-13 11:57:38+0530 > cd ke<Tab>
+2018-05-13 12:01:22+0530 > vim <BckSp>diff co<BckSp><BckSp>.con<Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><#+20>vim kd<Tab><BckSp>e<Tab>dr<Tab><BckSp><BckSp><BckSp><#+20>vim ke<Tab><BckSp><#+23>vim ke<Tab>dr<Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp> .c<BckSp><BckSp><BckSp>diff .con<Tab> /ar<Tab><BckSp><BckSp><BckSp><BckSp>a<BckSp> ar<Tab>arm/con<Tab>imx<Tab>7<Tab>a<Tab>
+2018-05-13 12:02:34+0530 > <Down><#+26><Up><Up><RShft>:q
+2018-05-13 12:02:42+0530 > <RShft>:q
+2018-05-13 12:02:45+0530 > vimd <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>cim<BckSp><BckSp><BckSp><BckSp>make menuconfig
+2018-05-13 12:03:54+0530 > /<BckSp><Esc><Esc><Down><#+18><Down><Down><Down><Down><Up><Up><Down>
+2018-05-13 12:04:03+0530 > <Down><#+58><Down><Down><Up><#+17><Up><Up><Up><Up>
+2018-05-13 12:04:09+0530 > <Down><#+35>
+2018-05-13 12:04:12+0530 > <Down><Down><Down>  <Right><Right><Right><Right><Right><Left><Left>
+2018-05-13 12:04:19+0530 > 
+2018-05-13 12:04:20+0530 > 
+2018-05-13 12:04:22+0530 > <Right><Right><Left>
+2018-05-13 12:04:27+0530 > <Right>
+2018-05-13 12:04:29+0530 > <Right>
+2018-05-13 12:04:29+0530 > <Right>
+2018-05-13 12:04:30+0530 > vim .xon<Tab><BckSp><BckSp><BckSp>c<Tab><Tab>n<Tab> /<BckSp>ar<Tab>arm/b<Tab><BckSp><BckSp><BckSp><BckSp><BckSp>cob<Tab><BckSp><Tab>n<Tab>imx<Tab>7<Tab>a<Tab>
+2018-05-13 12:04:51+0530 > <RShft>:q
+2018-05-13 12:04:54+0530 > <RShft>:q<Tab>
+2018-05-13 12:04:56+0530 > <Up><Left><#+58>diff
+2018-05-13 12:05:01+0530 > <RShft>:q<Tab>
+2018-05-13 12:05:14+0530 > cp .con<Tab> /ar<BckSp><BckSp><BckSp>ar<Tab>arm/con<Tab>in<BckSp>m<Tab><Tab>x<Tab>7<Tab>a<Tab>
+2018-05-13 12:05:36+0530 > vim <Tab><BckSp><BckSp><BckSp><BckSp><BckSp>cd ..
+2018-05-13 12:05:55+0530 > <Up><Up><Up><Up><Up><Up><Up><Up>
+2018-05-13 12:06:00+0530 > cd ke<Tab>vid<Tab><BckSp><BckSp><BckSp>d<Tab>vid<Tab>lo<Tab>
+2018-05-13 12:13:15+0530 > vi<BckSp><BckSp><BckSp>k<BckSp>ls
+2018-05-13 12:13:18+0530 > vim <BckSp><BckSp><BckSp><BckSp>mv log<Tab><RShft>_<Tab>li<Tab>c<Tab>.<Tab><BckSp><Tab>p<Tab><BckSp><#+41><LShft>M<BckSp><BckSp><BckSp><#+2><BckSp>cd ..
+2018-05-13 12:14:44+0530 > cd <BckSp><BckSp><BckSp>cd ../../..<BckSp><BckSp>
+2018-05-13 12:14:50+0530 > make menuconfig
+2018-05-13 12:14:56+0530 > <Down><Down><Down><Down><Down><#+16><Down>
+2018-05-13 12:15:00+0530 > <Down><#+56><Up><#+19>
+2018-05-13 12:15:04+0530 > <Down><#+32>
+2018-05-13 12:15:06+0530 > <Down><Down><Down><Down> <Up><Up><Down><Down><Down><Up><Up><Down><Down><Up><Up> <Down><Down><Up><Up> <Down><Down><Down><Up><Up><Up><Down><Right><Right><Right>
+2018-05-13 12:15:36+0530 > 
+2018-05-13 12:15:36+0530 > 
+2018-05-13 12:15:37+0530 > <Right>
+2018-05-13 12:15:38+0530 > <Right>
+2018-05-13 12:15:39+0530 > <Right>
+2018-05-13 12:15:39+0530 > <Right>
+2018-05-13 12:15:40+0530 > <Right>cp .con<Tab> ar<Tab>ar<Tab>m/<Tab><Tab>nb<BckSp>con<Tab>im<Tab><Tab>x<Tab>7<Tab>a<Tab>
+2018-05-13 12:16:00+0530 > cd ..
+2018-05-13 12:16:03+0530 > <Up><Up><Up><Up><Up><Up><Up><Up>
+2018-05-13 12:16:07+0530 > 3<Tab>ew<CpsLk><LShft>z<LCtrl>X<LMeta><PgDn><PgDn><Up><Left><PgUp><RCtrl><AltGr> B<LAlt>V<LMeta>CXZ<LShft><CpsLk><Tab>q2w3e78t<F10>6y9<F11>80<F12>-i9<Home>o=<Ins><BckSp>[=]\<LShft><LCtrl><BckSp><#+39><Del><#+37>zs10062013
+2018-05-14 11:31:48+0530 > cd ..
+2018-05-14 11:33:51+0530 > cd ..
+2018-05-14 11:33:54+0530 > cd ..
+2018-05-14 11:33:55+0530 > cd ../..
+2018-05-14 11:33:59+0530 > <LAlt><Tab><LAlt><Tab>cd <RShft>~/i<Tab><Tab><RShft>N=<BckSp><BckSp><RShft><RShft>M<Tab><Tab><Tab><RShft><RShft>Z<Tab>i<Tab>l<BckSp>
+2018-05-14 11:34:27+0530 > ls
+2018-05-14 11:34:27+0530 > cd p<Tab>a<Tab>
+2018-05-14 11:34:33+0530 > ls
+2018-05-14 11:34:33+0530 > cd ../
+2018-05-14 11:34:37+0530 > cd p<Tab>r<Tab><Tab><Tab>pa<Tab>
+2018-05-14 11:34:47+0530 > ls
+2018-05-14 11:34:47+0530 > cd c<Tab>o<Tab><BckSp>p<Tab>
+2018-05-14 11:34:54+0530 > ls
+2018-05-14 11:34:55+0530 > v<BckSp><BckSp><BckSp>cd ..
+2018-05-14 11:34:59+0530 > ls
+2018-05-14 11:34:59+0530 > 
+2018-05-14 11:35:05+0530 > 
+2018-05-14 11:35:05+0530 > 
+2018-05-14 11:35:05+0530 > 
+2018-05-14 11:35:05+0530 > cd ..
+2018-05-14 11:35:06+0530 > ls
+2018-05-14 11:35:07+0530 > cd li<Tab>
+2018-05-14 11:35:10+0530 > ks<BckSp><BckSp>ls
+2018-05-14 11:35:12+0530 > cd ar<Tab>ar<Tab>n<BckSp>m/d<Tab>t<BckSp><BckSp>b<Tab>dt<Tab>
+2018-05-14 11:35:22+0530 > vim p<Tab><Tab>a<Tab>s<Tab>
+2018-05-14 11:35:28+0530 > 
+2018-05-14 11:35:29+0530 > <PgDn><PgDn>/s<BckSp>tsc
+2018-05-14 11:35:38+0530 > <Down><#+7><Down><Down><Down><Down><Right><#+19>/<RShft>GOU<BckSp><BckSp><RShft>PIO5<RShft>_<RShft>IO2
+2018-05-14 11:36:26+0530 > /<Up><BckSp><BckSp><BckSp>
+2018-05-14 11:36:31+0530 > <Down><#+2>/<Up><Up><Left>0
+2018-05-14 11:36:39+0530 > nnn<Up><Up><Up><#+34><Up><Up><#+22><F5><F5><F5><Down><#+70><Down><Down>/<LShft>tsc
+2018-05-14 11:58:25+0530 > <LAlt><Tab><LAlt><Tab><Tab><LCtrl>c
+2018-05-14 12:14:59+0530 > c
+2018-05-14 12:14:59+0530 > c
+2018-05-14 12:14:59+0530 > <LCtrl>vgooglw
+2018-05-14 12:19:56+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>memtool for an<BckSp><BckSp>android
+2018-05-14 12:21:40+0530 >  <Esc><Right><#+23><Right><#+4><Down><Down><Down><Down><Down><LCtrl>fmemtool<Down><#+19><Down><Down><Down><#+17><Down><Down><Down><#+15><Down><Up><#+20><Up><Up><#+18><Up><Up><#+17><Down><#+14><Down><Down><Down><Down><#+14><Up><#+19><Down><Down> mar<Up>
+2018-05-14 12:23:41+0530 > <Down><#+14><Down><Down><#+12><Down><Down><Down><Down><Down><Up><Up><Up><Up><Up><Up><#+31><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+11><Down><#+7><Down><Down><LCtrl>f
+2018-05-14 12:27:31+0530 > 
+2018-05-14 12:27:38+0530 > 
+2018-05-14 12:27:39+0530 > 
+2018-05-14 12:27:39+0530 > 
+2018-05-14 12:27:40+0530 > 
+2018-05-14 12:27:44+0530 > 
+2018-05-14 12:27:45+0530 > 
+2018-05-14 12:27:46+0530 > 
+2018-05-14 12:27:47+0530 > 
+2018-05-14 12:27:48+0530 > 
+2018-05-14 12:27:48+0530 > 
+2018-05-14 12:27:48+0530 > 
+2018-05-14 12:27:49+0530 > 
+2018-05-14 12:27:49+0530 > 
+2018-05-14 12:27:49+0530 > 
+2018-05-14 12:27:49+0530 > 
+2018-05-14 12:27:50+0530 > 
+2018-05-14 12:27:50+0530 > 
+2018-05-14 12:27:50+0530 > 
+2018-05-14 12:27:50+0530 > <PgDn><#+1><Down><Down><#+15><Down><Down><Down><Down><Down><Down><#+14><Down><Down><Down><#+2><Down><Down><Down><Down><Down><Down><Down><#+3><Down><Down><Down><Down><Down><Down><#+7><Down><LCtrl>fmemtoo<Down><Down><#+16><BckSp><BckSp><BckSp>
+2018-05-14 12:30:20+0530 > 
+2018-05-14 12:30:21+0530 > 
+2018-05-14 12:30:22+0530 > 
+2018-05-14 12:30:22+0530 > 
+2018-05-14 12:30:22+0530 > <Down><Down><Down><Down><LCtrl>f
+2018-05-14 12:30:48+0530 > 
+2018-05-14 12:30:50+0530 > 
+2018-05-14 12:30:50+0530 > 
+2018-05-14 12:30:50+0530 > 
+2018-05-14 12:30:51+0530 > 
+2018-05-14 12:30:51+0530 > 
+2018-05-14 12:30:51+0530 > 
+2018-05-14 12:30:51+0530 > 
+2018-05-14 12:30:51+0530 > 
+2018-05-14 12:30:51+0530 > 
+2018-05-14 12:30:52+0530 > 
+2018-05-14 12:30:52+0530 > 
+2018-05-14 12:30:52+0530 > 
+2018-05-14 12:30:52+0530 > 
+2018-05-14 12:30:53+0530 > 
+2018-05-14 12:30:53+0530 > 
+2018-05-14 12:30:53+0530 > <Down><Down><#+13><Up><Down><#+13><Up><Up><#+12><Down><Down><Down><Down><Down><Down><Down><Down><#+3><Down><LCtrl>fmemtoll<BckSp>o<BckSp><BckSp>ol
+2018-05-14 12:31:59+0530 > 
+2018-05-14 12:32:02+0530 > <Down><Down><Down><Down><Down><Down><Down><Down><Down><#+28><Down><Up><#+39><Down><#+6><Up><Down><#+41><Down><Down><Down><Down><Down><Down><Down><Down><Down>zs10062013
+2018-05-14 21:39:39+0530 > zs10062013
+2018-05-16 20:11:11+0530 > zs10062013
+2018-05-17 18:33:43+0530 > 

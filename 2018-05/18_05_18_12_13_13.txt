@@ -1,0 +1,4 @@
+Logging started ...
+
+2018-05-18 00:13:13+0530 > cart <BckSp><BckSp><BckSp>t /pro<Tab>par<Tab>i<BckSp>
+2018-05-18 00:14:01+0530 > 
