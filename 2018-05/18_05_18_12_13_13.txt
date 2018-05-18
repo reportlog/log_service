@@ -1,4 +1,153 @@
 Logging started ...
 
 2018-05-18 00:13:13+0530 > cart <BckSp><BckSp><BckSp>t /pro<Tab>par<Tab>i<BckSp>
-2018-05-18 00:14:01+0530 > 
+2018-05-18 00:14:01+0530 > cat /pro<Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>/mount<Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>moun<Tab><Up><BckSp><BckSp><BckSp><#+16><BckSp><BckSp><BckSp><#+19>mount
+2018-05-18 00:14:50+0530 > df
+2018-05-18 00:14:53+0530 > mount
+2018-05-18 00:15:41+0530 > <RShft>How to check the start and end sector in <RShft>Linux
+2018-05-18 00:16:11+0530 > <Up><Down><#+15><Down><#+12><LCtrl>c
+2018-05-18 00:16:37+0530 > <LAlt><Tab><LShft><Ins>
+2018-05-18 00:16:40+0530 > <LAlt><Tab><Down><#+15><Down><#+15><LCtrl>c
+2018-05-18 00:17:22+0530 > <LAlt><Tab><LShft><Ins>
+2018-05-18 00:17:25+0530 > <LAlt><Tab><Down><Down><Down><Down><Down><#+11><Down><Down><LCtrl>c
+2018-05-18 00:17:50+0530 > <LAlt><Tab>cat <LShft><Ins>
+2018-05-18 00:17:54+0530 > <PgUp><Up><BckSp><#+16><Tab><Tab><Tab>sg<Tab><Tab><BckSp>t<Tab>
+2018-05-18 00:19:41+0530 > <Up><BckSp><BckSp><BckSp><BckSp><BckSp><LAlt><Tab><Down><#+25><Down><#+7><Down><Down><Down><#+12><Down><#+20><Down><Up><Down><#+18><Down><#+6><Up><#+15><Up><#+4><Down><Down><Down><#+14><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+20><Down><#+16><Down><Down><#+7><Down><#+9><Down><#+7><Down><#+4><Down><#+6><Down><#+12><Down><#+11><Down><Up><#+2><Down><#+17><Down><#+15><Down><#+13><Down><#+12><Down><#+14><Down><#+13><Down><Down><Down><LAlt><Tab>
+2018-05-18 00:23:22+0530 > <Up><Up>
+2018-05-18 00:23:26+0530 > cd<Up><Left><#+23><Left><Left><Left><Left><Left><Right><BckSp><BckSp>cd<BckSp><BckSp>d<Right><#+29><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>
+2018-05-18 00:23:35+0530 > ls
+2018-05-18 00:23:37+0530 > cat r<Tab><Tab>a<Tab>
+2018-05-18 00:24:26+0530 > cd sd<Tab>1<Tab>
+2018-05-18 00:28:16+0530 > ls
+2018-05-18 00:28:17+0530 > cat pa<Tab>
+2018-05-18 00:30:40+0530 > cd <BckSp><BckSp><BckSp><BckSp><BckSp>cat al<Tab>
+2018-05-18 00:30:47+0530 > <Up><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>si<Tab>
+2018-05-18 00:30:56+0530 > <Up><BckSp><BckSp><BckSp><BckSp>t<Tab>`<BckSp><Tab><BckSp><Tab>t
+2018-05-18 00:31:04+0530 > df
+2018-05-18 00:31:09+0530 > cd /<BckSp><RShft>~/<Tab><Tab>i<Tab><RShft>M<Tab><RShft>x<Tab><Tab><Tab><RShft>Z<Tab><RShft>C<Tab><Tab><Tab>re<Tab><Tab>
+2018-05-18 00:33:31+0530 > cd d<Tab><Tab>m<Tab>m<Tab><Tab><Tab>ho<Tab>
+2018-05-18 00:33:41+0530 > ls
+2018-05-18 00:33:41+0530 > vim <LShft><Ins>
+2018-05-18 00:33:57+0530 > /<RShft><Up>Z<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><RShft>Zumi
+2018-05-18 00:34:04+0530 > <RShft>:q
+2018-05-18 00:34:05+0530 > 
+2018-05-18 00:34:05+0530 > grep <RShft>Zumi <RShft>* -r
+2018-05-18 00:34:09+0530 > vjm <BckSp><BckSp><BckSp>im s<Tab>dh<Tab>c<BckSp>.c<Tab>
+2018-05-18 00:34:16+0530 > /<RShft>ZU<BckSp>umi
+2018-05-18 00:34:19+0530 > n<Down><#+23><Down><#+19><Down><#+9><Down><#+14><Down><#+12><Down><Up><Up><Up><Up><Up><Up><Up><RShft>*<Down><#+20><Down><Down><Down><Down><#+13><Down><#+13><Down><#+9><Down><#+5><Down><#+18><Down><#+17><Down><#+11><Down><#+16><Down><#+21><Down><#+28><Down><#+21><Down><#+15><Down><#+16><Down><#+25><Down><#+12><Down><#+21><Down><#+21><Up><#+13><Up><Up><Up><Up><Up><Up><Down><Down><Right><#+16><Right><Down><Right><#+28><RShft>*nnn<RShft>:q
+2018-05-18 00:41:51+0530 > 
+2018-05-18 00:41:51+0530 > 
+2018-05-18 00:41:51+0530 > grep <LShft><Ins> <RShft>* -r
+2018-05-18 00:41:55+0530 > <Up><Up><Down><Down>vim shd<BckSp><BckSp>dhc<Tab>.<Tab>h<Tab>
+2018-05-18 00:42:07+0530 > /<LShft><Ins>
+2018-05-18 00:42:08+0530 > <Down><Down><Down><Up><Up><Up><Up><Up><Up><Up><RShft>:q
+2018-05-18 00:42:15+0530 > <Up><Up><Up>
+2018-05-18 00:42:17+0530 > nn<Up><#+16><Up><#+21><Up><#+5><Up><Up><#+24><Up><#+24><Up><#+38><Up><#+38><Up>n<RShft>:q
+2018-05-18 00:44:17+0530 > <Up><Up>
+2018-05-18 00:44:19+0530 > <Down><#+35><Down><Down><Down><Down><Down><Down><#+13><Down><Down><#+20><Down><#+13><Up><#+27><Up><Up><Up><Up><Up><RShft>:q
+2018-05-18 00:44:32+0530 > 
+2018-05-18 00:44:33+0530 > 
+2018-05-18 00:44:33+0530 > 
+2018-05-18 00:44:33+0530 > 
+2018-05-18 00:44:33+0530 > <Up><Up>
+2018-05-18 00:45:24+0530 > nn<Up><Up><Up><#+1><Down><Down><Left><#+25><RShft>*<Up><#+55><Down><#+12>n<Down><Down><Down><Down><Down>nnnnnn<Down><Up><#+18><Down><Down><Down><Down><#+14>nnn<Up><Up>i
+2018-05-18 00:46:32+0530 > <Up><LCtrl><Ins><LShft><Ins><Up><Up><Up><Right><Right><Right><Right><Right><Right>  pi<BckSp>rintk<RShft>("<Del><#+12><Del><Del><Del>d<PgDn><#+5><PgUp><Up><#+26><Up><Up><Up><Right><Up><Right><#+18> = <RShft>%d \r\n<RShft>",<RShft>)
+2018-05-18 00:47:08+0530 > <Tab><Down>printk<RShft>(<RShft>"<Del><Del><Del><Right><#+20> = <RShft>%d \r\n<RShft>",<Del><#+9><Del><Del><Del><Del><Del><Del><Del><Down><Down><Down><Down><Down><Down><Down><Down><Down><Left><#+38><Left><Left><LShft><Ins><Del><Del><Del><Del><Del><Del><Del><#+19><Del><Del><Del><Del><Right><#+29><Right><Right> = <RShft>%d \r\n<RShft>", <Down><Esc><#+1>dd<Up><Up><Up><Right><#+45><Right><Right><LShft><Ins><Esc><#+1>ui<LShft><Ins><Down><Left><Left><Down><Down><Down><Down><Up> <LShft><Ins><BckSp><Down><Left><Up><#+17><Down><LShft><Ins><Esc><RShft>:w<RShft>!
+2018-05-18 00:48:39+0530 > <LCtrl><LShft>Tcd ../../../
+2018-05-18 00:48:53+0530 > 
+2018-05-18 00:48:54+0530 > 
+2018-05-18 00:48:54+0530 > 
+2018-05-18 00:48:54+0530 > 
+2018-05-18 00:48:54+0530 > im<BckSp><BckSp>boo<BckSp><BckSp><BckSp>i<RShft>Mx<BckSp><BckSp><BckSp>buil<BckSp><BckSp><BckSp><BckSp>mfg<BckSp><LCtrl>c
+2018-05-18 00:50:07+0530 > <LAlt><Tab><LShft><Ins>
+2018-05-18 00:50:12+0530 > 
+2018-05-18 00:50:12+0530 > 
+2018-05-18 00:50:12+0530 > make -j4
+2018-05-18 00:50:25+0530 > <LAlt><Tab>vim <LShft><Ins>
+2018-05-18 00:51:39+0530 > 
+2018-05-18 00:51:40+0530 > /<LShft><Ins>
+2018-05-18 00:51:42+0530 > <Right><#+50>i<Right>;<Esc><RShft>:wq<RShft>!
+2018-05-18 00:51:50+0530 > <Up><Up>
+2018-05-18 00:51:53+0530 > df
+2018-05-18 00:52:26+0530 > cp ar<Tab>ar<Tab>m<Tab>/bo<Tab>z<RShft>I<Tab>/m<Tab>e<Tab><RShft>zu<Tab><RShft>F<Tab>
+2018-05-18 00:52:43+0530 > umount /me<Tab>
+2018-05-18 00:52:47+0530 > calc50000000<Esc>1/50000000
+2018-05-18 00:54:04+0530 > cd -
+2018-05-18 00:57:11+0530 > 
+2018-05-18 00:57:11+0530 > 
+2018-05-18 00:57:12+0530 > 
+2018-05-18 00:57:12+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><BckSp><BckSp><BckSp><BckSp><BckSp>vim s<Tab>d<Tab><Tab>h<Tab>.c<Tab>
+2018-05-18 00:57:24+0530 > 
+2018-05-18 00:57:25+0530 > n<Down><#+33><Down><#+14><Down><#+17><Down><#+16><Down><#+22><Down><#+20><Down><#+23><Down><#+18><Down><#+8><Down><#+9><Down><#+19><Down><#+11><Down><#+21><Down><Down><#+13><Down>/pio
+2018-05-18 00:57:53+0530 > <Down>nnnnnnnnnnnnn<Down><#+37><Down><#+12><Down><Down><Down><Down><Down><Down><Down>zs10062013
+2018-05-18 10:02:31+0530 > y
+2018-05-18 10:03:00+0530 > vinoth<Down>
+2018-05-18 10:11:03+0530 > 
+2018-05-18 10:11:03+0530 > 
+2018-05-18 10:11:05+0530 > vinothiloveyou
+2018-05-18 10:11:14+0530 > <Down><Down><#+8><Down><Down><Down><#+25><LCtrl>x<LCtrl>v<LAlt><Tab><LAlt><Tab>createwatchdogtumer<BckSp><BckSp><BckSp><BckSp>imer
+2018-05-18 10:16:02+0530 > <LCtrl>our owncode for start and stop the watchdog
+2018-05-18 10:16:34+0530 >  in c
+2018-05-18 10:16:42+0530 > <Down><#+35><Down><#+35><Down><#+16><Down><#+30><Up><Up><#+15><Down><Down><#+17><Down><#+26><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+20><Down><#+23><Down><Down><#+47><Up><Up><Up><Down><#+33><Down><Down><Down><Down><#+10><Down><#+23><Down><Down><Down><Down><Down><Down><Down><#+23><Down><#+36><Down><Down><Down><#+9><Down><Down><Down><#+3><Down><Down><#+10><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+11><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+16><LCtrl><Down><Down><Down><#+16><Up><#+26><Down><#+14><Down><Down><#+2><Down><Down><Down><Down><Down><Down><#+16><Down><Down><Down><#+14><Down><Down><Down><#+9><Down><#+2><Down><#+20><Down><#+2><Down><Down><Down><Down><Down><#+8>start 
+2018-05-18 10:22:11+0530 > <Down><Down><Down><Down><#+19><Down><#+10><Down><Up><#+31><BckSp> in m<BckSp><BckSp><BckSp>n wince
+2018-05-18 10:22:42+0530 > <Del>
+2018-05-18 10:22:51+0530 > <Down><#+20><Down><Down><Down><Down><#+18><Down><#+14><Down><#+12><Up><Up><Up><Up><Up><Up><Down><Up><#+21>zs1006<F7><BckSp><#+16>zs10062013
+2018-05-18 14:34:05+0530 > <LCtrl><LShft>Tsudo fdisk /de<Tab>d<Tab><Tab>b
+2018-05-18 14:34:31+0530 > zs10062013
+2018-05-18 14:34:35+0530 > d
+2018-05-18 14:34:38+0530 > d
+2018-05-18 14:34:40+0530 > n
+2018-05-18 14:34:43+0530 > p
+2018-05-18 14:34:45+0530 > 
+2018-05-18 14:34:45+0530 > 
+2018-05-18 14:34:46+0530 > 
+2018-05-18 14:34:47+0530 > w
+2018-05-18 14:34:48+0530 > di<Up><BckSp><Tab><Tab>b
+2018-05-18 14:35:25+0530 > d
+2018-05-18 14:35:26+0530 > d
+2018-05-18 14:35:28+0530 > n
+2018-05-18 14:35:30+0530 > p
+2018-05-18 14:35:32+0530 > 
+2018-05-18 14:35:33+0530 > 
+2018-05-18 14:35:33+0530 > 
+2018-05-18 14:35:33+0530 > w
+2018-05-18 14:35:35+0530 > cd ../../../../u<Tab>
+2018-05-18 14:36:15+0530 > ls
+2018-05-18 14:36:16+0530 > sudo dd if=u<Tab>.<Tab><BckSp><#+16><BckSp><#+35><BckSp><LAlt><Tab>cd /me<Tab><Tab><Tab><Tab><LAlt><Tab><LShft>F<Tab><Tab><Tab>s<BckSp>/<Tab><Tab><BckSp><Tab><Tab> <Tab>/<Tab><Tab><BckSp><BckSp>s<Tab><BckSp><LShft>S<Tab><Tab><Tab><Tab><Tab><Tab><BckSp><#+32><BckSp>
+2018-05-18 14:38:10+0530 > ls
+2018-05-18 14:38:12+0530 > cd <LShft>S<Tab><RShft>
+2018-05-18 14:38:21+0530 > ls
+2018-05-18 14:38:22+0530 > cd ..
+2018-05-18 14:38:25+0530 > <LCtrl>x<LCtrl>vls
+2018-05-18 14:38:48+0530 > sudo dd if <BckSp>=<Tab>u<Tab> of=/de<Tab>sd<Tab><Tab>c bs=512 seek=2 conv=fsync
+2018-05-18 14:39:28+0530 > sync
+2018-05-18 14:39:30+0530 > cd 
+2018-05-18 14:39:33+0530 > <LCtrl>x<LCtrl>v<LAlt><Tab>cd <LShft>De<Tab>
+2018-05-18 14:43:57+0530 > sudo fdisk /de<Tab>d<Tab><Tab>b
+2018-05-18 14:44:08+0530 > d
+2018-05-18 14:44:09+0530 > d
+2018-05-18 14:44:12+0530 > n
+2018-05-18 14:44:14+0530 > 
+2018-05-18 14:44:15+0530 > 
+2018-05-18 14:44:17+0530 > 
+2018-05-18 14:44:17+0530 > 
+2018-05-18 14:44:18+0530 > w
+2018-05-18 14:44:19+0530 > <Up>
+2018-05-18 14:44:40+0530 > n
+2018-05-18 14:44:43+0530 > 
+2018-05-18 14:44:44+0530 > 
+2018-05-18 14:44:44+0530 > 
+2018-05-18 14:44:45+0530 > 
+2018-05-18 14:44:46+0530 > w
+2018-05-18 14:44:47+0530 > sudo dd if=/<BckSp>u<Tab> of <BckSp>=/de<Tab>sd<Tab><Tab>b bs=512 of=<BckSp><BckSp><BckSp>conv=fsync
+2018-05-18 14:45:30+0530 > sync
+2018-05-18 14:45:33+0530 > <Up><Up><Up><BckSp><Tab><Tab>b
+2018-05-18 14:47:53+0530 > n
+2018-05-18 14:47:56+0530 > 
+2018-05-18 14:47:57+0530 > 
+2018-05-18 14:47:59+0530 > 
+2018-05-18 14:47:59+0530 > 
+2018-05-18 14:48:01+0530 > w
+2018-05-18 14:48:02+0530 > <Up><Up><Up><Up><Down><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left>seek =2 <Left><Left><Left><BckSp>
+2018-05-18 14:48:34+0530 > sync
+2018-05-18 14:48:36+0530 > 
