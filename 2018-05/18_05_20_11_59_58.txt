@@ -1,0 +1,10 @@
+Logging started ...
+
+2018-05-20 11:59:58+0530 > 
+2018-05-20 12:00:47+0530 > <CpsLk><CpsLk>z4vd8xy8
+2018-05-20 12:01:07+0530 > <LShft>z4vd8xy8
+2018-05-20 12:01:36+0530 > <LShft>Z4<LShft>VD8<LShft>X<LShft>Y8
+2018-05-20 12:02:04+0530 > <CpsLk><CpsLk>z4vd8xy8<Esc><Esc><Esc><Esc><Esc><LCtrl><LMeta><Esc><Esc><Esc><Esc><Esc><Esc><Esc><Esc><#+6><Esc><#+5><Esc><#+4><Esc><#+1><Esc><Esc><Esc><Esc><Esc><Esc><Esc><Esc><Esc><Esc>
+
+Logging stopped at 2018-05-20 12:10:00+0530
+
