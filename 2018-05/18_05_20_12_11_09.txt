@@ -1,0 +1,11 @@
+Logging started ...
+
+2018-05-20 12:11:09+0530 > 4vd8xy8
+2018-05-20 12:11:21+0530 > <LShft>Z<BckSp><BckSp>z8<BckSp>4vd8xy8
+2018-05-20 12:11:47+0530 > <CpsLk><CpsLk>z4vd8xy8<CpsLk><CpsLk>z4vd8xy8z4vd8xy8
+2018-05-20 12:22:27+0530 > z4vd8xy8z4vd8xy8z
+2018-05-20 12:37:19+0530 > z4vd8xy8z4vd8xy8z4vd8xy8
+2018-05-20 13:00:53+0530 > 
+
+Logging stopped at 2018-05-20 15:54:54+0530
+
