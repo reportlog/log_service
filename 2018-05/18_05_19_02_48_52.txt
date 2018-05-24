@@ -1,0 +1,77 @@
+Logging started ...
+
+2018-05-19 14:48:52+0530 > 2013
+2018-05-19 14:48:54+0530 > go<BckSp><BckSp>zy<BckSp><BckSp>zy<BckSp><BckSp>zyn<BckSp><BckSp><BckSp>zy<BckSp><BckSp>zy<BckSp><BckSp>zynq<Down><Right>
+2018-05-19 14:50:12+0530 > <Down><#+29><Down><#+5><Up><#+2><Up><Up><Down><#+11><Down><#+25><Down><#+12><Down><#+15><Down><#+3><Down><#+6><Down><#+14><Down><#+15><Down><#+16><Down><#+15><Down><Down><#+11><Down><#+14><Down><Down><#+11><Down><#+9><Down><#+12><Down><#+11><AltGr><Menu><Menu><Menu>zumi
+2018-05-23 12:54:43+0530 > zs10062013
+2018-05-23 13:53:05+0530 > <BckSp><Down><Down><Down><Right>
+2018-05-23 13:53:25+0530 > <BckSp><Left>
+2018-05-23 13:53:29+0530 > <BckSp><Right><Right><Right><Right><Up>
+2018-05-23 13:53:32+0530 > <Right><Right><Right><Right><Right><Right><Right><Down><Left><Left><Left><Left><Left><Up><Right>
+2018-05-23 13:53:39+0530 > <BckSp>
+2018-05-23 13:53:41+0530 > <BckSp><BckSp><#+2><Down><Down><Down><#+14><Down><Down><Up><Up><Up><Up><Down><Left><Left><Left><Up><Up><Up><Up><Up><Up><Up><Up><Left><Left><Left>
+2018-05-23 13:53:58+0530 > <BckSp><Down><Down><BckSp><Left><Left><Left>
+2018-05-23 13:54:42+0530 > <BckSp><BckSp><BckSp><Up><Up><Up><Left>
+2018-05-23 13:54:52+0530 > <Right><Right><Right>
+2018-05-23 13:54:55+0530 > <Right><Right><Right><Right><Right><Right><Right><Down><Left><#+15><BckSp><BckSp><#+1><Right><Right><Right><Right><Left><Left><Left><Left><Left><Right><Right><Right><Left><Left><Left><Right><Right><Up><Right><Right><Right>
+2018-05-23 13:55:24+0530 > <Right>
+2018-05-23 13:55:25+0530 > <Right><Right><Right><Down><Down><Down><Right><Right><Right><Up><#+1><Up><Up><Left><Left><Left>
+2018-05-23 13:55:34+0530 > <Down><Down><Down>
+2018-05-23 13:55:37+0530 > <BckSp><Right><Right><Right><Right><Right><Down>
+2018-05-23 13:55:41+0530 > <Down><Right><Right><Right>
+2018-05-23 13:55:44+0530 > <Right>
+2018-05-23 13:55:44+0530 > <BckSp><BckSp>
+2018-05-23 13:55:46+0530 > 
+2018-05-23 13:55:46+0530 > <Right>
+2018-05-23 13:55:47+0530 > <Right>
+2018-05-23 13:55:47+0530 > <Right><Right><Right><Right><Left><Left><Left><BckSp><BckSp><BckSp><Right>
+2018-05-23 13:55:52+0530 > <BckSp><Right>
+2018-05-23 13:55:54+0530 > <BckSp><Left><Left><Left>
+2018-05-23 13:55:55+0530 > <BckSp><Left><Left><Down>
+2018-05-23 13:55:57+0530 > <BckSp><Right><Right>
+2018-05-23 13:55:59+0530 > <Right>
+2018-05-23 13:56:00+0530 > <Right><Right><Right><Right><Left><Right>
+2018-05-23 13:56:04+0530 > <BckSp><Left><Left>
+2018-05-23 13:56:05+0530 > <BckSp><BckSp><BckSp><Right>
+2018-05-23 13:56:08+0530 > <BckSp><Left><Left>
+2018-05-23 13:56:10+0530 > <BckSp><Right><Right>
+2018-05-23 13:56:12+0530 > <Right><BckSp>
+2018-05-23 13:56:12+0530 > 
+2018-05-23 13:56:13+0530 > <Right>
+2018-05-23 13:56:14+0530 > <BckSp><BckSp><Down><#+18><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><Down>
+2018-05-23 13:56:33+0530 > <Right>
+2018-05-23 13:56:35+0530 > <Right><Right><Right><Right><Right><Right><BckSp><BckSp><Left><Left><Down><Right>
+2018-05-23 13:56:41+0530 > <BckSp><Right><Right><Right><Right><Right><Up>
+2018-05-23 13:56:45+0530 > <BckSp><Left>
+2018-05-23 13:56:46+0530 > <BckSp><Left><Down>
+2018-05-23 13:56:49+0530 > <BckSp><Right><Down><#+2><Down><Down><Down><Down><Down><Up><Up><Up><BckSp><Down><#+10><Down><Down><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2018-05-23 13:57:25+0530 > <Right><#+1><Right><Right><Right><Right><Right>
+2018-05-23 13:57:31+0530 > <Right><Right><Right><Right><Right>
+2018-05-23 13:57:35+0530 > <Up><#+3><Up><Up><Up><Up><Up><Up><Up><Up><#+9><Down><#+10><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><Down><BckSp><Right><Down><Left><Left><Left><Left><Up><Down><Left>
+2018-05-23 13:58:16+0530 > <Right>
+2018-05-23 13:58:17+0530 > <Right>
+2018-05-23 13:58:17+0530 > <Right><Right><Right><Right><Right><Right><Right><Down><Left><Left><Left><Left><Down><Up><Up><Left><Left><Right><Right>
+2018-05-23 13:58:27+0530 > <Right>
+2018-05-23 13:58:28+0530 > <BckSp><BckSp><Down><Down><Left><Left>
+2018-05-23 13:58:33+0530 > <Up><Up><Right><Right>
+2018-05-23 13:58:52+0530 > <Right>
+2018-05-23 13:58:53+0530 > <Right>
+2018-05-23 13:58:54+0530 > <Right><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Up><Left>
+2018-05-23 13:59:02+0530 > <BckSp><Down><Down><Down><Up><Right><Right><Up><Right>
+2018-05-23 13:59:08+0530 > <Right>
+2018-05-23 13:59:10+0530 > <BckSp><Right>
+2018-05-23 13:59:13+0530 > <Right><Right><Right><Right><Right><Right><Left><Left>
+2018-05-23 13:59:16+0530 > <Right>
+2018-05-23 13:59:17+0530 > <BckSp><BckSp><BckSp><BckSp><Left><Left>
+2018-05-23 13:59:23+0530 > 
+2018-05-23 13:59:24+0530 > <BckSp><BckSp><#+1><Left>
+2018-05-23 13:59:34+0530 > <BckSp><Right><Right><Right><Right><Right><Right><Down><Down><Down><Up><Up><Up><Left><Left><Right>
+2018-05-23 13:59:42+0530 > <Right>
+2018-05-23 13:59:45+0530 > <#+1><Right><Right><Right>
+2018-05-23 13:59:47+0530 > <Down><#+36><Down><#+16><Down><#+13><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+12><Down><#+9><Down><#+27><Down><#+108><Up><#+47><Up><#+25><Up><#+25><Up><Down><#+25><Up><#+15>y<BckSp><#+17>santhanakumar<Left><Left><Left><Left><Left><LShft>_zumi2345582
+2018-05-23 14:01:22+0530 > saim<BckSp><BckSp><BckSp>sabre <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><Down>
+2018-05-23 14:02:04+0530 > 
+2018-05-23 14:02:05+0530 > <LCtrl><LCtrl><BckSp><BckSp><Right><Left><Left><Left><Left><Left><Left><Down><Right>
+
+Logging stopped at 2018-05-23 14:05:26+0530
+
