@@ -1,0 +1,118 @@
+Logging started ...
+
+2018-05-25 09:28:40+0530 > zs123456
+2018-05-25 09:30:05+0530 > 
+2018-05-25 09:30:06+0530 > 
+2018-05-25 09:30:07+0530 > 
+2018-05-25 09:30:07+0530 > 
+2018-05-25 09:30:08+0530 > 
+2018-05-25 09:30:08+0530 > flipcart
+2018-05-25 09:34:19+0530 > nokia 3110
+2018-05-25 09:41:32+0530 > samsung keyboad<BckSp>rd
+2018-05-25 09:42:42+0530 >  mob<Down>
+2018-05-25 09:42:55+0530 > redmi mobile
+2018-05-25 09:44:53+0530 > pongal dress
+2018-05-25 09:48:25+0530 > 
+2018-05-25 09:48:40+0530 > <BckSp>
+2018-05-25 09:48:49+0530 > vetti
+2018-05-25 09:51:30+0530 > soaps
+2018-05-25 09:51:56+0530 > today news in tamil
+2018-05-25 09:58:27+0530 > ir rece<Right> how to interface to <Down>
+2018-05-25 10:16:41+0530 > ir receiver
+2018-05-25 10:27:59+0530 > kkannan<LShft>@zumisoltion<BckSp><BckSp><BckSp><BckSp><BckSp>lution<LShft>@<BckSp><BckSp>n.com
+2018-05-25 10:34:43+0530 > syjpxembee<BckSp>dded hardware design job in bangalore
+2018-05-25 10:38:45+0530 > <Up><#+20><Up><#+17><Down><#+5><Down><#+15><Down><#+15>3.3v to <BckSp><BckSp><BckSp>3.3v to 5v matching circuit
+2018-05-25 11:06:16+0530 > level 
+2018-05-25 11:06:27+0530 > pic <BckSp><LCtrl>v <LCtrl>how to take screen shoot in windo\<BckSp><#+17>hoe <BckSp><BckSp>e<BckSp>w to take screenshot in <BckSp><#+21>how to takr <BckSp><BckSp>e se<BckSp><BckSp>creenshoot in win<Down><Down>
+2018-05-25 12:24:51+0530 > <LCtrl><LCtrl>c
+2018-05-25 13:19:21+0530 > <LCtrl>v dat<LCtrl>fcrystal
+2018-05-25 13:20:11+0530 > 
+2018-05-25 13:20:13+0530 > 
+2018-05-25 13:20:14+0530 > 
+2018-05-25 13:20:15+0530 > 
+2018-05-25 13:20:17+0530 > 
+2018-05-25 13:20:17+0530 > 
+2018-05-25 13:20:17+0530 > 
+2018-05-25 13:20:18+0530 > 
+2018-05-25 13:20:20+0530 > 
+2018-05-25 13:20:20+0530 > 
+2018-05-25 13:20:20+0530 > 
+2018-05-25 13:20:21+0530 > 
+2018-05-25 13:20:21+0530 > 
+2018-05-25 13:20:22+0530 > osc
+2018-05-25 13:20:27+0530 > 
+2018-05-25 13:20:30+0530 > 
+2018-05-25 13:20:30+0530 > 
+2018-05-25 13:20:30+0530 > 
+2018-05-25 13:20:30+0530 > 
+2018-05-25 13:20:31+0530 > 
+2018-05-25 13:20:31+0530 > 
+2018-05-25 13:20:31+0530 > 
+2018-05-25 13:20:31+0530 > 
+2018-05-25 13:20:31+0530 > 
+2018-05-25 13:20:32+0530 > 
+2018-05-25 13:20:32+0530 > 
+2018-05-25 13:20:32+0530 > <#+32>
+2018-05-25 13:20:33+0530 > <#+84>
+2018-05-25 13:20:37+0530 > 
+2018-05-25 13:20:37+0530 > 
+2018-05-25 13:20:37+0530 > 
+2018-05-25 13:20:37+0530 > 
+2018-05-25 13:20:38+0530 > 
+2018-05-25 13:20:38+0530 > 
+2018-05-25 13:20:38+0530 > 
+2018-05-25 13:20:39+0530 > 
+2018-05-25 13:20:40+0530 > 
+2018-05-25 13:20:41+0530 > 
+2018-05-25 13:20:42+0530 > 
+2018-05-25 13:20:42+0530 > 
+2018-05-25 13:20:43+0530 > 
+2018-05-25 13:20:43+0530 > 
+2018-05-25 13:20:44+0530 > 
+2018-05-25 13:20:44+0530 > 
+2018-05-25 13:20:44+0530 > 
+2018-05-25 13:20:45+0530 > 
+2018-05-25 13:20:45+0530 > 
+2018-05-25 13:20:45+0530 > 
+2018-05-25 13:20:46+0530 > 
+2018-05-25 13:20:47+0530 > 
+2018-05-25 13:20:47+0530 > 
+2018-05-25 13:20:47+0530 > 
+2018-05-25 13:20:48+0530 > <LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><BckSp>how to check clock frequency in crysta<BckSp>how to check frequency in cry<LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl>c
+2018-05-25 15:04:25+0530 > <LCtrl>v
+2018-05-25 15:04:41+0530 > <LCtrl><LCtrl>v
+2018-05-25 15:17:28+0530 > <LCtrl>fcrystal
+2018-05-25 15:23:44+0530 > 
+2018-05-25 15:23:53+0530 > 
+2018-05-25 15:23:58+0530 > 
+2018-05-25 15:24:00+0530 > 
+2018-05-25 15:24:01+0530 > 
+2018-05-25 15:24:02+0530 > 
+2018-05-25 15:24:03+0530 > 
+2018-05-25 15:24:03+0530 >  ct<BckSp>rystal oscilator supporting range
+2018-05-25 15:26:35+0530 > <LCtrl>c
+2018-05-25 15:31:46+0530 > <LCtrl>v<BckSp>
+2018-05-25 15:31:50+0530 >  <BckSp>osc<BckSp><BckSp><BckSp> oscillator<LCtrl>c
+2018-05-25 15:38:56+0530 > <LCtrl>v<LCtrl>c
+2018-05-25 15:39:44+0530 > <LCtrl><LShft><LCtrl>v<LCtrl>c
+2018-05-25 15:43:32+0530 > <LCtrl><LCtrl>v<BckSp>crystal ==<BckSp><BckSp><BckSp><Right><Right><Right><BckSp><BckSp><BckSp><BckSp><BckSp>ystal oscillator range 
+2018-05-25 15:44:07+0530 > how to increase face glow instanly
+2018-05-25 16:08:34+0530 > niveas=<BckSp><BckSp> fahow to convert black skin to banking soda
+2018-05-25 16:25:23+0530 > baking soda in tamwhat is baking used foe fair
+2018-05-25 16:34:15+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>r how to use 
+2018-05-25 16:36:28+0530 > how ready to home made face bleech
+2018-05-25 16:45:02+0530 >  using bawhere i get bankind <BckSp><BckSp>g d<BckSp>soda
+2018-05-25 16:47:10+0530 > baking soda
+2018-05-25 16:50:49+0530 >  and cooking soda uart bit error problem des<BckSp>pends on crysr<BckSp>tal oscilator
+2018-05-25 17:06:01+0530 > 7days<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><#+73>www.youtube.com
+2018-05-25 17:58:45+0530 > www.youpcb design
+2018-05-25 18:02:03+0530 > <LCtrl>c
+2018-05-25 18:05:48+0530 > <LCtrl>vwww<KP.>youtube
+2018-05-25 18:17:53+0530 > .com
+2018-05-25 18:18:03+0530 > kathi back<LCtrl>c
+2018-05-25 18:26:05+0530 > <LCtrl>v scevelayutham costylish tamone timwwwmousebasic electronic components <Down><Down><Down>
+2018-05-25 18:57:33+0530 >       youtube downloader
+2018-05-25 20:00:41+0530 > <LCtrl>c
+2018-05-25 20:01:05+0530 > <LCtrl>vbasic basic electronics1
+2018-05-25 20:05:42+0530 > basic elece<BckSp>e<BckSp>tronics2
+2018-05-25 20:06:06+0530 >   
