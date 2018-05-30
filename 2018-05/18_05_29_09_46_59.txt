@@ -1,0 +1,24 @@
+Logging started ...
+
+2018-05-29 09:46:59+0530 > zs123456
+2018-05-29 09:47:28+0530 > ne<BckSp><BckSp><BckSp>today news in tamil<Down><Down>
+2018-05-29 09:53:14+0530 > why use y<BckSp>the pullup resistance
+2018-05-29 10:02:57+0530 > mouser
+2018-05-29 10:35:32+0530 > rc2512jk-07150pcb foot print
+2018-05-29 10:37:03+0530 > pad resistance pad d<BckSp>vaiue
+2018-05-29 10:38:02+0530 > smd resistance6432 footdigikey
+2018-05-29 11:16:03+0530 > tfctfc-120-020<BckSp>-fd-lc<Left><Left><Left><Left><BckSp>
+2018-05-29 11:16:48+0530 > tfc-120-02-f-d-lc
+2018-05-29 11:17:14+0530 >  <LShft><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl>in pullup resistance which purpose to used in mo<BckSp>icrocontroll<BckSp><BckSp><BckSp><BckSp> <Right><#+19><Right><Right><Right><Right><Right><Right><Right>oller
+2018-05-29 13:21:57+0530 > gpio port supporting with otg id 
+2018-05-29 13:59:43+0530 > possible 
+2018-05-29 14:01:00+0530 > <BckSp><#+36><BckSp><BckSp><BckSp><BckSp>pin supo<BckSp>porting for ud<BckSp>sb otg id
+2018-05-29 14:03:30+0530 > <BckSp><#+25><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp> access for usb i<BckSp>otg id
+2018-05-29 14:04:31+0530 > <BckSp><#+23><BckSp><#+5><BckSp><BckSp><BckSp><BckSp><#+8><BckSp><#+19>with out id pin how can i <BckSp><BckSp><BckSp><#+13><BckSp><BckSp>dual lite reference <KP0><KP0>atlas
+2018-05-29 14:46:50+0530 > <LCtrl>f<LCtrl>f<LMeta><#+2>f<LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl>www<BckSp><BckSp><BckSp><BckSp>youtube.com
+2018-05-29 18:06:14+0530 > maraam kothpcb design
+2018-05-29 18:07:09+0530 > kalakala<Down>
+2018-05-29 18:08:35+0530 > flipcart
+2018-05-29 19:27:45+0530 > new <BckSp><#+20>microcontroller how to interface to<LCtrl>suart protocol
+2018-05-29 20:07:40+0530 > <LCtrl>slm35 <Down>
+2018-05-29 21:22:17+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>in ana<BckSp><BckSp><BckSp>digi<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp> is analog or digital
