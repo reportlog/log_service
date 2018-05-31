@@ -1,0 +1,43 @@
+Logging started ...
+
+2018-05-30 18:57:42+0530 > zs123456
+2018-05-30 19:00:27+0530 > flip<BckSp><#+16>flipcart
+2018-05-30 19:09:10+0530 > 16gb pendrive
+2018-05-30 19:09:30+0530 > card reader
+2018-05-30 19:14:37+0530 > otg cable
+2018-05-30 19:15:38+0530 >  mini
+2018-05-30 19:15:52+0530 > <BckSp><BckSp><BckSp><BckSp>
+2018-05-30 19:16:06+0530 > mo<BckSp>icro usb otg cable
+2018-05-30 19:22:17+0530 > <BckSp><#+2><BckSp><BckSp><BckSp>ni 
+2018-05-30 19:22:41+0530 > <KP8><KP6><KP8><KP0><KP0><KP5><KP9><KP3><KP3><KP4><KP1><KP1><KP0><KP5><KP1><KP9><KP9><KP4>dogwood schmatic
+2018-05-30 20:13:30+0530 > microcontroller connect with displl<BckSp>ay
+2018-05-30 20:55:46+0530 > <LShft><LCtrl>c
+2018-05-30 21:21:09+0530 > engliss<BckSp>h to 
+2018-05-30 21:21:21+0530 > <LCtrl>vgmail
+2018-05-30 21:26:40+0530 > <KP1><KP1><KP0><KP5><KP1><KP9><KP9><KP4>
+2018-05-30 21:28:00+0530 > our <BckSp><BckSp><BckSp><BckSp>my bakg<BckSp><BckSp>nk account given below<Up><Down><BckSp><BckSp><#+2><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>detials <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>yahoo 
+2018-05-30 21:34:43+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>muthukrishnan<KP8><KP6><KP8><KP0><KP0><KP5><KP9><KP3><KP3><KP4>zaba<BckSp><BckSp>account detials<BckSp><LShft>A<Right><Right><Right><Right><Right><Right><Right><Right><BckSp><LShft>Ddetials<LShft>Hi <LShft>Sir,
+2018-05-30 21:36:24+0530 > 
+2018-05-30 21:36:24+0530 > <LShft>My <LShft>Bank <LShft>Aount<BckSp><BckSp><BckSp><BckSp>ccount <LShft>Detials,
+2018-05-30 21:36:47+0530 > 
+2018-05-30 21:36:47+0530 > 
+2018-05-30 21:36:47+0530 > 
+2018-05-30 21:36:47+0530 > <LShft>Account <LShft>No <RShft><RShft>: <Left> <BckSp><KP0><KP1><KP2><KP4><KP0><KP1><KP0><KP0><KP0><KP0><KP2><KP9><KP1><KP4><KP9>
+2018-05-30 21:37:50+0530 > 
+2018-05-30 21:37:50+0530 > <LShft>IF<LShft>SC <LShft>No <RShft>: <CpsLk>IOBA<KP0><KP0><KP0><KP0><KP1><KP2><KP4><BckSp>
+2018-05-30 21:40:14+0530 > 
+2018-05-30 21:40:15+0530 > 
+2018-05-30 21:40:18+0530 > <CpsLk><LShft>Name <RShft>: <LShft>A.<LShft>Muthu <LShft>Krishnan
+2018-05-30 21:40:44+0530 > 
+2018-05-30 21:40:45+0530 > <LShft>Bank <LShft>No <RShft>: <LShft>Indian <LShft>Overseas <LShft>Bank<Left>\<BckSp><BckSp>ane<BckSp><BckSp>me
+2018-05-30 21:41:51+0530 > 
+2018-05-30 21:41:51+0530 > 
+2018-05-30 21:41:51+0530 > 
+2018-05-30 21:41:51+0530 > 
+2018-05-30 21:41:51+0530 > <LShft>Thanks<LShft>&<LShft>Regards,
+2018-05-30 21:42:03+0530 > 
+2018-05-30 21:42:03+0530 >     <LShft>A.<LShft>Muthumicrocontroller gpio pin oupt<BckSp><BckSp>tput voltage
+2018-05-30 22:04:18+0530 > 
+
+Logging stopped at 2018-05-30 22:17:59+0530
+
