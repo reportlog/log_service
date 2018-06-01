@@ -1,0 +1,25 @@
+Logging started ...
+
+2018-05-31 18:11:22+0530 > go<RShft>
+2018-05-31 18:15:47+0530 > <LShft>CBR
+2018-05-31 18:15:51+0530 > <BckSp>dina.android
+2018-05-31 18:17:11+0530 >  git<Down>
+2018-05-31 18:17:17+0530 > serial <Home>android <End> <BckSp><Down><Down><Down><Down><Down>
+2018-05-31 18:17:44+0530 > <LCtrl><PgDn>coff<Del>jee<BckSp><BckSp><BckSp><LCtrl>vco<LCtrl>vapp1<LAlt><Tab>cc<BckSp>o<LCtrl>vapp2<LCtrl><PgDn><PgDn><PgDn><PgDn><PgDn><PgDn>vim /us<Tab>lo<Tab>bin<Tab><#+1>e<Tab><#+1>
+2018-05-31 19:13:21+0530 > <LCtrl><PgUp><LCtrl><PgUp><PgUp><LCtrl><PgDn><PgDn><PgDn><Esc><RShft>:q<Tab>
+2018-05-31 19:13:45+0530 > <LCtrl><PgUp><PgDn>
+2018-05-31 19:14:06+0530 > ls
+2018-05-31 19:14:09+0530 > <LCtrl><PgUp><PgUp><PgUp>cd /
+2018-05-31 19:14:34+0530 > ls
+2018-05-31 19:14:35+0530 > ls -l
+2018-05-31 19:14:38+0530 > vim <RShft><Ins>
+2018-05-31 19:14:55+0530 > <Esc><RShft>:q<Tab>
+2018-05-31 19:14:57+0530 > <LCtrl><PgUp><PgUp><LCtrl><PgDn><PgUp><PgUp><PgDn><PgDn><PgDn>sudo vim /e<Tab><BckSp><BckSp><BckSp><BckSp>us<Tab>lo<Tab><#+2>bin<Tab><Tab><Tab>e<Tab>
+2018-05-31 19:15:23+0530 > welcome123<LShft>!@#
+2018-05-31 19:15:27+0530 > <Down><#+16><Right><#+28><Right><Right><Right><Right><Right>i<BckSp><BckSp><BckSp>ljp<Esc><RShft>:wq
+2018-05-31 19:15:36+0530 > 
+2018-05-31 19:15:37+0530 > 
+2018-05-31 19:15:37+0530 > <LCtrl><PgUp>
+
+Logging stopped at 2018-06-01 05:37:04+0530
+
