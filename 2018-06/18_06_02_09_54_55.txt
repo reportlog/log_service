@@ -1,0 +1,41 @@
+Logging started ...
+
+2018-06-02 09:54:55+0530 > zs123456
+2018-06-02 09:59:56+0530 > today news in 
+2018-06-02 10:01:51+0530 > what is deb<BckSp>what is debugig<BckSp><BckSp>ging
+2018-06-02 10:21:08+0530 >  in m<Down><Down>
+2018-06-02 10:21:19+0530 > home automation projects using www.google.com
+2018-06-02 11:22:27+0530 > tamil movies 2018 dotorrent 
+2018-06-02 11:24:58+0530 >  setami <BckSp>lri<BckSp><LCtrl>c
+2018-06-02 11:26:39+0530 > <LCtrl>v
+2018-06-02 11:26:43+0530 >  tamusb to la<LCtrl><LCtrl><LCtrl>imx6dl 
+2018-06-02 12:29:45+0530 > <BckSp><#+14>nxp
+2018-06-02 12:29:58+0530 > 
+2018-06-02 12:30:37+0530 > 
+2018-06-02 12:30:40+0530 > <LCtrl>c
+2018-06-02 12:32:15+0530 > <LCtrl>f<LCtrl>v<BckSp><BckSp><KP5><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl>sbi online
+2018-06-02 14:01:31+0530 > kannansenthil<LShft>Senthil6<LShft>@mugam
+2018-06-02 14:02:22+0530 > office<BckSp><#+18>how to get office loanworking 
+2018-06-02 14:05:02+0530 > <BckSp><#+44><LShft>Is it possible to take loan fronm off<Down>
+2018-06-02 14:05:29+0530 > what is roh<BckSp><BckSp>hos
+2018-06-02 14:35:07+0530 >  cowww.goog<BckSp><#+28>sbi online
+2018-06-02 14:45:03+0530 > kannansenthil<LShft>Senthil6<LShft>@mugam
+2018-06-02 14:45:29+0530 > 9066167980<LShft>@s
+2018-06-02 14:45:47+0530 > <KP9><KP0><KP6><KP6><KP1><KP6><KP7><KP9><KP8><KP0><RShft>@s
+2018-06-02 14:47:19+0530 > <LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl>youtuyoutube
+2018-06-02 15:54:02+0530 > athu son<BckSp><BckSp><BckSp><BckSp>tamil songs
+2018-06-02 16:40:25+0530 > mersal sceams<BckSp>azon
+2018-06-02 16:48:57+0530 > jio modem<Down><BckSp><BckSp>
+2018-06-02 16:49:27+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>sim modem with <Down><Down><Down><Down><Down><Down><Down>
+2018-06-02 16:50:30+0530 > amazon
+2018-06-02 17:23:11+0530 > silk saree
+2018-06-02 17:24:35+0530 > cycle
+2018-06-02 17:27:08+0530 > by-<Down><#+17><Down><Down><Down><Down><Down><Down><Down>
+2018-06-02 17:27:47+0530 > schooty
+2018-06-02 17:28:03+0530 > hes<BckSp>adset
+2018-06-02 17:28:34+0530 >  low <Down><Down><Up>
+2018-06-02 17:28:55+0530 > 8680059334muthu krishnan<KP8><KP6><KP8><KP0><KP0><KP5><KP9><KP3><KP3><KP4>muthu1995.be<LShft>@gmail.com<KP1><KP1><KP0><KP5><KP1><KP9><KP9><KP4><BckSp><BckSp><BckSp><KP1><KP1><KP0><KP5><KP1><KP9><KP9><KP4>
+2018-06-02 17:31:35+0530 > .be<KP8><KP6><KP8><KP0><KP0><KP5><KP9><KP3><KP3><KP4><BckSp><KP1><KP1><KP0><KP5><KP1><KP9><KP9><KP4><KP5><KP6><KP0><KP0><KP7><KP6>956,3rd floor,ns plaza16th main roadneer indian oversear  bank,<LShft>BTM 2nd stage 
+
+Logging stopped at 2018-06-02 17:52:20+0530
+
