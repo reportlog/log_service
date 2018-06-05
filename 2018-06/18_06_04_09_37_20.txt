@@ -1,0 +1,40 @@
+Logging started ...
+
+2018-06-04 09:37:21+0530 > zs123456
+2018-06-04 09:38:34+0530 > today news 
+2018-06-04 09:46:04+0530 > vao exam result
+2018-06-04 10:01:04+0530 > current tnpsc vacancy 2018<Left><Left><Left><Left><Left><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>debugging process in sam<BckSp><BckSp><BckSp>one example<BckSp><BckSp><BckSp><#+20><BckSp><BckSp><Down><Down><Down>
+2018-06-04 10:14:45+0530 > hoe<BckSp>w y<BckSp>to identify debugging pin in mice<BckSp>rocontroller
+2018-06-04 10:29:39+0530 > upcoming proh<BckSp>ject in night vision simple project m<BckSp>snsor using m<Down>
+2018-06-04 12:45:22+0530 > <LCtrl><LCtrl>green lemon benefit
+2018-06-04 14:50:15+0530 > filpkart
+2018-06-04 14:57:11+0530 > 
+2018-06-04 14:57:16+0530 > sareeflipkart<RShft>
+2018-06-04 14:59:26+0530 > sareei<BckSp>zumi<BckSp><#+25>zumi
+2018-06-04 15:05:07+0530 > 6ww.<BckSp>w.flipkart.com
+2018-06-04 16:00:19+0530 > men slip<BckSp><BckSp><#+12><BckSp><BckSp><BckSp><#+27>men silpers<BckSp><BckSp><#+9>strips
+2018-06-04 16:06:28+0530 > <BckSp><#+20>men chappals
+2018-06-04 16:06:42+0530 > mens shoes asarre<BckSp><BckSp>ees cottamazon
+2018-06-04 16:15:59+0530 > sarees
+2018-06-04 16:16:29+0530 >  cottflipkart
+2018-06-04 16:21:08+0530 > saree<Down>
+2018-06-04 16:21:21+0530 >  560076low price 
+2018-06-04 16:22:56+0530 > <BckSp><#+11><BckSp><BckSp>cotton
+2018-06-04 16:23:39+0530 > <BckSp><#+17><BckSp><#+9><BckSp>
+2018-06-04 16:26:31+0530 > \<#+17><BckSp><#+38><BckSp>
+2018-06-04 16:34:48+0530 > sbi online
+2018-06-04 16:38:05+0530 > kannansenthil6<BckSp><BckSp><BckSp><BckSp>thil<LShft><LShft>Senthil6<LShft>@mugam
+2018-06-04 16:38:29+0530 > <Right><Right><Right><Right><Right><Right>how to apll<BckSp><BckSp>ply face scurb
+2018-06-04 17:10:49+0530 > leger<BckSp>nd shop in banga<Down>
+2018-06-04 17:42:42+0530 >  btm layout
+2018-06-04 17:42:49+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp>grend awitch <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>switch 
+2018-06-04 17:43:16+0530 > <BckSp><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl>www.google.com
+2018-06-04 18:27:19+0530 > youtube
+2018-06-04 18:27:47+0530 > songs
+2018-06-04 18:41:27+0530 > rithick rloves <BckSp><BckSp> sonf<BckSp>gs
+2018-06-04 18:47:51+0530 >  english <Down>
+2018-06-04 19:25:44+0530 > thouh<BckSp>ght<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>si<BckSp>o i a<BckSp>have one doutjdjncdnvkdcflip cart
+2018-06-04 19:44:19+0530 > 
+
+Logging stopped at 2018-06-04 19:46:39+0530
+
