@@ -1,0 +1,59 @@
+Logging started ...
+
+2018-06-05 09:38:36+0530 > zs123455<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>zs123456
+2018-06-05 09:39:58+0530 > yemaka bike
+2018-06-05 09:48:56+0530 > yamaha rx100
+2018-06-05 09:53:06+0530 > lm35smaal<BckSp><BckSp>ll microcontroller projects with example
+2018-06-05 10:20:58+0530 > iob bank online transection
+2018-06-05 10:30:37+0530 > annai flour mills
+2018-06-05 10:32:37+0530 > harina
+2018-06-05 10:33:48+0530 > l<BckSp><#+7>amazon
+2018-06-05 10:34:56+0530 > redmi power<Down>
+2018-06-05 10:39:07+0530 > <KP2><KP0><KP0><KP0><KP0><BckSp>
+2018-06-05 10:39:56+0530 > shy<BckSp>udith<Down>
+2018-06-05 10:40:39+0530 > saree<Down><#+14><Down><Up><Up>
+2018-06-05 10:41:03+0530 > mackup greem
+2018-06-05 10:42:03+0530 > peet<BckSp><BckSp>tticoathalf saree
+2018-06-05 10:44:30+0530 > <BckSp><BckSp>ambient sensor interface to microcc<BckSp><Down>
+2018-06-05 10:47:43+0530 > <KP0>mathamatical small logic questions
+2018-06-05 12:23:10+0530 >  and answerssq<Down>
+2018-06-05 12:29:47+0530 >  maths  <BckSp><BckSp><BckSp><BckSp><#+31>small maths question<Down>
+2018-06-05 12:30:30+0530 > g
+2018-06-05 12:39:40+0530 > gmail
+2018-06-05 12:41:30+0530 > muthu1995.be
+2018-06-05 12:41:41+0530 > <KP1><KP1><KP0><KP5><KP1><KP9><KP9><KP4>
+2018-06-05 12:41:45+0530 > go
+2018-06-05 12:42:24+0530 > <BckSp>ima<BckSp><BckSp><BckSp><BckSp>g
+2018-06-05 12:43:36+0530 > <BckSp><BckSp><#+11><BckSp><#+15>ambient lih<BckSp>ght sensor working 
+2018-06-05 12:54:17+0530 > english<Down><Down>
+2018-06-05 13:09:17+0530 > similar<BckSp><Del><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>ambient light sensor concepts
+2018-06-05 13:10:45+0530 > <LCtrl>c
+2018-06-05 13:18:11+0530 > <LCtrl>v<BckSp><LCtrl>c
+2018-06-05 13:20:14+0530 > <LCtrl>vambient b<BckSp>light sensor how  wo<BckSp><BckSp><BckSp>to amazon
+2018-06-05 13:39:30+0530 > jio modem
+2018-06-05 13:39:42+0530 > amazon
+2018-06-05 14:53:24+0530 > fm radio amplifier
+2018-06-05 14:55:02+0530 > <BckSp><#+19>
+2018-06-05 14:56:19+0530 >  low rate
+2018-06-05 14:56:50+0530 > <BckSp><#+14>
+2018-06-05 14:58:12+0530 > audio player
+2018-06-05 15:00:07+0530 > audion<BckSp> player
+2018-06-05 15:02:06+0530 > ho <BckSp>w to gt<BckSp>reate one new amplifier
+2018-06-05 15:03:30+0530 > how to spw<BckSp>ewaker <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>aker connect to micro<Down><#+5><Down><Down><Down><Down>
+2018-06-05 15:15:02+0530 > tcl groi<BckSp>up of company
+2018-06-05 15:38:46+0530 > how to connect microcontroller to <Down><Down><Down><Down><Down><Down><Down><Up><Up><Down><Down><Up><Up><Up>
+2018-06-05 15:41:35+0530 > <BckSp>how to interface ethernet to mi<Down>
+2018-06-05 16:09:37+0530 > ethernet cable pin ci<BckSp>onfiguration
+2018-06-05 16:15:17+0530 > <LCtrl>c
+2018-06-05 16:29:06+0530 > english to tamil
+2018-06-05 16:29:16+0530 > <LCtrl>v<LShft>MB fi<BckSp>u<BckSp><BckSp>u<RShft>
+2018-06-05 17:28:12+0530 > mail.zumisolutions.com
+2018-06-05 18:28:42+0530 > ramesh<RShft>@zumios<BckSp><BckSp><BckSp><BckSp>im<BckSp><BckSp>misolution.scom<BckSp><BckSp><BckSp><BckSp><BckSp>s.com
+2018-06-05 18:29:09+0530 > <KP6><KP0>
+2018-06-05 18:29:46+0530 > <CpsLk>RJCFJTNY
+2018-06-05 18:30:16+0530 > LEVEL SHIFT LOGIC CIRCUIT
+2018-06-05 18:35:38+0530 > ER<BckSp><BckSp>MERAL MOVIE HD SONGS
+2018-06-05 19:04:36+0530 > SMD PACKAGE <Down><Down>
+2018-06-05 19:26:35+0530 > DIODE THRO PDO APP<BckSp><BckSp>BB<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>ELECTRONICS
+2018-06-05 19:52:49+0530 > <BckSp><#+37>WHAT U<BckSp>U<BckSp>IS DO PACKAGE  IN DIO<Down>
+2018-06-05 19:53:23+0530 > 
