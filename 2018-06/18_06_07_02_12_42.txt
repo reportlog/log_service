@@ -1,0 +1,58 @@
+Logging started ...
+
+2018-06-07 14:12:42+0530 > zs123456
+2018-06-07 14:12:50+0530 > bur<BckSp><BckSp>ru<LShft>Request for arrange meeting<LShft>Hi <LShft>Brub<BckSp>no ,
+2018-06-07 14:22:44+0530 > 
+2018-06-07 14:22:44+0530 >  coming <LShft>saturday<LShft><LShft>we are <CpsLk><CpsLk>almos donr<BckSp><BckSp><BckSp><BckSp><BckSp>t done our home automation project<BckSp><#+18><LShft>I was <BckSp> almost .<BckSp>wa<BckSp><BckSp><BckSp> waiting for outer box and <BckSp><BckSp><BckSp>nd dimensiona=<BckSp><BckSp>
+2018-06-07 14:32:02+0530 > 
+2018-06-07 14:32:03+0530 > .
+2018-06-07 14:33:02+0530 > 
+2018-06-07 14:33:02+0530 > , 
+2018-06-07 14:38:06+0530 > 
+2018-06-07 14:38:07+0530 > <LShft>Please arrange the meeting coming <LShft>Satuarday <LShft>Could you ni<BckSp>.
+2018-06-07 14:40:53+0530 > 
+2018-06-07 14:40:54+0530 > <LShft>I need some clarfication for <BckSp>m your side about <BckSp><#+36><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>to discuss with you our home automation <BckSp><BckSp><#+24><BckSp><#+24><BckSp><BckSp><BckSp>eed to discuss with you a<BckSp>resresume
+2018-06-07 14:45:42+0530 > l<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>a<BckSp><LShft><LShft>Altium,<LShft>Altiumaltium <BckSp><#+17><BckSp><BckSp><BckSp><BckSp><LShft>Platform<LCtrl>zzzz
+2018-06-07 15:05:40+0530 > <LShft>i<BckSp>int <LCtrl>c
+2018-06-07 15:05:54+0530 > <LCtrl>v<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><#+16>imx6 dl <BckSp><LShft>DDr3<BckSp><BckSp><LShft><BckSp><LShft>D<LShft>R<LShft>#<BckSp>3<LShft>L,<LShft>La<BckSp><BckSp> <BckSp> <LShft>LAN ,<LShft>Us<BckSp>sb to <LShft>Uart<BckSp><BckSp><BckSp><#+12><BckSp><BckSp><LShft>SB to <LShft>UART16.0,<LShft>OTG , <BckSp><BckSp><BckSp><BckSp><BckSp><#+44><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LCtrl><BckSp><BckSp><BckSp> <LShft>L<LShft>VDS ,<LShft><LShft>Parallel display<BckSp><BckSp> , lcd <BckSp><BckSp>l <Left><BckSp>e<BckSp>.<BckSp><BckSp><BckSp><LShft>Ethernet  <LShft>Touch controller
+2018-06-07 15:17:37+0530 > <LShft>Interfacing all protocold\<BckSp><BckSp>s like <LShft>I2c<BckSp><LShft>C.<LShft>Uart<BckSp><BckSp><BckSp><LShft>ART<Right><BckSp>, ..<LShft>Imx6 <LShft>Dl<BckSp><LShft>L<BckSp>,  <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>.
+2018-06-07 15:19:19+0530 > <LShft>Microprocessor <LShft>Imx6dk<BckSp><BckSp><LShft>DL  <BckSp>,usb<BckSp><BckSp><BckSp><LShft>USB.<BckSp>
+2018-06-07 15:20:58+0530 > 1 wire <LCtrl><LCtrl><BckSp><LCtrl><BckSp><BckSp>
+2018-06-07 15:24:31+0530 > <BckSp><LCtrl>s<BckSp><BckSp><BckSp><#+22><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>we need to discuss about <LShft><LShft>Home automation projr<BckSp>ect , <BckSp><BckSp> and further feature <BckSp><#+14><BckSp><#+12><BckSp><BckSp>fe<BckSp>uture upades.<BckSp><BckSp><BckSp><BckSp><BckSp>dates.<BckSp><BckSp><BckSp>
+2018-06-07 15:27:23+0530 > ,ksiva<BckSp><#+17><LShft>Resumesiva<LShft>@zumisolutions.comza<LShft>Hi siva,
+2018-06-07 15:29:10+0530 > 
+2018-06-07 15:29:10+0530 > <LShft>Here <LShft>I <CpsLk>A<BckSp><CpsLk>attached re<BckSp><BckSp>the <LShft>Res<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>,e <LShft>res<BckSp><BckSp><BckSp><LShft>Resume , <LShft>Please find it...
+2018-06-07 15:29:53+0530 > 
+2018-06-07 15:29:54+0530 > <LShft>If what is speed arrears
+2018-06-07 15:30:57+0530 > <BckSp><BckSp><BckSp><Up><Up><Down><Down><Down><Down><Down><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+2018-06-07 15:37:38+0530 > zumi.mktg<LShft>@gmail.com<LShft>Resume<LShft>Hi siva,
+2018-06-07 15:41:01+0530 > 
+2018-06-07 15:41:01+0530 > <LShft>Here <LShft>I attached <LShft>Resume ,<LShft>Please find it..
+2018-06-07 15:41:17+0530 > 
+2018-06-07 15:41:18+0530 > <LShft>If <BckSp><BckSp><BckSp><BckSp>
+2018-06-07 15:41:31+0530 > 
+2018-06-07 15:41:31+0530 > speed arrearv <BckSp><BckSp>  means
+2018-06-07 15:43:23+0530 > low cut blose<BckSp><BckSp><BckSp><BckSp>luose
+2018-06-07 16:08:02+0530 > karcheif
+2018-06-07 16:11:21+0530 > znkb<LShft>@yahoo.com<LShft>Resume<LShft>Hi sir,
+2018-06-07 16:15:48+0530 > 
+2018-06-07 16:15:48+0530 > <LShft>Here <LShft>I attached the <LShft>Resume ,<LShft> <LShft>Please find it...
+2018-06-07 16:16:07+0530 > 
+2018-06-07 16:16:07+0530 > <LCtrl>fvref
+2018-06-07 17:02:49+0530 > 
+2018-06-07 17:02:50+0530 > 
+2018-06-07 17:02:51+0530 > 
+2018-06-07 17:02:52+0530 > 
+2018-06-07 17:02:52+0530 > 
+2018-06-07 17:02:53+0530 > 
+2018-06-07 17:02:53+0530 > 
+2018-06-07 17:02:54+0530 > youtube
+2018-06-07 17:06:20+0530 > athu ithu yethu r rowdy
+2018-06-07 17:07:53+0530 > <BckSp><BckSp><BckSp> and thangadurai
+2018-06-07 17:08:16+0530 > <BckSp><#+19><BckSp>jack comedy
+2018-06-07 17:10:54+0530 > <BckSp><#+18><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>titanic
+2018-06-07 17:11:17+0530 > <BckSp><BckSp><BckSp><BckSp><#+9><BckSp> a<BckSp>sara pa<BckSp><BckSp>bambu
+2018-06-07 17:26:11+0530 > a
+2018-06-07 17:26:17+0530 > <BckSp><#+18>raamer rowsy<BckSp><BckSp>dy
+2018-06-07 17:26:46+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp>
+2018-06-07 17:30:52+0530 > 
