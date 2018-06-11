@@ -1,0 +1,94 @@
+Logging started ...
+
+2018-06-09 09:11:03+0530 > zsw1<BckSp><#+21>zs123456
+2018-06-09 09:11:26+0530 > zero cross dector circuit<Down>
+2018-06-09 09:21:51+0530 > <LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl>english to tamil<BckSp><#+42>english to tamil
+2018-06-09 10:06:13+0530 > trigger<BckSp><Right><BckSp><BckSp>gerac to dc converter waveform
+2018-06-09 10:14:40+0530 > <LCtrl>s<LCtrl>a<LCtrl>a<LCtrl>a<LCtrl>c
+2018-06-09 10:27:26+0530 > <LCtrl>v<Del><LCtrl>p<LCtrl>p<LCtrl>c
+2018-06-09 10:45:18+0530 > engk<BckSp>lish to tamil
+2018-06-09 10:45:30+0530 > <LCtrl>v<LCtrl>v
+2018-06-09 10:45:47+0530 > rj45 lan cable pin configurations
+2018-06-09 11:18:15+0530 > rj 45 cable
+2018-06-09 11:18:45+0530 >  connection
+2018-06-09 11:18:59+0530 > 
+2018-06-09 11:20:12+0530 >  and signal name
+2018-06-09 11:21:38+0530 > <LCtrl><LCtrl><LCtrl>
+2018-06-09 11:24:26+0530 > <LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl>fj4<LCtrl><LCtrl><LCtrl><LCtrl>c
+2018-06-09 12:14:37+0530 > <LCtrl>f<LCtrl>v<BckSp><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl>c
+2018-06-09 12:15:35+0530 > v<LCtrl>v<#+1><LCtrl>f<LCtrl>v<BckSp>
+2018-06-09 12:15:40+0530 > 
+2018-06-09 12:15:43+0530 > 
+2018-06-09 12:15:48+0530 > 
+2018-06-09 12:15:51+0530 > 
+2018-06-09 12:15:52+0530 > 
+2018-06-09 12:15:52+0530 > 
+2018-06-09 12:15:53+0530 > 
+2018-06-09 12:15:53+0530 > 
+2018-06-09 12:15:55+0530 > 
+2018-06-09 12:15:56+0530 > <LCtrl>f
+2018-06-09 12:16:02+0530 > <LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl>c
+2018-06-09 12:33:31+0530 > <LCtrl>f<LCtrl>v<BckSp>
+2018-06-09 12:33:34+0530 > 
+2018-06-09 12:33:35+0530 > 
+2018-06-09 12:33:35+0530 > 
+2018-06-09 12:33:35+0530 > 
+2018-06-09 12:33:36+0530 > 
+2018-06-09 12:33:36+0530 > 
+2018-06-09 12:33:36+0530 > 
+2018-06-09 12:33:36+0530 > 
+2018-06-09 12:33:36+0530 > 
+2018-06-09 12:33:37+0530 > 
+2018-06-09 12:33:37+0530 > 
+2018-06-09 12:33:37+0530 > 
+2018-06-09 12:33:37+0530 > <LCtrl><LCtrl><LCtrl><LCtrl><LCtrl>c
+2018-06-09 12:42:40+0530 > <LCtrl>f<LCtrl>f<LCtrl>v<BckSp>
+2018-06-09 12:42:47+0530 > <LCtrl><LCtrl>c
+2018-06-09 12:43:06+0530 > <LCtrl>f<LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl>pp<BckSp> chn<BckSp>annel n channel
+2018-06-09 12:49:18+0530 > <LCtrl><LCtrl><LCtrl><LCtrl><LCtrl>microphone recevier
+2018-06-09 13:15:48+0530 > wireless mic <BckSp>roph connect to receiver
+2018-06-09 13:18:11+0530 > <BckSp>re<Down><Down><RShft><Up>
+2018-06-09 13:25:00+0530 > wireless mike working principle
+2018-06-09 13:32:15+0530 > home automation projects
+2018-06-09 14:27:22+0530 > h<BckSp><#+11>amazon
+2018-06-09 14:35:32+0530 > redmi
+2018-06-09 14:35:42+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp><LShft><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl>c
+2018-06-09 14:40:12+0530 > <LCtrl>v
+2018-06-09 14:40:16+0530 > mouser
+2018-06-09 14:46:24+0530 > <LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl>p-channel mosfet switching <LCtrl><LCtrl><LCtrl><LCtrl><LCtrl>renesas r5f102aaa dat<Down>
+2018-06-09 15:20:45+0530 > <LCtrl>c
+2018-06-09 15:21:17+0530 > <LCtrl>f<LCtrl>v
+2018-06-09 15:21:19+0530 > 
+2018-06-09 15:21:20+0530 > <LCtrl>vc
+2018-06-09 15:21:29+0530 > <LCtrl>v<BckSp><BckSp><BckSp>51
+2018-06-09 15:22:39+0530 > 
+2018-06-09 15:22:40+0530 > 
+2018-06-09 15:22:41+0530 > p chanel switch<LCtrl><LCtrl><LCtrl><LCtrl>c
+2018-06-09 15:42:46+0530 > <LCtrl><LCtrl>v
+2018-06-09 15:42:57+0530 > sfv10r-1stbe<LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl>c
+2018-06-09 16:07:53+0530 > <LCtrl>f<LCtrl>v<BckSp><RShft>
+2018-06-09 16:07:56+0530 > 
+2018-06-09 16:07:59+0530 > <LCtrl><LCtrl><LCtrl><LCtrl>c
+2018-06-09 16:08:19+0530 > p<BckSp><BckSp>imx6ull reference <Down>
+2018-06-09 16:08:50+0530 > <LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl>f<LCtrl>v<BckSp><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl>f<LCtrl><LCtrl>v <Left><#+24>what is 
+2018-06-09 16:13:45+0530 >  <LCtrl><LCtrl><LCtrl><LCtrl>c
+2018-06-09 16:17:25+0530 > <LCtrl>v datasheet
+2018-06-09 16:17:38+0530 > <LCtrl>c
+2018-06-09 16:18:31+0530 > <LCtrl>f<LCtrl>v
+2018-06-09 16:18:36+0530 > <LCtrl><LCtrl>c
+2018-06-09 16:20:05+0530 > <LCtrl>f<LCtrl>v<BckSp><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl>c
+2018-06-09 16:20:46+0530 > <LCtrl>f<LCtrl>v<BckSp>
+2018-06-09 16:20:50+0530 > 
+2018-06-09 16:20:53+0530 > porrc0805fr-7w330hdmi to vgavcon<BckSp><BckSp><BckSp><BckSp>  converter
+2018-06-09 17:04:08+0530 > hoe<BckSp> <BckSp>w to connect cpu to <Down>
+2018-06-09 17:37:34+0530 > mod<BckSp><BckSp><#+13>semaa movie free download
+2018-06-09 18:55:52+0530 > singam movie hd free <RShft><Del>siruthai
+2018-06-09 19:12:21+0530 > mobile speaker
+2018-06-09 19:13:45+0530 > <BckSp><#+20>amax<BckSp>zon
+2018-06-09 19:14:12+0530 > mobile speaker
+2018-06-09 19:14:28+0530 >  1 year quranty
+2018-06-09 19:15:39+0530 > warrente<BckSp><BckSp><BckSp><BckSp>anty
+2018-06-09 19:16:01+0530 > <Del><Del><Del>
+2018-06-09 19:20:36+0530 > <Del>
+2018-06-09 19:20:41+0530 > <RShft><Del>
+2018-06-09 19:24:36+0530 > 
