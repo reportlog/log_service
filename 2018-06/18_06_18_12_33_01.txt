@@ -1,0 +1,20 @@
+Logging started ...
+
+2018-06-18 12:33:01+0530 > zs123456
+2018-06-18 12:38:20+0530 > go
+2018-06-18 12:40:05+0530 > basic 
+2018-06-18 12:43:10+0530 > tamil matrimony
+2018-06-18 12:44:01+0530 > <KP8><KP6><KP8><KP0><KP0><KP5><KP9><KP3><KP3><KP4>muthukrishnan
+2018-06-18 12:44:27+0530 > <KP8><KP6><KP8><KP0><KP0><KP5><KP9><KP3><KP3><KP4>muthukri
+2018-06-18 12:44:46+0530 > <LCtrl><RShft><Del>
+2018-06-18 12:47:18+0530 > english to tamil
+2018-06-18 12:52:42+0530 > <LCtrl>c
+2018-06-18 12:52:52+0530 > <LCtrl>v<LCtrl>c
+2018-06-18 12:53:16+0530 > <LCtrl>v<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LCtrl>z<BckSp><#+14><BckSp><#+38><Right><Right><Left><BckSp><#+10><BckSp><BckSp><BckSp>convey<Down><Down><Down>
+2018-06-18 12:59:07+0530 > btmkanchipuram 
+2018-06-18 13:20:40+0530 > annai flour millas address
+2018-06-18 13:21:40+0530 > gmail
+2018-06-18 13:27:24+0530 > <KP1><KP1><KP0><KP5><KP1><KP9><KP9><KP4>
+2018-06-18 13:27:38+0530 > merge the image
+2018-06-18 13:29:49+0530 > <LCtrl>s<LCtrl><LCtrl><LCtrl>c
+2018-06-18 15:24:00+0530 > 
