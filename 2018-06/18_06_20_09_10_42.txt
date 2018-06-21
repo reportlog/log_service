@@ -1,0 +1,58 @@
+Logging started ...
+
+2018-06-20 09:10:43+0530 > zs123456
+2018-06-20 09:10:57+0530 > tamil matimony
+2018-06-20 09:13:19+0530 > <KP8><KP6><KP8><KP0><KP0><KP5><KP9><KP3><KP3><KP4>muthukri
+2018-06-20 09:13:48+0530 > today news in tamil
+2018-06-20 09:35:11+0530 > today <BckSp><#+21>new movie tria<BckSp>ler
+2018-06-20 09:57:56+0530 >  tpurpose of real time clock
+2018-06-20 10:47:03+0530 > <LCtrl>fsqw
+2018-06-20 11:00:39+0530 > 
+2018-06-20 11:00:42+0530 > <BckSp><BckSp>cl
+2018-06-20 11:00:59+0530 > <BckSp><BckSp>qw<LCtrl>c
+2018-06-20 11:43:29+0530 > <LCtrl>v
+2018-06-20 11:43:34+0530 > 3411as
+2018-06-20 11:44:59+0530 >  d<BckSp>ied display daat<BckSp><BckSp>ra<BckSp><BckSp>tashe<#+2>et
+2018-06-20 11:48:12+0530 > <BckSp>l
+2018-06-20 11:48:19+0530 > analog 1<BckSp>i/o module
+2018-06-20 11:54:18+0530 > in cro square wavw <BckSp><BckSp>e off time some slpoe in <BckSp><BckSp>s come
+2018-06-20 12:16:15+0530 > how to avi<BckSp>oid the sp<BckSp>lope wavw <BckSp><BckSp>e in cro
+2018-06-20 12:17:17+0530 > <LShft>TTL
+2018-06-20 12:42:56+0530 > what is ttl logic<Down><Down><Down>
+2018-06-20 13:18:02+0530 > lenovo p1ma40
+2018-06-20 14:44:03+0530 > muthu kf<BckSp>rolixzc<LAlt><BckSp><#+25>mj]<BckSp><BckSp>i<BckSp>uy<BckSp>y<NumLk><BckSp>y<BckSp>tjkhu home automation projects
+2018-06-20 14:53:19+0530 > airtel <BckSp><#+17>amazon
+2018-06-20 15:43:39+0530 > moto e
+2018-06-20 15:43:50+0530 > amazon
+2018-06-20 15:44:23+0530 > moto e
+2018-06-20 15:44:32+0530 > how to calculate the crystal oscillator capacir<BckSp>tor vali<BckSp>ue
+2018-06-20 16:05:08+0530 > <KP8><KP6><KP8><KP0><KP0><BckSp><#+21><KP8><KP6><KP8><KP0><KP0><KP5><KP9><KP3><KP3><KP4>
+2018-06-20 16:28:23+0530 > <BckSp><#+20><KP8><KP6><KP8><#+6><KP8><KP6><BckSp><#+21><KP8><#+5>8680059334
+2018-06-20 16:28:42+0530 > 11051994
+2018-06-20 16:28:49+0530 > mini b<BckSp>projects using microcontrollertxs0104e<Down><Down><Down>
+2018-06-20 17:03:09+0530 > lenovo p1ma40
+2018-06-20 17:48:18+0530 > moto e4
+2018-06-20 17:49:28+0530 > <KP8><KP6><KP8><KP0><KP0><KP5><KP9><KP3><KP3><KP4><NumLk><KP8><KP6><KP8><KP0><KP0><KP5><KP9><KP3><KP3><KP4>
+2018-06-20 17:49:55+0530 > <KP1><KP1><KP0><KP5><KP1><KP9><KP9><KP4>
+2018-06-20 17:50:01+0530 > calculator
+2018-06-20 17:57:28+0530 > <KP1><KP0><KP+><KP5><KP0><KP+><KP5><KP5><KP0><KP+><KP3><KP0><KP+><KP1><KP0><KP+>
+2018-06-20 17:57:59+0530 > <KP0>
+2018-06-20 17:58:02+0530 > <KP2><KP0><KP+><KP1><KP7><KP0>
+2018-06-20 17:58:17+0530 > <KP+><KP3><KP0><KP+><KP1><KP0>
+2018-06-20 17:58:35+0530 > <KP-><KP6><KP5><KP0>
+2018-06-20 17:58:39+0530 > bidirectional voltage level translator
+2018-06-20 19:11:17+0530 >  working oper<Down>
+2018-06-20 19:12:54+0530 > <LCtrl><LCtrl>svoltage <BckSp>voltage level translar<BckSp>tor
+2018-06-20 19:14:36+0530 > moto e mobilr<BckSp>e touch and display connection
+2018-06-20 19:30:18+0530 >  moto e mobile touch
+2018-06-20 19:35:20+0530 > moto e mobile sample ime number
+2018-06-20 19:40:15+0530 > <BckSp><#+16><BckSp><BckSp><BckSp><BckSp><#+5>moto e4
+2018-06-20 19:40:52+0530 > <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><#+16><RShft><Home><Del>diode sim<BckSp><BckSp>imulation
+2018-06-20 20:05:10+0530 >  <Down><Down>
+2018-06-20 20:06:33+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>image
+2018-06-20 20:06:43+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>
+2018-06-20 20:07:10+0530 > <LCtrl><LCtrl><LCtrl>svoltge level regulator.
+2018-06-20 20:23:40+0530 > <LCtrl>
+
+Logging stopped at 2018-06-20 20:47:59+0530
+
