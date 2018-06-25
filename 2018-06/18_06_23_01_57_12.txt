@@ -1,0 +1,16 @@
+Logging started ...
+
+2018-06-23 13:57:12+0530 > z<#+3>s123456
+2018-06-23 13:57:30+0530 > m<LShft>&g gek<BckSp>l 1512 2572
+2018-06-23 14:36:28+0530 > patpartner
+2018-06-23 17:29:14+0530 > r <BckSp>
+2018-06-23 17:29:28+0530 > embedded hardware design company<Down>
+2018-06-23 17:31:16+0530 >  in bangalore
+2018-06-23 17:31:35+0530 > engkish to tamil
+2018-06-23 19:07:21+0530 > forgive<BckSp><#+13>fotgot<BckSp><BckSp>g<BckSp>et<BckSp><#+14>forgive<BckSp><#+18>forgave<BckSp><#+15>old melodu\<BckSp><BckSp>y song free download
+2018-06-23 19:10:28+0530 > <Tab><LShft>MP3
+2018-06-23 19:13:06+0530 > i2c protocol <BckSp><#+25>difference between open and closed <Down><Down>
+2018-06-23 19:23:23+0530 > 
+
+Logging stopped at 2018-06-23 19:41:39+0530
+
