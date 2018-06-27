@@ -1,0 +1,31 @@
+Logging started ...
+
+2018-06-26 09:52:14+0530 > zs123456
+2018-06-26 09:52:50+0530 > <LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl>b<BckSp><BckSp><BckSp><BckSp>pr<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>small six<BckSp>ze package regulator
+2018-06-26 10:02:03+0530 > <LCtrl><LCtrl><LCtrl><LCtrl><LCtrl>c
+2018-06-26 10:14:27+0530 > <LCtrl>v
+2018-06-26 10:14:36+0530 > <LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl>c
+2018-06-26 10:36:42+0530 > <LCtrl>f<LCtrl>v<BckSp>
+2018-06-26 10:36:45+0530 > 
+2018-06-26 10:36:52+0530 > 
+2018-06-26 10:36:54+0530 > <LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl>how to connect swd de<BckSp><BckSp>to board
+2018-06-26 10:51:46+0530 > swd programmer
+2018-06-26 10:57:54+0530 >  3.3v
+2018-06-26 11:27:43+0530 >  arm cortex
+2018-06-26 11:28:13+0530 > arm cortex programmer
+2018-06-26 11:30:13+0530 > home automation pcb components placement
+2018-06-26 11:31:50+0530 > <LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl>c
+2018-06-26 12:13:17+0530 > mouser
+2018-06-26 12:13:25+0530 > <LCtrl>v<LCtrl><LCtrl><LCtrl>c
+2018-06-26 12:15:42+0530 > <LCtrl>v
+2018-06-26 12:17:20+0530 > honor 5c pro
+2018-06-26 12:20:06+0530 >  m<BckSp>mobile filp<Down>
+2018-06-26 12:20:29+0530 > aple <BckSp><BckSp><BckSp>ple 6 s
+2018-06-26 12:47:44+0530 > htc 10 pro
+2018-06-26 12:56:36+0530 > htc 10 suppot<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><CpsLk>SUPPORTING FOR ALL PROTOCOLS DETA<BckSp><BckSp><BckSp><BckSp><LShft>h<BckSp>H<LShft>iM<BckSp> <LShft>m<CpsLk>adhu,
+2018-06-26 14:46:39+0530 > 
+2018-06-26 14:46:39+0530 > <LShft>Here <LShft>I attached <LShft>Blue tt<BckSp><BckSp><BckSp>tooth chip details
+2018-06-26 14:47:06+0530 > 
+2018-06-26 14:47:07+0530 > <LShft>As we disscuseed <BckSp><BckSp><BckSp><BckSp>sed a<BckSp><LShft>ask <BckSp><BckSp><BckSp><#+25>m
+2018-06-26 14:48:23+0530 > <LShft>As per <LShft>Our disscussion<BckSp><BckSp><BckSp>ion  <Del><Del><Del>h<Left><Left>,, please verify that.<Left><BckSp>o<Right><#+15><Right><Right><Right><Right><Left> about <LCtrl>x<LCtrl>v<BckSp>the <Tab><Tab>
+2018-06-26 14:51:14+0530 > 
