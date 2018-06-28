@@ -1,0 +1,46 @@
+Logging started ...
+
+2018-06-27 10:24:56+0530 > zs1234576
+2018-06-27 10:26:04+0530 > zs123456
+2018-06-27 10:26:10+0530 > <LCtrl>c
+2018-06-27 10:31:03+0530 > <LCtrl>v<LShft>F<LCtrl>fauto<LCtrl>f<LCtrl>v<LCtrl>c
+2018-06-27 10:32:29+0530 > <LCtrl>f<LCtrl>vclock<LCtrl><LCtrl>f<LCtrl>v<BckSp><#+31>clockand reset <BckSp><LCtrl><LCtrl><LCtrl><BckSp>how to reset the pmic using power on req <LShft><LCtrl><LCtrl>c
+2018-06-27 10:41:07+0530 > <LCtrl>v  mcub<Right><BckSp><BckSp>rs<BckSp>eset mcu
+2018-06-27 10:54:05+0530 > <BckSp>b
+2018-06-27 10:54:11+0530 > 
+2018-06-27 10:54:12+0530 > 
+2018-06-27 10:54:13+0530 > 
+2018-06-27 10:54:14+0530 > 
+2018-06-27 10:54:27+0530 > 
+2018-06-27 10:54:28+0530 > 
+2018-06-27 10:54:28+0530 > 
+2018-06-27 10:54:29+0530 > 
+2018-06-27 10:54:30+0530 > 
+2018-06-27 10:54:30+0530 > 
+2018-06-27 10:54:30+0530 > 
+2018-06-27 10:54:31+0530 > 
+2018-06-27 10:54:32+0530 > 
+2018-06-27 10:54:32+0530 > 
+2018-06-27 10:54:33+0530 > 
+2018-06-27 10:54:57+0530 > 
+2018-06-27 10:55:13+0530 > 
+2018-06-27 10:55:15+0530 > 
+2018-06-27 10:55:20+0530 > 
+2018-06-27 10:55:21+0530 > essl 500 
+2018-06-27 14:10:58+0530 >  <LCtrl><LCtrl>hi <BckSp><BckSp>ho<BckSp><BckSp><LShft>Hi <LShft>All,
+2018-06-27 16:38:04+0530 > 
+2018-06-27 16:38:05+0530 >      <BckSp><BckSp><BckSp><BckSp><BckSp>mrn
+2018-06-27 16:38:56+0530 > 
+2018-06-27 16:38:56+0530 > <LShft>Here <LShft>Y<BckSp><LShft>I <LShft>Attached <LShft>Our <LShft>Home <LShft>Automation <LShft>PCB <LShft>Copnonents<Left><Left><Left><Left><Left><Left><Left><Left>m<Right><Right><Right><Left><BckSp><Right><Right><Right><Right><Right><Right><BckSp> <LShft>Placement <LShft>Graphical <LShft>Design.<LShft>P;l<BckSp><BckSp>lae<BckSp><BckSp>ease <LShft>Find <LShft>It.
+2018-06-27 16:40:31+0530 > <LShft>Please ad<BckSp><BckSp><LShft>As<BckSp>dvice <BckSp><BckSp><BckSp>se <LShft>Me,<LShft>If <LShft>You <LShft>Want <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>you want an<BckSp><BckSp>to change any component placement <Left><#+44><Left><Left><Left><Left><Left><Left><BckSp><#+23>
+2018-06-27 16:42:13+0530 > <Right><#+4><Left>
+2018-06-27 16:42:16+0530 > <Right><#+25><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Left><Left><Left><Left><Left><Left><Left><Left><LShft>PCB <Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right> <BckSp>, p;<BckSp>lease <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>Please let me know.
+2018-06-27 16:43:06+0530 > 
+2018-06-27 16:43:08+0530 > <BckSp><BckSp><BckSp><BckSp><LCtrl><LCtrl>fj4
+2018-06-27 16:50:04+0530 > 
+2018-06-27 16:50:05+0530 > 
+2018-06-27 16:50:07+0530 > 
+2018-06-27 16:51:02+0530 > 
+2018-06-27 16:51:04+0530 > <LCtrl>compone<BckSp><#+24>electronics componenr<BckSp>ts ve2-292175-2
+2018-06-27 19:07:59+0530 > m22-5330205
+2018-06-27 19:18:35+0530 > m20-8770242<Down><#+19><Down><#+15><Down><#+2><Up><#+1><Up><#+47><Down><#+66>
