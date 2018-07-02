@@ -1,0 +1,23 @@
+Logging started ...
+
+2018-06-30 10:19:43+0530 > zs123456
+2018-06-30 10:19:54+0530 > <LCtrl>fvsnvs
+2018-06-30 10:22:38+0530 > 
+2018-06-30 10:22:40+0530 > 
+2018-06-30 10:22:40+0530 > 
+2018-06-30 10:22:41+0530 > 
+2018-06-30 10:22:42+0530 > 
+2018-06-30 10:22:42+0530 > 
+2018-06-30 10:22:43+0530 > 
+2018-06-30 10:22:43+0530 > 
+2018-06-30 10:22:43+0530 > xlink zynq  zcu102 revision 1.1 ev sch<BckSp><LCtrl>fjtag<LCtrl>fjtagwinston<LShft>Jacob-1990<LShft>@2<BckSp><LCtrl>fjtag<LCtrl>fsw6<LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl>fsw6<LCtrl>fj109<LCtrl>fj2<LCtrl><LCtrl><LCtrl><LCtrl>f<LCtrl>fjtag<LCtrl>fu40<LCtrl>f<LCtrl>f<LCtrl><LCtrl><LCtrl><LCtrl><LCtrl>fu50
+2018-06-30 11:08:43+0530 > <LCtrl>fjtagdigital dreams 
+2018-06-30 12:07:34+0530 > youtube
+2018-06-30 12:32:07+0530 > capacitive touch
+2018-06-30 12:33:54+0530 >  pc<Down><Down>
+2018-06-30 12:34:19+0530 > inbulit wifi<RShft>+micwifi<RShft>+microcontroller
+2018-06-30 12:48:48+0530 > wwww<BckSp>.goo
+2018-06-30 14:43:08+0530 > youtube
+2018-06-30 14:49:27+0530 > <LCtrl>uu<BckSp><BckSp>unnai thedi<Down>
+2018-06-30 14:49:45+0530 > hd pcb hole types
+2018-06-30 16:38:22+0530 > 
