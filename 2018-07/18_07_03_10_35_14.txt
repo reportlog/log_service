@@ -1,0 +1,23 @@
+Logging started ...
+
+2018-07-03 10:35:14+0530 > zs123456
+2018-07-03 10:36:33+0530 > how to consider thermal effect
+2018-07-03 10:40:35+0530 > <BckSp><#+40>what ocb thermal <BckSp>p psd<BckSp><BckSp>ass<BckSp>s
+2018-07-03 10:42:23+0530 > pcb thermal  how to consider the thermal analysis in o<BckSp>pcb
+2018-07-03 10:51:22+0530 > mouser
+2018-07-03 11:18:06+0530 > ltstltst-c171krkt
+2018-07-03 11:19:07+0530 > moue
+2018-07-03 12:50:38+0530 > silicon lab touch screen data<Down>
+2018-07-03 15:25:44+0530 >  sil<Down><Down>
+2018-07-03 15:26:59+0530 >  pcb design
+2018-07-03 15:27:07+0530 > <BckSp>hk<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>redbus offer 
+2018-07-03 16:41:16+0530 > what is copper hatching
+2018-07-03 18:00:53+0530 > how to apply in cad <BckSp>star
+2018-07-03 18:03:04+0530 >  in cad star
+2018-07-03 18:28:55+0530 > <LCtrl><LCtrl><LCtrl>zuken pcb design pdf
+2018-07-03 18:29:55+0530 > hatched copper pour in cadstar
+2018-07-03 18:31:54+0530 > <BckSp><#+43>how to use hatached copper in cad star
+2018-07-03 18:47:31+0530 > <BckSp>\
+2018-07-03 18:47:46+0530 > <BckSp><BckSp>zuken pcb<Left><Left><Left> <Right><Right><Right> deigm<BckSp><BckSp><BckSp>sign hatched copper
+2018-07-03 18:48:53+0530 > <BckSp>\<BckSp> copper pour type and ec<BckSp>xplam<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>
+2018-07-03 18:50:59+0530 > 
