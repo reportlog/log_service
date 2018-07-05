@@ -1,0 +1,43 @@
+Logging started ...
+
+2018-07-04 10:53:31+0530 > zs<BckSp><BckSp><BckSp><BckSp>zs123456
+2018-07-04 10:54:43+0530 > <LCtrl><LCtrl>standard pcb desipcb track ti<BckSp> ca1<BckSp>2sbicard.v<BckSp>com<BckSp><BckSp><BckSp><BckSp>
+2018-07-04 11:10:48+0530 > kannansenthil<Tab><LShft>Senthil6<LShft>@mugam
+2018-07-04 11:11:10+0530 > mouser
+2018-07-04 12:34:42+0530 > 
+2018-07-04 14:49:53+0530 > mous<Right>
+2018-07-04 16:24:30+0530 > mail.zumisolutions.com
+2018-07-04 16:24:55+0530 > hameed<LShft>@zumisolutions.com
+2018-07-04 16:25:12+0530 > goog<Right>
+2018-07-04 16:25:56+0530 > mai<Right>
+2018-07-04 16:26:10+0530 > m
+2018-07-04 16:30:44+0530 > 
+2018-07-04 16:33:15+0530 > 
+2018-07-04 16:33:39+0530 > 
+2018-07-04 16:34:01+0530 > lk<NumLk><BckSp><BckSp><BckSp><BckSp><BckSp>dc dc power connector
+2018-07-04 16:37:08+0530 > 
+2018-07-04 16:37:25+0530 >  <CpsLk>PCB<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>FOOOT<BckSp><BckSp><BckSp><BckSp><BckSp> <CpsLk>foor<BckSp>t \<BckSp><BckSp>print design
+2018-07-04 17:30:12+0530 > 
+2018-07-04 17:30:13+0530 > 
+2018-07-04 17:30:13+0530 > <KP0><Down><#+14><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down>1206 
+2018-07-04 17:31:10+0530 > <Down><#+20><Down><#+11><Down><#+60><Up><#+11><Down><#+15><Down><Down><#+13><Down><#+3><Up><#+13><Up><Up><#+17><Down><Down><#+17><Down><#+13><Down><Down><Down><Down><Down><Down><Down><#+35><Down><#+10><Down><#+13><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><#+15><Down><#+20><Down><#+14><Down><#+20><Up><#+34><Up><Up><#+26><Up><#+21><Up>0402 pcb foot <BckSp><Down><Down>
+2018-07-04 17:47:17+0530 > <Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+11><Up><Up><Up><Up><Down><Down><Down><#+20><Down><#+10><Down><#+13><Down><#+17><Down><#+17><Down><#+39>0402 <Down>
+2018-07-04 17:50:50+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Down><Down>
+2018-07-04 17:58:36+0530 > <BckSp><BckSp><BckSp><BckSp><KP1><KP2><KP0><KP6><Left><#+16><KP1><Left><Left><Left><Left><Left><Left><Left><Left><NumLk><KP1><KP2><KP0><KP6> 
+2018-07-04 18:04:08+0530 > <KP3><KP5><KP2><KP1>
+2018-07-04 18:04:50+0530 > smd 
+2018-07-04 18:05:02+0530 > <LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl>c
+2018-07-04 18:14:44+0530 > <LCtrl>f<LCtrl>v<BckSp>
+2018-07-04 18:14:47+0530 > 
+2018-07-04 18:14:51+0530 > 
+2018-07-04 18:14:52+0530 > <Esc><Esc><Esc><Esc><Esc><Esc><Esc><Esc><Esc><LCtrl><LCtrl>uln2003adr<Down>
+2018-07-04 18:24:14+0530 > soic 16 pad
+2018-07-04 18:25:41+0530 > ap<BckSp><#+28>ap3429<Right> datasheet
+2018-07-04 19:01:17+0530 > <BckSp>
+2018-07-04 19:01:27+0530 > hds20m-<KP1><KP3>
+2018-07-04 19:21:00+0530 > abs10a860011374003
+2018-07-04 20:02:16+0530 > <LCtrl>tl431bqlpr801-87-003-40-<Down><Down>
+2018-07-04 20:35:17+0530 > fsm4jsmafsm4jsmacy8cmbr3110<LCtrl><LCtrl><LCtrl>sfh615a
+
+Logging stopped at 2018-07-04 21:11:16+0530
+
