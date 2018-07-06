@@ -1,0 +1,45 @@
+Logging started ...
+
+2018-07-05 09:24:32+0530 > zs123456
+2018-07-05 09:24:51+0530 > ,m<BckSp><BckSp>mouser
+2018-07-05 09:26:24+0530 > rc0805cr2512ajwm352118kft
+2018-07-05 09:43:47+0530 > rsf200jb-73-22kcrm2<Menu>51212ajw<Down><Down><Down><#+23>rc2512fk-<KP0><KP7><KP3>9ka<BckSp><BckSp><BckSp>cap<BckSp><BckSp><BckSp><BckSp>silicon cao<BckSp>pacir<BckSp>tic<BckSp>ve touch hardware design
+2018-07-05 10:11:22+0530 > e<BckSp>www<BckSp><BckSp><BckSp><BckSp><BckSp>www<BckSp><BckSp>w.<BckSp><BckSp><BckSp><BckSp><BckSp><#+18>cy8cmbr3110 
+2018-07-05 10:29:36+0530 > <BckSp><BckSp>
+2018-07-05 10:30:51+0530 >  lab
+2018-07-05 10:31:15+0530 > <Esc><Esc><Esc><Esc>cy3280-mbr3
+2018-07-05 10:32:26+0530 > cypress
+2018-07-05 10:33:19+0530 >  cy32c<LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl> c<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>capacitive toucg<BckSp>h d<BckSp>hardware design h<BckSp>q<BckSp>guide
+2018-07-05 10:40:40+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>cy3280-mbr3 pcb gi<BckSp>uide<Left><Down>
+2018-07-05 10:47:07+0530 >  capacitive design<LCtrl><LCtrl><Del><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl>difference between hatch copper and sheild copper
+2018-07-05 11:27:34+0530 > <BckSp>copper <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>hatch copper used in pcb
+2018-07-05 11:35:29+0530 >  5 july 2018<LCtrl><LCtrl>skannan<LShft>@x<BckSp>zumisolutions<LShft><F2><LShft>@<BckSp>.com
+2018-07-05 11:53:23+0530 > gzzn
+2018-07-05 11:54:32+0530 > ma<LShft>BOM<RShft>_<LShft>Home<BckSp><BckSp><CpsLk>ME AUTOMATION<BckSp>O<LShft>h<BckSp><LShft>h<BckSp>H<CpsLk>i <LShft>Ma<BckSp><LShft>A<BckSp>adhu,
+2018-07-05 11:55:33+0530 > 
+2018-07-05 11:55:33+0530 > <LShft>here <BckSp><BckSp><#+7><BckSp><BckSp><BckSp><LShft>Here <LShft>I attached <LShft>Home automation <LShft>BOM phase <LShft>!<BckSp><BckSp> 1 ,<LShft>Plw<BckSp>ease find it..
+2018-07-05 11:56:14+0530 > 
+2018-07-05 11:56:15+0530 > <LShft>releasi<BckSp><#+19>schedum<LShft>Bom<RShft>_<LShft>H<LShft>OME AUTOMATION<BckSp>acrylic sheet printing shop in sp road sp road at bangalore
+2018-07-05 12:38:21+0530 > <LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl>btm 2nbtm<LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><BckSp><#+28>btm 2nd<LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl>eeprommagh<BckSp><BckSp><Del><LShft>BOM<RShft>_<LShft>HA<LCtrl>c
+2018-07-05 13:01:45+0530 > <LCtrl>v<RShft>_exc<BckSp><BckSp><BckSp>5-<BckSp> <BckSp>july2018<BckSp><BckSp><BckSp><BckSp>2018in excel format rs232 mai<BckSp>l<Down><Down><Down>
+2018-07-05 13:56:05+0530 > <Right>fe<Down>
+2018-07-05 13:56:53+0530 > esp8266mod<Down><Down>
+2018-07-05 15:14:14+0530 > h<BckSp><BckSp><BckSp>wifi<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>esp <BckSp>8266mod<BckSp><BckSp><BckSp>
+2018-07-05 15:18:20+0530 > eesp8266mog<BckSp>d<LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><Left><Left><Left><Left><Left><Left><Left><Right><Right><Right><Right><Right><Right><Right><Right><Up><Up><Up><Up><Up><Up><#+12><Up><Up><#+12><Up><Up><Up><Up><#+10><Up><Up><Up><Down><Down><Down><#+80><Up><#+10><Up><#+13><Up><#+5><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><#+47><Up><#+45><LCtrl><Left><#+20><Right><Right><Right><Right><BckSp><#+20><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><#+47>ai esp8266mod
+2018-07-05 16:10:42+0530 > <BckSp><BckSp><BckSp><#+10><BckSp><BckSp><BckSp><BckSp><Down><Down><Up>
+2018-07-05 16:11:10+0530 >  px<BckSp>cb foot pro<BckSp>int
+2018-07-05 16:11:38+0530 > <LCtrl><LCtrl>rc0805jr-0710<BckSp>connection diagram
+2018-07-05 17:27:23+0530 > esp8266mod <Del>co<LCtrl>c
+2018-07-05 17:49:05+0530 > <LCtrl>f<LCtrl>v<LShft><LShft><LShft><LCtrl><LCtrl><LCtrl>u<BckSp>esp8266ex06208
+2018-07-05 19:20:17+0530 > <BckSp>
+2018-07-05 19:20:25+0530 > <BckSp><BckSp><BckSp> <BckSp>esp8266ex 062018
+2018-07-05 19:25:57+0530 > <BckSp>p25080h<LCtrl>f
+2018-07-05 20:08:53+0530 > 
+2018-07-05 20:08:54+0530 > <BckSp>uart<LCtrl>fusart
+2018-07-05 20:09:37+0530 > 
+2018-07-05 20:09:38+0530 > <BckSp><BckSp><BckSp><BckSp>art
+2018-07-05 20:09:45+0530 > ma<LShft>Pcb design release and schedule date<LShft>Hi madhu,
+2018-07-05 20:14:54+0530 > 
+2018-07-05 20:14:55+0530 > <LShft>Here <LShft>I attached comple<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>releasing da<BckSp><BckSp>pcb design date and schedule , <LShft>Please find itt<BckSp>...
+2018-07-05 20:16:06+0530 > 
+2018-07-05 20:16:06+0530 > <LShft>M
