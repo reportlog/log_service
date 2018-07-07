@@ -1,0 +1,66 @@
+Logging started ...
+
+2018-07-06 08:22:18+0530 > zs<BckSp><BckSp>zs123456
+2018-07-06 08:22:31+0530 > mouser
+2018-07-06 08:27:05+0530 > moc39<BckSp>021<LCtrl><LCtrl>da2077al<LCtrl><LCtrl><LCtrl><KP8><KP6><KP0><KP0><KP1><KP1><KP3><KP7><KP4><KP0><KP0><KP3>thou
+2018-07-06 09:02:57+0530 > sia-13<BckSp><BckSp><BckSp><BckSp><BckSp>1a-13moc3021<LCtrl><LCtrl><LCtrl>rfc<KP0><KP8><KP1><KP0>
+2018-07-06 09:33:08+0530 > rfc<KP0><KP8><KP1><KP0>b=<BckSp>-<KP1><KP0><KP5><LCtrl><LCtrl><LCtrl>dr<KP0><KP6><KP0><KP8>
+2018-07-06 09:37:45+0530 > dr<KP0><KP6><KP0><KP8>-<KP3><KP3><KP2>l<LCtrl><LCtrl>tqc-3fc
+2018-07-06 09:41:52+0530 > <BckSp>jqc pcb
+2018-07-06 09:43:38+0530 > <LCtrl><LCtrl><LCtrl>x2 c<LShft>pa<BckSp><BckSp>apacitor<LCtrl><LCtrl><LShft>282836-2<Left><Left><Left><Left><Left><Left><Left><Left><Left><Right><Right><Right><Right><Right><Right><Right><Right><Right><Up><Up><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Right><Right><Right><Right><Right><Right><Right><Right><Right><Up><Up><Up><Up><Up><Up><Up><Up><Left><Left><Left><Left><Left><Left><Left><Left><Right><#+6><Right><Right><Right><Right><Right><Right><Right><Up><Up><Up><Up><Left><Left><Left><Left><Left><Left><Left><Right><Right><Right><Right><Right><Right><Right><Right><Up><Up><Up><Up><Up><Up><Up><Down><Down><Down><Left><Left><Left><Left><Left><Left><Left><Left><Left><Down><Right><#+9><Right><Right><Right><Right><Right><Right><Up><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Right><Up><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Up><Up><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Up><Up><Up><Up><Up><Up><Up><Up><Down><Down><Down><Down><Down><Down><Up><Up><Up><Up><Up><Up><Up><Up><Up><#+27><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Left><#+24><Down><Up><Right><Right>tvsp6ke120a-e3/54<LCtrl>tfc-120-02-f-d-lc
+2018-07-06 10:45:29+0530 > <CpsLk>TFC-120-03<BckSp>2-F-D-LC
+2018-07-06 10:46:09+0530 > CY8CMBR3110ULN2003ADRSFV12R-1STBE1HLF<LCtrl>R5F102AAA
+2018-07-06 11:51:24+0530 > <Up><Up><Up><Up><Up><Down><Up><Down>
+2018-07-06 11:56:36+0530 > <#+2><KP+><#+55>
+2018-07-06 11:56:39+0530 > <#+61><Up><Down>
+2018-07-06 11:58:18+0530 > <#+5><KP+><#+18>
+2018-07-06 11:58:20+0530 > <#+33>
+2018-07-06 11:58:22+0530 > <#+4><KP+><#+19>
+2018-07-06 11:59:10+0530 > <#+225>
+2018-07-06 12:02:25+0530 > <#+381>
+2018-07-06 12:15:43+0530 > <#+5><KP.><#+5>
+2018-07-06 12:15:45+0530 > <#+16>
+2018-07-06 12:15:47+0530 > <#+34><KP.><KP0><#+23><KP0><#+38><KP.><KP.><#+25>
+2018-07-06 12:16:22+0530 > <#+25><KP+><#+34>=JUMBER PIN PART NUMBR<BckSp>ER
+2018-07-06 13:14:24+0530 > <BckSp><BckSp><BckSp><BckSp>PIN COON<BckSp><BckSp>NNECTOR
+2018-07-06 13:17:44+0530 > HEADER CONNECTOR
+2018-07-06 13:18:47+0530 > FEMAILE HEADER<BckSp><Right><#+18>
+2018-07-06 13:22:00+0530 > 
+2018-07-06 13:22:01+0530 > <KP1><KP0><KP0><KP0><KP0><BckSp><#+16>44.90MM<BckSp><BckSp><CpsLk>mm
+2018-07-06 15:44:22+0530 > millimeter to centimeter <Down><Down><Up><Down><Down><Down><Down>
+2018-07-06 15:45:13+0530 > <BckSp><KP9><KP0><KP.><KP2><KP0><BckSp><BckSp><BckSp><BckSp><BckSp><KP4><KP4><KP.><KP9><KP0>staiin<BckSp><BckSp><BckSp>in<Down>
+2018-07-06 15:48:12+0530 > english to tamil
+2018-07-06 15:49:58+0530 > stainless steel<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><#+20><LCtrl><LCtrl><LCtrl><LCtrl><Left><Left><Left><Left><Right><#+18><Up><Up><Up><Left><Left><Left><Left><Left><Right><Up><Up><Up><Up><Up><Up><Up><RCtrl><Left><Left><Left><#+9><Left><Left><Left><Right><Right><Right><Right><Right><Right><Right><Right><Right><Left><Up><Up><Up><#+25><Down><#+8><Down><Down><Down><Down><Down><Down><Right><Right><Left><Left><Right><Left><Left><Left><Left><Left><Left><Left><Left><Left><Right><Right><Right><Right><Right><Right><Right><Right><Right><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Left><Left><Left><Left><Left><Left><Left><Left><Right><Right><Right><Right><Right><Right><Right><Right><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Left><Left><Left><Left><Left><Left><Left><Left><Right><Right><Right><Right><Right><Right><Right><Right><Down><Down><Down><Down><Down><Down><Down><Left><Left><Left><Left><Left><Left><Left><Left><Right><Right><Right><Right><Right><Right><Right><Right><Down><Down><Down><Down><Down><Up><Left><#+14><Right><Right><Right><Right><Right><Right><Right><Right><Right><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><Left><Left><Left><Left><Left><Left><Left><Left><Left><Right><Right><Right><Right><Right><Right><Right><Right><Right><Down><Down><Down><Up><Left><Left><Left><Left><Left><Left><Left><Left><Right><Right><Right><Right><Right><Right><Right><Right><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><LCtrl><LCtrl>z<LCtrl>z<LCtrl>z<LCtrl><LCtrl><LCtrl><LCtrl><LCtrl>fuart2
+2018-07-06 16:09:30+0530 > 
+2018-07-06 16:09:32+0530 > 
+2018-07-06 16:09:32+0530 > 
+2018-07-06 16:09:33+0530 > 
+2018-07-06 16:09:33+0530 > 
+2018-07-06 16:09:34+0530 > 
+2018-07-06 16:09:34+0530 > 
+2018-07-06 16:09:35+0530 > <LCtrl><LCtrl><LCtrl><Left><Left><Left><Left><Left><Left><Left><Left><Left><Right><#+7><Right><Right><Right><Right><Right><Right><Right><Left><Left><Left><Left><Left><Left><Left><Left><Left><Up><Up><Right><#+21><Left><Left><Left><Left><Left><Left><Left>mhi <BckSp><BckSp><BckSp><LShft>H <BckSp>i <LShft>Madhu,
+2018-07-06 16:25:04+0530 > 
+2018-07-06 16:25:04+0530 > <LShft>I check the <LShft>Bom<BckSp><BckSp><BckSp><LShft>B<LShft>OM<Left><Left><Left><Left><Left><Left><Left><Left>ed<Right><Right><Right><Right><Right><Right><Right><Right><Right><Left> and a<#+4><BckSp>caa<BckSp>lculate the amount.<BckSp> <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><#+12><BckSp><BckSp><BckSp><BckSp><#+14><BckSp><BckSp><BckSp><BckSp><BckSp>alculated the amount of <LShft>BOM.the <BckSp><BckSp><BckSp><BckSp><LShft>The amount is around 3200...<BckSp><BckSp>
+2018-07-06 16:28:52+0530 > 
+2018-07-06 16:28:53+0530 > <LShft>I think we purchase r<BckSp>the passive components in <LShft>S.<LShft>P <LShft>Road<Left><Left><Left><Left><#+17><Left><#+26><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left>,we reduced the amount of <LShft>Bom<BckSp><BckSp><BckSp><LShft>BOM ,<LShft>Then<Left>have<BckSp><BckSp><BckSp><BckSp> n<BckSp>have <BckSp><Right><#+21><Right><#+10><Right><Right><Right><Right><Left><BckSp><#+14><Right><#+11><Right><Right><BckSp><BckSp>hat is<Right><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><Del><#+5><Del><Del><Del><Del><Del><LShft>Rs,<BckSp>.<Right><#+12><Left> <BckSp><LShft>If we purs<BckSp>chase tih<BckSp><BckSp>his matrials in <LShft>SP roan <BckSp><BckSp>d,<BckSp>. <LShft>We can able to resu<BckSp><BckSp><LCtrl>zzto reduc<BckSp>ce the <LShft>BOM amount.all the <Del><Del><Del><Del><Del><Del><Del><Del>components<BckSp>total amount <Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><BckSp> <BckSp><Left>
+2018-07-06 16:37:38+0530 > 
+2018-07-06 16:37:39+0530 > <Right><Right><Right><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>passice<BckSp><BckSp>ve<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><#+17><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>checked total<BckSp><BckSp><BckSp><BckSp><BckSp><LShft>BOM cost of <LShft>Home <LShft>Automation <BckSp>,<LShft>It was reached neerly <Left><Left><Left><Left><BckSp>a<Right><Right><Right><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>3000<Left><Left><Left><Left><LShft>RS><BckSp>.<Right><Right><Right><Right><Right><LShft>Above.<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>cost.silicon cap
+2018-07-06 17:01:24+0530 > <LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl>pcb des<LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl>llt<BckSp><BckSp><BckSp>ltst-c230krlt<BckSp><BckSp>kt<Right><Right><Right><Right><Right>1206<Down>
+2018-07-06 17:23:09+0530 > circle ve<BckSp>s <BckSp><BckSp><BckSp>s anulas<BckSp><BckSp><BckSp><BckSp>nulus
+2018-07-06 17:31:30+0530 > mils<Down><Down><Down><Down><Down>
+2018-07-06 19:40:15+0530 > <KP1><KP0><KP0><KP0><BckSp><BckSp><BckSp><BckSp><KP2><KP0><BckSp><KP5>cada<BckSp>st
+2018-07-06 20:27:02+0530 >  bootm <BckSp><BckSp><BckSp><BckSp>ttom layer deign<BckSp><BckSp><BckSp>sign
+2018-07-06 20:27:31+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><#+23>how to designm <BckSp><BckSp> bottom lal<BckSp>yer in cadst<CpsLk>R<BckSp><#+2><CpsLk>ar
+2018-07-06 20:35:11+0530 > <BckSp><#+43><Down><Down>
+2018-07-06 20:35:36+0530 > how to pad<BckSp><BckSp><BckSp>smd pad cteate <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>reate in cadstar
+2018-07-06 20:49:21+0530 >   <BckSp>create pad in cad star
+2018-07-06 20:50:23+0530 > 
+2018-07-06 20:52:02+0530 > pad e<BckSp>design
+2018-07-06 20:52:30+0530 > how to create foot <BckSp>print in zuken cadpad design
+2018-07-06 20:56:08+0530 > 
+2018-07-06 20:56:37+0530 > 
+2018-07-06 20:56:38+0530 > 
+2018-07-06 20:57:08+0530 > 
+2018-07-06 20:57:09+0530 > 
+2018-07-06 20:57:09+0530 > 
+2018-07-06 20:57:09+0530 > 
