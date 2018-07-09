@@ -1,0 +1,37 @@
+Logging started ...
+
+2018-07-07 09:37:50+0530 > zs123456
+2018-07-07 09:38:08+0530 > <LCtrl><LCtrl>f<LCtrl>fust<NumLk><NumLk><BckSp><BckSp><BckSp>uart23<BckSp>
+2018-07-07 09:41:15+0530 > <Down><Down><Down><Down><RCtrl>==<Right><Right><Right><CpsLk><CpsLk><Tab>`<Left><Left><Left><Left><Left><LCtrl><LCtrl>c
+2018-07-07 09:45:15+0530 > <LCtrl>v
+2018-07-07 09:45:42+0530 > <LCtrl><LCtrl><LCtrl><LCtrl><LCtrl>mils 
+2018-07-07 11:25:06+0530 > <KP1><KP0><KP0><KP0><BckSp><BckSp><BckSp><BckSp><KP1><KP5><BckSp><BckSp><KP3><KP0><BckSp><BckSp><KP2><KP5>plate the<BckSp>rough <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>t<BckSp>rough in pcb<Down><Down>
+2018-07-07 12:07:02+0530 > cm to mm
+2018-07-07 12:33:48+0530 > <KP9><KP.><KP0><KP2><BckSp><BckSp><BckSp><BckSp><KP4><KP.><KP4><KP9>esp3266ex
+2018-07-07 12:58:44+0530 >  pin 
+2018-07-07 12:58:50+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Down><Down>
+2018-07-07 12:58:56+0530 > mammsmee<BckSp><BckSp><BckSp><BckSp><LShft>Meeting point<LShft>Hi all,
+2018-07-07 14:31:48+0530 > 
+2018-07-07 14:31:48+0530 > 
+2018-07-07 14:31:48+0530 > 
+2018-07-07 14:31:48+0530 > <LShft>As wee<BckSp> discussed <LCtrl><LCtrl> <BckSp> <LShft>( <LShft>Home automar<BckSp><BckSp><#+17><BckSp>for home automationmeeting <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp> meeting  our home automation <Left><BckSp><LShft>O3loads <BckSp><BckSp>3 laods <BckSp><BckSp><BckSp><BckSp><BckSp>oads <LShft><BckSp><BckSp><BckSp><#+10><BckSp>, we <BckSp><BckSp><BckSp><LShft>We confirmed 3 laods <LShft>(<Del><BckSp><BckSp><BckSp>oads<BckSp>\<BckSp><#+43><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp> about the <LShft>Home automation pcb design <BckSp> <BckSp>.
+2018-07-07 14:47:27+0530 > <BckSp><BckSp>project.
+2018-07-07 14:47:47+0530 > 
+2018-07-07 14:47:48+0530 > <BckSp>
+2018-07-07 14:47:52+0530 > <LShft>I going to implen<BckSp>ment based on our dicuss<BckSp><#+10><BckSp><BckSp><BckSp><BckSp><#+11><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>on pcb disgn <BckSp><BckSp><BckSp><BckSp><BckSp>esign follwing things
+2018-07-07 14:49:04+0530 > <LShft>Based on that <LShft>Our discussed , ,
+2018-07-07 14:49:44+0530 > 
+2018-07-07 14:49:45+0530 > <LShft>!<BckSp>1. pre<BckSp><BckSp><BckSp><LShft>Before <LShft>i used <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>I used 5 loads <LShft>( fan <BckSp>, <LShft>$<BckSp>4 light<BckSp><BckSp><BckSp><LShft>!<BckSp>1. like  , fan speed up and down<RShft>)
+2018-07-07 14:51:33+0530 > 
+2018-07-07 14:51:34+0530 > 2<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>,<BckSp><BckSp> 
+2018-07-07 14:52:14+0530 > 
+2018-07-07 14:52:14+0530 > <BckSp><BckSp>. <BckSp> , now <BckSp><BckSp><BckSp><BckSp><LShft>Now <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>instead of use , <Left><BckSp><LShft>Inow  going to use <Left><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp> , n<BckSp><LShft>Now <LShft>I going to design start <Left><BckSp><LCtrl>c
+2018-07-07 14:55:14+0530 > <LCtrl>v<BckSp><BckSp><BckSp><BckSp><AltGr>,
+2018-07-07 14:55:39+0530 > 
+2018-07-07 14:55:39+0530 > <LShft>Now <BckSp> <LShft>( 2 ligh<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>1 light , 1fan  <BckSp><BckSp><BckSp>fan and speedup <BckSp>and down, 1 socket<LShft>)<BckSp><BckSp><BckSp><BckSp>ion<LCtrl>zz.
+2018-07-07 14:57:21+0530 > 
+2018-07-07 14:57:21+0530 > <BckSp>mob<BckSp>vie
+2018-07-07 20:06:00+0530 > 
+
+Logging stopped at 2018-07-07 20:11:01+0530
+
