@@ -1,0 +1,39 @@
+Logging started ...
+
+2018-07-09 09:58:00+0530 > zs123456
+2018-07-09 09:58:11+0530 > 
+2018-07-09 09:59:09+0530 > 
+2018-07-09 09:59:13+0530 > <LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><Left><Left><Left><Left><Right><Right><Right><Right><LCtrl>f<LCtrl><LCtrl>c
+2018-07-09 10:00:35+0530 > <LCtrl>v<LCtrl><LCtrl>ften1<LCtrl><LCtrl>c
+2018-07-09 10:04:43+0530 > <LCtrl>v
+2018-07-09 10:04:47+0530 > <LCtrl><LCtrl><Esc><LCtrl>c
+2018-07-09 10:07:12+0530 > <RShft>zai<LShft><LShft>Dogwood <LShft>UART to <LShft>$*%<BckSp><BckSp><BckSp>485 chip details<LShft>HI <BckSp><BckSp>i sit<BckSp>r,
+2018-07-09 10:10:28+0530 > 
+2018-07-09 10:10:28+0530 > <LShft><LShft>THis is <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>his is the <LShft>Part number
+2018-07-09 10:10:44+0530 > 
+2018-07-09 10:10:44+0530 > <LCtrl>c
+2018-07-09 10:10:53+0530 > <LCtrl>vi<BckSp><LShft>I  --- half duplex<BckSp><LShft>H
+2018-07-09 10:11:34+0530 > 
+2018-07-09 10:11:34+0530 > <LCtrl>v -----  opto cop<BckSp>upler<BckSp><BckSp><LShft>Isolator<Del>mils to mm
+2018-07-09 10:28:40+0530 > <KP2><KP5><KP9><KP0><KP9><KP0><KP2><KP5>q<BckSp><BckSp><BckSp><KP1><KP0><BckSp><BckSp><KP3><KP0><BckSp><BckSp><KP1><KP0>08-<BckSp>05<Down><Down><Down><Down><Down>
+2018-07-09 13:02:27+0530 > <KP0><KP4><KP0><KP2>
+2018-07-09 13:03:26+0530 > <LCtrl><LCtrl>ey<BckSp>therm<BckSp>net <BckSp><BckSp><BckSp><BckSp><BckSp>net pin <Down><Down>
+2018-07-09 14:44:08+0530 > <LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl>fio<BckSp>nolex<Up><Up><Up><Up><Up><Up><Up><LCtrl><LCtrl>c
+2018-07-09 19:36:42+0530 > <LCtrl>f<LCtrl>v
+2018-07-09 19:36:45+0530 > 
+2018-07-09 19:36:51+0530 > 
+2018-07-09 19:36:55+0530 > 
+2018-07-09 19:37:04+0530 > 
+2018-07-09 19:37:19+0530 > 
+2018-07-09 19:37:22+0530 > 
+2018-07-09 19:37:24+0530 > 
+2018-07-09 19:37:26+0530 > <LCtrl><LCtrl>c
+2018-07-09 19:39:48+0530 > <LCtrl>f<LCtrl>v
+2018-07-09 19:40:05+0530 > 
+2018-07-09 19:40:06+0530 > 
+2018-07-09 19:40:07+0530 > 
+2018-07-09 19:40:07+0530 > 
+2018-07-09 19:40:08+0530 > <LCtrl><LCtrl><LCtrl>imx<BckSp>x6ul referdat<LCtrl>fonoff<BckSp>ll re<LCtrl><LCtrl>fov<BckSp>noff<LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl>c
+2018-07-09 20:00:29+0530 > <LCtrl>v
+2018-07-09 20:00:33+0530 > <LCtrl>c
+2018-07-09 20:01:05+0530 > <LCtrl>f<LCtrl>v
