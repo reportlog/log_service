@@ -1,0 +1,57 @@
+Logging started ...
+
+2018-07-12 09:32:13+0530 > zs1<BckSp>123456
+2018-07-12 09:32:36+0530 > english to 
+2018-07-12 09:33:50+0530 > eng<Down>
+2018-07-12 09:35:31+0530 > en
+2018-07-12 09:36:22+0530 > the best way ton<BckSp> find yourselfis <BckSp><BckSp><BckSp> is to lose yourself in the service of others<BckSp>s<BckSp><#+39><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>to lose yourself<Left><#+23><Right><Right>is <Down> in the serviv<BckSp>ce of otherstamilmatrimony
+2018-07-12 09:43:48+0530 > <KP8><KP6><KP8><KP0><KP0><KP5><KP9><KP3><KP3><KP4>muthukri
+2018-07-12 09:44:00+0530 > <BckSp>yourself<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>aggri<BckSp>egar<BckSp>tors<Left><#+9><Left><Left><Left><Left><Left><Left><Left>cab  face tre<BckSp>ust dificult <BckSp><BckSp><BckSp><BckSp>it as attacks on women passengers rise <BckSp><#+80>dificit<BckSp><#+17>trusted<BckSp><BckSp>ing<BckSp><BckSp><BckSp>facebook
+2018-07-12 09:51:07+0530 > <KP8><KP6><KP8><KP0><KP0><KP5><KP9><KP3><KP3><KP4><KP1><KP1><KP0><KP5><KP9><BckSp><BckSp><BckSp><BckSp><BckSp><KP1><KP1><KP0><KP5><KP1><KP9><KP9><KP4>
+2018-07-12 09:51:24+0530 > who is that lucky guy
+2018-07-12 09:52:14+0530 > since i meet you<Left><Left><BckSp> i become a better persion<BckSp><BckSp><BckSp>onthank you<BckSp><#+18>amazing line
+2018-07-12 09:53:45+0530 > thank you sister
+2018-07-12 09:54:09+0530 > good luck....god hepl<BckSp><BckSp>lp with you
+2018-07-12 09:54:44+0530 > e<BckSp><BckSp><#+30><BckSp>ou<BckSp><BckSp><BckSp><BckSp><BckSp><Right><Right><Right><Right><Right>e<Left><#+15>since<Right><Right><Right><Right><Right><Right><BckSp><Right><Right><Right><Right><Right><Right><BckSp><#+15><BckSp><BckSp><BckSp><BckSp><BckSp>since i meet you<BckSp><BckSp><BckSp><#+21>cadance pcb <Down>
+2018-07-12 10:03:51+0530 > o<BckSp>mouser
+2018-07-12 10:09:00+0530 > ncp1077p065g
+2018-07-12 10:09:14+0530 > <LCtrl><LCtrl><LCtrl><LCtrl>scr<LCtrl><LCtrl><LCtrl>ss<Esc><Esc><Esc><Esc><Esc><Esc>s<LCtrl>c
+2018-07-12 10:41:00+0530 > mk
+2018-07-12 10:41:07+0530 > <LCtrl>c
+2018-07-12 10:47:32+0530 > klkl
+2018-07-12 10:47:40+0530 > <LCtrl>v<LCtrl>a<Del><Del><Del><LCtrl>a<LCtrl>jjndsjdf
+2018-07-12 10:51:57+0530 > <LCtrl>v<Del><Del><RShft><Home><#+2><Del><#+1>
+2018-07-12 10:52:40+0530 > <LCtrl>v<LCtrl>a<Del><Del><#+68>
+2018-07-12 10:53:38+0530 > <RShft><Del>
+2018-07-12 10:53:41+0530 > <LCtrl>c
+2018-07-12 10:53:54+0530 > p<Up><Down><#+116>
+2018-07-12 11:06:20+0530 > <LCtrl><LCtrl><LCtrl>rinf input err<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>mport r<BckSp>line 84 synter<BckSp>x error in cadstar
+2018-07-12 12:06:24+0530 > <BckSp>syntex <BckSp><BckSp><BckSp>ax reeor <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>error in cadsa<BckSp>tar
+2018-07-12 12:08:18+0530 > incremental error
+2018-07-12 12:09:32+0530 >  in cadstar
+2018-07-12 12:09:47+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>rinfc<BckSp> reader found one err<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>one error in cadstar
+2018-07-12 12:14:17+0530 > what is u<BckSp>increamental reader r<BckSp>error
+2018-07-12 12:16:01+0530 > cadstar error
+2018-07-12 12:16:38+0530 > pcb design 
+2018-07-12 12:17:51+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>nert<BckSp><BckSp>tlist 
+2018-07-12 12:18:22+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><#+27>line 84 syntax error in a<BckSp>cadstar<BckSp><Right><Right><BckSp><BckSp><BckSp><BckSp>dstar
+2018-07-12 12:22:08+0530 > syntax error on cadstar
+2018-07-12 12:36:20+0530 > how r<BckSp>to slove <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>solve 
+2018-07-12 12:39:20+0530 > cadstar <LAlt> error
+2018-07-12 12:41:46+0530 > cadstar import netlist ero<BckSp>ror<BckSp><BckSp><BckSp><BckSp><BckSp>sy<Down>
+2018-07-12 12:43:15+0530 >  ere<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>i<BckSp>from orcad
+2018-07-12 12:43:50+0530 > <LCtrl>c
+2018-07-12 12:44:37+0530 > <LCtrl>v su<BckSp>yntax error is came
+2018-07-12 12:44:53+0530 > <LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><Left><#+18><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><Down><#+173><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl>
+2018-07-12 18:08:15+0530 > e
+2018-07-12 20:01:38+0530 > ti<BckSp><BckSp>you can do this project<Up><Right><Right>must <BckSp>be <Left><Left><Left> <BckSp><BckSp><BckSp><BckSp><BckSp><Right><Right><BckSp><BckSp><BckSp><Right><Right><Right><Right>must be <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Left><#+16><Right><Right><Right><#+9><Right><Right><BckSp><#+16>can you<Left><#+16>is<BckSp>f <Right><Right><Right><Right><BckSp><BckSp><BckSp><BckSp><Right><Right><Right><Right>can microcontroller
+2018-07-12 20:03:55+0530 > facebook
+2018-07-12 20:04:04+0530 > <KP8><KP6><KP8><KP0><KP0><KP5><KP9><KP3><KP3><KP4><KP1><KP1><KP0><KP5><KP1><KP9><KP9><KP4>
+2018-07-12 20:04:17+0530 > ba<BckSp>eautiful baby
+2018-07-12 20:05:15+0530 > mudiyalaaa
+2018-07-12 20:06:34+0530 > iyyodaa
+2018-07-12 20:07:05+0530 > yes
+2018-07-12 20:07:33+0530 > hi
+2018-07-12 20:08:16+0530 > hello
+2018-07-12 20:08:20+0530 > googh<BckSp><#+13>987654321
+2018-07-12 20:10:31+0530 > 
