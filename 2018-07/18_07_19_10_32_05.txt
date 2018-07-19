@@ -1,0 +1,36 @@
+Logging started ...
+
+2018-07-19 10:32:06+0530 > zs123456
+2018-07-19 10:41:35+0530 > mfi blut<BckSp><LCtrl>fmfi<LCtrl>f<LCtrl>f<BckSp>sym<BckSp><BckSp><BckSp>logo
+2018-07-19 12:03:30+0530 > kcwork orderpc<LShft>Work order<LShft><LShft>Hi ,
+2018-07-19 12:14:45+0530 > 
+2018-07-19 12:14:45+0530 > <LShft>good <BckSp><BckSp><BckSp><BckSp><BckSp><LShft>Good day<RShft>!
+2018-07-19 12:14:59+0530 > 
+2018-07-19 12:15:02+0530 > <LShft>Here <LShft>I attached work orf<BckSp>der <BckSp>, <LShft>Please find it..
+2018-07-19 12:15:24+0530 > 
+2018-07-19 12:15:25+0530 > <LShft>Please <LShft>Start the activitu<BckSp>y ri<BckSp><BckSp>immedietly  , <BckSp><BckSp><BckSp>.<BckSp><BckSp><#+19><BckSp><#+11>activity.....
+2018-07-19 12:16:45+0530 > 
+2018-07-19 12:16:45+0530 > <LShft>We need a 10 bi<BckSp>oards and <BckSp><BckSp><BckSp><BckSp><LShft>( 7 working days <LShft>) , cu<BckSp><BckSp><BckSp>ac current sensor
+2018-07-19 12:24:30+0530 > gsm 3,<BckSp>.3v 
+2018-07-19 12:36:33+0530 >  module
+2018-07-19 12:36:59+0530 > how to apply pay <BckSp>harees<BckSp><BckSp>shmenti phone bluehow to measure the current
+2018-07-19 12:57:45+0530 > ac  to misur<BckSp><BckSp><BckSp>short circuit protection in ac signal
+2018-07-19 12:59:43+0530 > hi link 5v 1 amps
+2018-07-19 13:00:24+0530 > ac circi<BckSp>uit input <BckSp>s<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>short circuit protection
+2018-07-19 13:03:12+0530 > <Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+13><Down><Down><#+11><Down><Down><#+25><Down><Down><Down><Down><Down><Down><Down><Down><Up><#+26><Up><#+19><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><#+7><Down><#+21><Down><#+19><Down><#+8><Down><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><#+23><Up><#+9><Down><#+8><Up><#+15><Down><Down><Down><Down><Down><Down><#+6> fuse ptc
+2018-07-19 14:29:56+0530 > <BckSp> protection
+2018-07-19 14:30:30+0530 > 230v 
+2018-07-19 14:32:14+0530 > <BckSp><BckSp><BckSp><BckSp><#+149>ac <BckSp><BckSp><BckSp><BckSp><BckSp>ac cir pro<BckSp>pro<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>cirntc use
+2018-07-19 14:48:34+0530 > how to choose ntc
+2018-07-19 14:50:22+0530 > what is difference between ptc and var u<Up><Up><Up><Down>what is internal rtc out<BckSp><BckSp><BckSp>or <BckSp><#+30><BckSp><BckSp><BckSp>rtcc module<Down>
+2018-07-19 18:07:19+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp> iccoin recha<Esc><Esc><Esc><Esc>vx<BckSp>cnl4<BckSp><BckSp>dhi link 5v 2amps
+2018-07-19 18:21:18+0530 > g
+2018-07-19 18:23:11+0530 > autom<Down><BckSp><#+8><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>street<Down> gs<Down>
+2018-07-19 18:23:45+0530 > <LCtrl><LCtrl>weather con sen <BckSp>light sy<Down>
+2018-07-19 18:30:04+0530 > <BckSp> gsm<Right><Down>
+2018-07-19 18:31:36+0530 > <BckSp><Left><#+1><Left><#+29><Left><Left><Left><Right><Right><#+16><Right><#+15> gsm
+2018-07-19 18:32:38+0530 >  pr<Down>
+2018-07-19 18:32:58+0530 > 3.3v gd<BckSp>sm  list
+2018-07-19 18:37:51+0530 > <BckSp><BckSp><BckSp><BckSp>
+2018-07-19 18:39:55+0530 > simm800c <LCtrl>felectr3.3v m<BckSp><BckSp> supply gsm mod<BckSp><BckSp><BckSp><BckSp>odule
+2018-07-19 18:42:28+0530 >  <BckSp><BckSp>e powe
