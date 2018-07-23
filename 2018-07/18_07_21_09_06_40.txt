@@ -1,0 +1,10 @@
+Logging started ...
+
+2018-07-21 21:06:41+0530 > zs123456
+2018-07-21 21:08:19+0530 > yout<Down><Down>
+2018-07-21 21:09:16+0530 > tamil movie hot rafe
+2018-07-21 21:09:36+0530 > <BckSp><BckSp><BckSp><BckSp>seree e<BckSp>remove
+2018-07-21 21:12:14+0530 > <LCtrl>a<LCtrl>a<Del><Del><Del><Del><Del><Del><Del>
+
+Logging stopped at 2018-07-21 21:28:41+0530
+
