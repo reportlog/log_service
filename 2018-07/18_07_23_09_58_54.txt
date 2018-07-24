@@ -1,0 +1,138 @@
+Logging started ...
+
+2018-07-23 09:58:55+0530 > zs123456
+2018-07-23 09:59:10+0530 > <LCtrl>facebookfacebook
+2018-07-23 10:02:16+0530 > <KP8><KP6><KP8><KP0><KP0><KP5><KP9><KP3><KP3><KP4><KP1><KP1><KP0><KP5><KP1><KP9><KP9><KP4>
+2018-07-23 10:02:28+0530 > pakthi overahh <BckSp><BckSp><BckSp><BckSp> ahh irukkuthu
+2018-07-23 10:03:12+0530 > beautiful bro
+2018-07-23 10:04:16+0530 > <Del>acs712 <Right> co<BckSp><BckSp><#+5><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>datasadc chip
+2018-07-23 10:27:05+0530 > comparator
+2018-07-23 10:27:33+0530 >  using analog to digital
+2018-07-23 10:27:47+0530 > how to convert 5v to 3.3v using mosfet
+2018-07-23 10:28:38+0530 > 5v analog to 3.3v digital
+2018-07-23 10:30:25+0530 >  ic
+2018-07-23 10:42:36+0530 > x<BckSp><#+62>acs712 to<BckSp><BckSp>vot <BckSp><BckSp>ut 5v to 3.3v
+2018-07-23 10:44:13+0530 > analog to digital conver ic
+2018-07-23 10:47:27+0530 > mcp3002 <BckSp>analog to digital  d<BckSp>single data
+2018-07-23 10:49:28+0530 > <BckSp> comparator
+2018-07-23 10:49:47+0530 > or
+2018-07-23 10:49:50+0530 > <BckSp><BckSp>renesas <BckSp><#+24>r5f102aa<LCtrl>fanalog<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>avrefpgf1a renesas <BckSp><#+25>rl78 to anala<BckSp>og sensor cinnection
+2018-07-23 11:13:03+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>onnection
+2018-07-23 11:13:11+0530 > /g12
+2018-07-23 11:34:05+0530 > <BckSp><BckSp><#+19><BckSp><BckSp><BckSp><BckSp>analog input connection
+2018-07-23 11:36:12+0530 >  data<Down>
+2018-07-23 11:43:49+0530 > rl78/g12 analog input voltage pdf
+2018-07-23 11:46:41+0530 > <LCtrl>fanalog298
+2018-07-23 11:48:49+0530 > 
+2018-07-23 11:48:50+0530 > <BckSp><BckSp><BckSp><#+27>hardware design pdf
+2018-07-23 11:56:04+0530 > <LCtrl>f30
+2018-07-23 11:56:30+0530 > 
+2018-07-23 11:56:31+0530 > 
+2018-07-23 11:56:33+0530 > 
+2018-07-23 11:56:33+0530 > 
+2018-07-23 11:56:34+0530 > 
+2018-07-23 11:56:34+0530 > 
+2018-07-23 11:56:35+0530 > 
+2018-07-23 11:56:35+0530 > 
+2018-07-23 11:56:36+0530 > 
+2018-07-23 11:56:36+0530 > 
+2018-07-23 11:56:36+0530 > 
+2018-07-23 11:56:36+0530 > 
+2018-07-23 11:56:37+0530 > 
+2018-07-23 11:56:37+0530 > 
+2018-07-23 11:56:37+0530 > 
+2018-07-23 11:56:37+0530 > 
+2018-07-23 11:56:37+0530 > 10
+2018-07-23 11:56:44+0530 > 
+2018-07-23 11:56:45+0530 > 
+2018-07-23 11:56:46+0530 > 
+2018-07-23 11:56:46+0530 > 
+2018-07-23 11:56:47+0530 > 
+2018-07-23 11:56:47+0530 > 
+2018-07-23 11:56:47+0530 > 
+2018-07-23 11:56:47+0530 > 
+2018-07-23 11:56:47+0530 > 
+2018-07-23 11:56:48+0530 > 
+2018-07-23 11:56:48+0530 > 
+2018-07-23 11:56:48+0530 > 
+2018-07-23 11:56:48+0530 > 
+2018-07-23 11:56:49+0530 > 
+2018-07-23 11:56:49+0530 > 
+2018-07-23 11:56:49+0530 > 
+2018-07-23 11:56:49+0530 > 
+2018-07-23 11:56:50+0530 > 
+2018-07-23 11:56:50+0530 > 
+2018-07-23 11:56:50+0530 > 
+2018-07-23 11:56:50+0530 > 
+2018-07-23 11:56:51+0530 > 
+2018-07-23 11:56:51+0530 > 
+2018-07-23 11:56:51+0530 > 
+2018-07-23 11:56:51+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>\<BckSp><BckSp>10analog<LCtrl>c
+2018-07-23 11:57:26+0530 > <LCtrl>va.d converter refreadc comparator design
+2018-07-23 12:09:37+0530 >  exapleanalogcomparator calculation<LCtrl>c
+2018-07-23 12:27:19+0530 > <LCtrl>velectelectrical so<BckSp>pecificationptc fuse<Down>
+2018-07-23 12:43:15+0530 >  or glass fuse which one b<BckSp><#+12><BckSp><BckSp><#+24><BckSp><BckSp><BckSp><LCtrl><LCtrl>what is 
+2018-07-23 12:48:12+0530 > ac voltage ptc fuse
+2018-07-23 12:50:29+0530 > ptc fuse calaculation
+2018-07-23 12:51:03+0530 > ac protection single phase
+2018-07-23 12:52:20+0530 >  circuti
+2018-07-23 12:52:29+0530 > <BckSp><BckSp><BckSp>uit
+2018-07-23 12:52:36+0530 > <BckSp>
+2018-07-23 12:53:02+0530 >  circuit
+2018-07-23 12:53:13+0530 > <LCtrl>c
+2018-07-23 12:55:43+0530 > <LCtrl>vptc fuse for ac line
+2018-07-23 12:56:52+0530 > 20 amps 
+2018-07-23 12:58:26+0530 > <BckSp><#+36>how to select the mov <Down><Down><Down><Up>
+2018-07-23 13:12:28+0530 > what is clamping volt<BckSp><#+15><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>d<BckSp>surge15 amps fuse
+2018-07-23 13:31:29+0530 >  ptc
+2018-07-23 13:31:37+0530 > ac fuse
+2018-07-23 14:19:02+0530 > 
+2018-07-23 14:23:01+0530 > <Right><Right><Right><Right><Right><Right><Left><RShft><Up><Up><Up><Left><Down><Down><Up><Up><Up><Up><#+76><Down><#+12><Down><Down><Down><#+14><Down><#+12><Down><#+10><Down><Down><#+8><Down><#+27><Down><#+14><Down><#+13><Down><Down><Down><#+12><Up><Up><Up><Up><Up>ac voltage fuse
+2018-07-23 14:25:37+0530 > s
+2018-07-23 14:25:53+0530 > <LCtrl><LCtrl><LCtrl>c
+2018-07-23 14:26:34+0530 > <LCtrl>vr<BckSp>resee<BckSp>ttable ac ptc calculation for fuse<RShft>
+2018-07-23 14:32:41+0530 > ac pt<BckSp>rotection<Down><Down><Down><Up>
+2018-07-23 14:36:08+0530 > resee<BckSp>ttable ac inductance<Down>
+2018-07-23 14:50:57+0530 > protection madhi<BckSp><Down>
+2018-07-23 14:53:03+0530 > h<BckSp><BckSp>mov selection
+2018-07-23 15:00:13+0530 > surge pr <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>2kv means <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>
+2018-07-23 15:03:52+0530 > 
+2018-07-23 15:05:50+0530 > outdoor<BckSp><#+38>outdoor ac cu<BckSp><BckSp><BckSp> peak s<BckSp>current 
+2018-07-23 15:09:30+0530 > how to find ac peak voltage
+2018-07-23 15:10:43+0530 > ac connector 20 ampcb 
+2018-07-23 15:11:59+0530 > <BckSp><BckSp><#+16>20 amps terminal block 300 vaxc<BckSp><BckSp><BckSp>ac 
+2018-07-23 15:12:55+0530 > 3amps dc dc buck
+2018-07-23 15:25:55+0530 >  bot<BckSp><#+30>5v and 3.3v dc dc buck
+2018-07-23 15:26:48+0530 > 3<BckSp><BckSp><BckSp>single dc<BckSp><BckSp>chip both o<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>two output s<BckSp>dc dc bi<BckSp>uck
+2018-07-23 15:28:06+0530 > voltage <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>3.3v to 5v<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>one <BckSp><BckSp><BckSp><BckSp><BckSp>single fb using twom<BckSp><BckSp> <BckSp>o outo<BckSp>put dc dc buck
+2018-07-23 15:33:45+0530 > 1 amps buc<BckSp><BckSp><BckSp>dc to dc buck
+2018-07-23 15:35:25+0530 > micro controller <BckSp><#+27>gsm powerre<BckSp><BckSp>rl78/g12
+2018-07-23 15:38:31+0530 > 
+2018-07-23 15:40:22+0530 > sim800c <LCtrl>fvdd<LCtrl>s<LCtrl><LCtrl><Del>d<LShft>On<BckSp><BckSp><BckSp><LShft>Request of<BckSp><BckSp>for samples<LShft>Hi <LShft>Dhairya,
+2018-07-23 16:16:15+0530 > 
+2018-07-23 16:16:15+0530 >  <LShft>As per dis<BckSp><BckSp><BckSp><LShft>Disscussed , we need <LShft>Samples of<BckSp><#+14><BckSp><#+14><BckSp><BckSp><BckSp><BckSp>
+2018-07-23 16:16:52+0530 > 
+2018-07-23 16:16:53+0530 >  , we will release r<BckSp>the work order of <BckSp><BckSp><BckSp>for e<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp> ,<BckSp><BckSp>.
+2018-07-23 16:17:28+0530 > 
+2018-07-23 16:17:29+0530 >  <BckSp><BckSp> <RShft>
+2018-07-23 16:17:34+0530 >  <BckSp><BckSp><BckSp>we
+2018-07-23 16:17:50+0530 > <BckSp><BckSp> <LShft>Tod<BckSp><BckSp><BckSp><BckSp>.
+2018-07-23 16:17:57+0530 >  
+2018-07-23 16:17:58+0530 >  <LShft>But we need a <BckSp> 6 quantity for each components <BckSp>.extra 3 or 4 samples componr<BckSp>ents for <BckSp><BckSp><BckSp><BckSp><#+15><BckSp><BckSp><BckSp>for each components <BckSp>.
+2018-07-23 16:20:29+0530 > 
+2018-07-23 16:20:30+0530 > <BckSp> 
+2018-07-23 16:20:36+0530 >   <BckSp><BckSp><BckSp><BckSp><BckSp> for sample boards.
+2018-07-23 16:21:32+0530 > 
+2018-07-23 16:21:33+0530 >  <LShft>If <LShft>its <BckSp><BckSp><BckSp><BckSp><LShft>I<BckSp><LShft><LShft>now <LShft>It is <BckSp><BckSp><BckSp><BckSp>'s p<BckSp><LShft>Possible <BckSp><BckSp><BckSp><#+14><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>please <LShft>Update me <LShft>ASAP.
+2018-07-23 16:22:48+0530 > 
+2018-07-23 16:22:49+0530 >  
+2018-07-23 16:22:54+0530 > 
+2018-07-23 16:22:55+0530 >   <BckSp><LShft>Onv<BckSp>ce we finshed sample boards , we plan go for 1000 quantity <BckSp><BckSp><BckSp><BckSp><BckSp>foe<BckSp>r <LShft>Bulk order <BckSp>.will <BckSp><BckSp><BckSp><BckSp><BckSp><Left><BckSp><LShft><LShft>P
+2018-07-23 16:24:35+0530 > <BckSp><BckSp>mouser
+2018-07-23 16:42:17+0530 > terminal block
+2018-07-23 16:42:29+0530 > kathiruppor pattiyal
+2018-07-23 16:50:16+0530 > merlin
+2018-07-23 16:50:32+0530 >  tartc module
+2018-07-23 17:04:08+0530 > 5v 20ampterminal gf1400 resettable fuse
+2018-07-23 17:14:51+0530 > ptc 275 v 14 amps fuse
+2018-07-23 17:16:52+0530 > 
