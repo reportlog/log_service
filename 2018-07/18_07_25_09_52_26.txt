@@ -1,0 +1,105 @@
+Logging started ...
+
+2018-07-25 09:52:26+0530 > zs123456
+2018-07-25 09:52:44+0530 > gsm to <BckSp><#+23>simm800 to microcontroller interface
+2018-07-25 09:54:36+0530 > max 232 data<Down>
+2018-07-25 09:56:39+0530 > to gsm to microcontroller
+2018-07-25 09:59:29+0530 > <BckSp> interface using max232
+2018-07-25 10:01:57+0530 > 800c dsim
+2018-07-25 10:04:52+0530 > <BckSp>to microc interface schematic
+2018-07-25 10:11:35+0530 > gsm based max 232 ic 3.3v to 5v uart  leve<BckSp><BckSp><BckSp>4
+2018-07-25 10:22:01+0530 > gsm to microcontroller interface ud<BckSp>sing maac712 interface
+2018-07-25 10:31:32+0530 > <BckSp><#+10><BckSp><BckSp><BckSp><BckSp><BckSp> acuart proto\<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><#+24>max232 sim800c to microcontroller interfacing
+2018-07-25 10:37:26+0530 > what is ttl and 3.3v to 5v  uart co<BckSp><BckSp>
+2018-07-25 10:47:16+0530 > n channel 
+2018-07-25 10:48:21+0530 > <LCtrl><LCtrl><LCtrl> max 232 
+2018-07-25 10:56:29+0530 > <BckSp>c leb<BckSp>vel converter
+2018-07-25 10:58:23+0530 > max<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>le<BckSp><BckSp><BckSp>3.3v to 5v <BckSp><#+21>gsm to mict<BckSp>rocontroller level shifdsamples <BckSp><#+24><LShft>Request for samples<LShft>Hi dha<BckSp><BckSp><BckSp><BckSp> <LShft>Dhairya,
+2018-07-25 11:06:15+0530 > 
+2018-07-25 11:06:15+0530 > <LShft>we are all di<BckSp><BckSp><#+12><BckSp><BckSp>are <BckSp><BckSp><BckSp><#+13>
+2018-07-25 11:07:17+0530 > 
+2018-07-25 11:07:18+0530 > <LShft>I did<BckSp>scussed with <BckSp><BckSp><#+18><BckSp>we all discussed <Left><Left> arewith s<BckSp><BckSp><#+27><BckSp><BckSp><BckSp><BckSp><LShft>I disscussed with team lead and purchasing department also , <LShft>They <BckSp><BckSp>a were strity <BckSp><BckSp><BckSp><BckSp>ictky told <BckSp><#+13><BckSp><BckSp><BckSp><BckSp><BckSp>hould asked <LShft>Samo<BckSp>ples <BckSp>.<BckSp> fo r <BckSp><BckSp><BckSp>r each components <BckSp>.
+2018-07-25 11:11:40+0530 > 
+2018-07-25 11:11:40+0530 > <LShft>Dhairya , <LShft>Thia<BckSp>s th<BckSp><BckSp>is smples <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>ample <BckSp><BckSp><#+9><BckSp><BckSp><BckSp><#+13>we are done sample board and <Left>swe will project<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>projec<BckSp><BckSp><BckSp><BckSp>ojrec<BckSp><BckSp><BckSp>ect<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>ro<BckSp><BckSp><#+8><BckSp><BckSp>demo <Left>do to the our customer lik<BckSp><BckSp><BckSp><LShft>( <LShft>Abb<BckSp><BckSp><LShft>BB.<BckSp> , ha<BckSp><BckSp><LShft>Hav<BckSp><BckSp><BckSp>give <Left>sells hac<BckSp>vell,only  theautomatio<BckSp><#+20>home automation ind...<LShft>)
+2018-07-25 11:17:28+0530 > 
+2018-07-25 11:17:29+0530 > <LShft><LShft>With i <BckSp>n one month <LShft>We ww<BckSp>ill give to you<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>Bulk order to you , <LShft>Please once again ask your <LShft>Suppillerswill you <BckSp><BckSp><BckSp><BckSp><BckSp>your ..
+2018-07-25 11:20:28+0530 > 
+2018-07-25 11:20:28+0530 > 
+2018-07-25 11:21:46+0530 > 
+2018-07-25 11:21:46+0530 >  and show
+2018-07-25 11:22:32+0530 > 
+2018-07-25 11:22:33+0530 > <LShft>Team <BckSp><BckSp><BckSp><BckSp><BckSp><LShft>Am<BckSp>nd one <BckSp><#+10><BckSp><BckSp><BckSp><LShft>Te<BckSp><BckSp><LShft>Then, <LShft>Our <BckSp><BckSp><BckSp><BckSp><BckSp> <LShft>Theam lead <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>w<BckSp>eam lead and purchase <BckSp><BckSp>ing department <LShft>Strictly told <LShft>samples<BckSp> componr<BckSp>ents , other wise go and try other vendorneed a <BckSp><RCtrl><Left><BckSp>vendor<Down><Down>
+2018-07-25 11:25:46+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp> components s<#+2>uplliers .
+2018-07-25 11:26:16+0530 > 
+2018-07-25 11:26:17+0530 > <LShft>Pl<BckSp><BckSp><LShft>Let me <LShft>As<BckSp><BckSp>as soon as <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>know <CpsLk><LShft>aAS<BckSp><BckSp><BckSp>ASAP.<BckSp> <LCtrl>FUART
+2018-07-25 11:32:35+0530 > 
+2018-07-25 11:32:35+0530 > 1
+2018-07-25 11:32:37+0530 > 
+2018-07-25 11:32:37+0530 > 
+2018-07-25 11:32:38+0530 > 
+2018-07-25 11:32:38+0530 > 
+2018-07-25 11:32:38+0530 > 
+2018-07-25 11:32:39+0530 > 
+2018-07-25 11:32:39+0530 > 
+2018-07-25 11:32:39+0530 > 
+2018-07-25 11:32:39+0530 > 
+2018-07-25 11:32:39+0530 > 
+2018-07-25 11:32:40+0530 > 
+2018-07-25 11:32:40+0530 > 
+2018-07-25 11:32:40+0530 > 
+2018-07-25 11:32:52+0530 > 
+2018-07-25 11:32:53+0530 > 
+2018-07-25 11:32:53+0530 > 
+2018-07-25 11:32:53+0530 > 
+2018-07-25 11:32:53+0530 > 
+2018-07-25 11:32:56+0530 > 
+2018-07-25 11:32:56+0530 > 
+2018-07-25 11:32:56+0530 > 
+2018-07-25 11:32:57+0530 > 
+2018-07-25 11:32:57+0530 > 
+2018-07-25 11:32:57+0530 > 
+2018-07-25 11:32:57+0530 > 
+2018-07-25 11:32:57+0530 > 
+2018-07-25 11:32:57+0530 > 
+2018-07-25 11:32:58+0530 > 
+2018-07-25 11:32:59+0530 > 
+2018-07-25 11:32:59+0530 > 
+2018-07-25 11:33:00+0530 > 
+2018-07-25 11:33:00+0530 > 
+2018-07-25 11:33:01+0530 > 
+2018-07-25 11:33:01+0530 > 
+2018-07-25 11:33:02+0530 > 
+2018-07-25 11:33:02+0530 > 
+2018-07-25 11:33:02+0530 > 
+2018-07-25 11:33:03+0530 > 
+2018-07-25 11:33:03+0530 > 
+2018-07-25 11:33:03+0530 > 
+2018-07-25 11:33:03+0530 > 
+2018-07-25 11:33:04+0530 > 
+2018-07-25 11:33:04+0530 > 
+2018-07-25 11:33:04+0530 > 
+2018-07-25 11:33:04+0530 > 
+2018-07-25 11:33:05+0530 > RF CONNE 50OHM
+2018-07-25 11:35:28+0530 > <BckSp><Left>PCB 
+2018-07-25 11:35:45+0530 > 3V LI<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp> RECHARGECOIN <BckSp> ADALIT RE<LCtrl>c
+2018-07-25 12:48:00+0530 > <LCtrl>V 
+2018-07-25 12:48:08+0530 > RF CONNECTOR
+2018-07-25 12:59:33+0530 >  PCB  MINI
+2018-07-25 13:00:45+0530 > PCB RF CONNECTSM<CpsLk><CpsLk><CpsLk><BckSp><BckSp><BckSp>ampl<BckSp><BckSp><BckSp><BckSp><BckSp>free samples components  weborde<BckSp><#+16>projects <BckSp><#+24>electronics projects
+2018-07-25 13:06:31+0530 > how to calculate ntc what is ptc fuse
+2018-07-25 14:29:59+0530 > surge c<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>hout fuse
+2018-07-25 14:31:07+0530 > surge pr c 
+2018-07-25 15:09:29+0530 > gas tube tub<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>gas discharge tube
+2018-07-25 15:15:55+0530 > <BckSp>u
+2018-07-25 15:22:18+0530 > mov used su with inductance
+2018-07-25 15:33:27+0530 > emi fil sm<BckSp><BckSp>mov with indutance power supply
+2018-07-25 15:35:45+0530 > ntc<Down><Down>
+2018-07-25 15:42:06+0530 >  with smps
+2018-07-25 15:43:07+0530 > <BckSp><BckSp><BckSp>ntc <Down>
+2018-07-25 15:49:35+0530 > <Down><Down><Down><#+4><Down><#+4><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><#+25><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+18><Up><#+12><Up><Up><Up><Down><Down><Down><Down><Down><Down><Up><Up><#+13><Down><Down><#+29><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+8><Down><Down><Down><Down><Down><#+7><Down><Down><Down><#+24><Down><#+21><Down><#+22><Down><#+13><Down><#+12><Down><#+15><Down><#+7><Down><#+7><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+12><Up><#+46><Up><#+44><Up><#+30><Up>mov for ac ciruit
+2018-07-25 16:00:21+0530 > <Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><Up><Up><Up><Up><Up><Up><Up>youtube
+2018-07-25 19:47:47+0530 > tamil hd movie
+2018-07-25 19:47:58+0530 > <Down><#+13><Down><#+1><Down><Down><Down><Down><#+13><Down><#+15><Down><#+11><Down><#+12><Down><#+14><Down><Down><Down><Down><#+14><Down><#+13><Down><#+14><Down><#+5><Down><Down><Down><Down><#+12><Down><Down><Down><Down><#+14><Down><#+13><Down><#+13><Down><#+15><Down><#+13><Down><#+14><Down><Down><#+8><Down><#+17><Down><#+23><Down><#+22><Down><#+18><Up><#+14><Down><#+17><Down><#+10><Down><Down><Down><#+16>
+
+Logging stopped at 2018-07-25 20:02:00+0530
+
