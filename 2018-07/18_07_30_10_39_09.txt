@@ -1,0 +1,46 @@
+Logging started ...
+
+2018-07-30 10:39:09+0530 > zs123456
+2018-07-30 10:39:33+0530 > sbi online<Down>
+2018-07-30 11:59:28+0530 > <LShft>K<BckSp>ka<BckSp><BckSp>kannansenthil6<BckSp><Tab><LShft>Senthil6<LShft>@mugam
+2018-07-30 11:59:57+0530 > 3000<BckSp>s 712 30a
+2018-07-30 12:09:26+0530 > analog to digital converter using w<#+1>wwwww<BckSp><#+27>rl78/g12<Down>
+2018-07-30 12:15:57+0530 > <BckSp><BckSp>ic
+2018-07-30 12:17:35+0530 > <BckSp><BckSp>using <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>
+2018-07-30 12:18:09+0530 >  output gpio
+2018-07-30 12:18:21+0530 >  datasheet
+2018-07-30 12:19:04+0530 > analog to  using <BckSp> ds<BckSp>comparator using adc
+2018-07-30 12:25:50+0530 > <LCtrl>c
+2018-07-30 12:31:32+0530 > <LCtrl>v formula
+2018-07-30 12:31:39+0530 > pcbpcb<LShft>Dis<BckSp><BckSp><BckSp>
+2018-07-30 13:17:10+0530 > <BckSp><BckSp><BckSp><LShft>Ho <BckSp><BckSp>i,
+2018-07-30 13:17:18+0530 > 
+2018-07-30 13:17:19+0530 > <LShft>I re<BckSp><BckSp><LShft>Received board 
+2018-07-30 13:17:32+0530 > 
+2018-07-30 13:17:33+0530 > <LShft>Recevied boards<BckSp>s <LCtrl>c
+2018-07-30 13:18:28+0530 > 
+2018-07-30 13:18:42+0530 > <LCtrl>v
+2018-07-30 13:18:44+0530 >  <LShft>( <LShft>Do not cancel the order<LShft> <LShft>)<LShft>Order no - <LCtrl>c
+2018-07-30 13:19:31+0530 > <LCtrl>v
+2018-07-30 13:20:18+0530 > 
+2018-07-30 13:20:18+0530 > 
+2018-07-30 13:20:21+0530 > 
+2018-07-30 13:20:22+0530 > <LShft>Please send me the <LShft>Remainaing <LShft>( <LShft>% <BckSp><BckSp>5 quantity <LShft>)<LShft>Boards , and <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>  <LShft>Date of <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>delv<BckSp><BckSp>livery deat<BckSp><BckSp>tails. <LShft>( <LShft>% quantirty<BckSp><BckSp><BckSp>ty<LShft>)<BckSp><LShft>%<BckSp>5.
+2018-07-30 13:22:41+0530 > 
+2018-07-30 13:22:42+0530 > <LShft>We alredy <BckSp><BckSp><BckSp>ady cheque <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>paid for <LShft>%<BckSp>5 boards <Left><Left><Left><Left><Left><Left><Left><Left><Left><LShft>Reciving <BckSp><BckSp><BckSp>ed<BckSp><LCtrl>c
+2018-07-30 13:24:03+0530 > order no -<LCtrl>v<BckSp><BckSp><BckSp><BckSp><BckSp><LCtrl>v<LCtrl>z<LCtrl>c
+2018-07-30 13:24:44+0530 > <LCtrl>v<BckSp> for  <Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Left><Left><Left><Left><Left><Left><Left><Right><Right><Down><Up><Down><Down><Down><Down><Down>fedzumi bang<Down>
+2018-07-30 18:08:36+0530 > <Up><Up><#+11><Up><Up><Up><Up><#+12><Down><#+1><Down><#+46><Up><#+20><Up><Up><Up><Up><Up><Up><Up><Up><#+9><Up><Up><Up><Up><Up><Up><#+23><Down><Down><Down><#+3><Down><Down><Down><#+13><Down><Down><Up><Up><#+15><Up><Up><Up><Up><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+9><Down><Down><Down><#+13><Down><Down><Down><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><#+8><Down><Down><#+22><Down><Down><Down><Down><Up><Down><Down><Down><Down><Up><Up><Up><Up><#+44><Up><Up><Up><Up><Up><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+43><Up><#+31><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><#+23><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+14><Down><Down><Down><#+11><Down><Down><Down><Down><Down><#+15><Down><Down><Down><Down><#+25><Up><#+55><Up><Up><Up><LCtrl><Down><Down><Down><#+19><Down><Down><Down><Down><#+15><Up><Up><#+43>g
+2018-07-30 19:05:32+0530 > <Del>miss<Down>g
+2018-07-30 19:05:49+0530 > <Del>miss<Down>
+2018-07-30 19:06:02+0530 > <BckSp>2018
+2018-07-30 19:06:12+0530 > <LCtrl>c
+2018-07-30 19:06:24+0530 > c
+2018-07-30 19:06:24+0530 > <LCtrl>v torrentz2g
+2018-07-30 19:06:59+0530 > <BckSp><BckSp>torr<LCtrl>ac
+2018-07-30 19:07:18+0530 > <LCtrl>v<BckSp><#+13><BckSp>
+2018-07-30 19:07:29+0530 > <BckSp><BckSp><BckSp><BckSp>
+2018-07-30 19:07:47+0530 > <LCtrl>v<BckSp><#+9><BckSp><BckSp><BckSp><BckSp><BckSp><LCtrl><LCtrl><LCtrl>x
+
+Logging stopped at 2018-07-30 19:29:27+0530
+
