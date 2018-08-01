@@ -1,0 +1,140 @@
+Logging started ...
+
+2018-07-31 09:59:38+0530 > zs123456
+2018-07-31 09:59:52+0530 > <LCtrl>c
+2018-07-31 10:03:09+0530 > <LCtrl>c
+2018-07-31 10:03:22+0530 > <LCtrl>hi<BckSp><BckSp><LShft>Hi
+2018-07-31 10:03:44+0530 > 
+2018-07-31 10:03:45+0530 > <LCtrl>v
+2018-07-31 10:03:47+0530 >  we need <LShft>%<BckSp>5 <BckSp><BckSp>, <LShft>5 quantity only
+2018-07-31 10:06:41+0530 > 
+2018-07-31 10:06:41+0530 > <LShft>Dont<BckSp>'t repeat order,<BckSp> , we a<BckSp><BckSp><BckSp><BckSp><BckSp> <LShft>Already we sent <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>sent <BckSp><BckSp><BckSp><BckSp><BckSp><LCtrl>c
+2018-07-31 10:08:04+0530 > <LCtrl>vyou were send <BckSp><BckSp>t <BckSp><#+23><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp> 356124, 
+2018-07-31 10:10:02+0530 > 
+2018-07-31 10:10:03+0530 > <LShft>For evey <BckSp><BckSp>ry <LShft>Boards <LShft>% <BckSp><BckSp>5 quantity is enough for us.g<LCtrl><LCtrl>a<Del><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl>c
+2018-07-31 10:35:21+0530 > <LCtrl>v<LCtrl>c
+2018-07-31 10:38:12+0530 > jjj
+2018-07-31 10:38:20+0530 > <LCtrl>v<LCtrl>v<LCtrl>c
+2018-07-31 10:41:31+0530 > ggg
+2018-07-31 10:41:40+0530 > <LCtrl>v<LCtrl>v<LCtrl><LCtrl><LCtrl><LCtrl>c
+2018-07-31 10:55:12+0530 > <LCtrl>v
+2018-07-31 10:55:37+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp>=-<BckSp><BckSp>-ts datasheet
+2018-07-31 10:56:16+0530 > imxdk<BckSp><BckSp>6dl 
+2018-07-31 10:57:45+0530 > <LCtrl>flvdsw<BckSp><BckSp><BckSp><BckSp><BckSp>dm<LShft>Work order <LShft>Hi <LShft>Dhairya ,
+2018-07-31 12:06:55+0530 > 
+2018-07-31 12:06:55+0530 > <LShft>H<BckSp><BckSp>
+2018-07-31 12:07:00+0530 > <LShft>Good day<LShft>!
+2018-07-31 12:07:08+0530 > 
+2018-07-31 12:07:09+0530 > <LShft>Here <LShft>I attached the work order , please fine<BckSp>d it...
+2018-07-31 12:07:51+0530 > 
+2018-07-31 12:07:51+0530 > <Home>
+2018-07-31 12:08:03+0530 > 
+2018-07-31 12:08:04+0530 > <LShft>All components are five quantity <BckSp><#+31><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>Each components five <LShft>Quantity o<BckSp><LShft>O<BckSp>only , <LShft>and please provise <BckSp><BckSp><BckSp>de me what are all <BckSp><BckSp><BckSp><BckSp><#+9><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><#+25><BckSp><BckSp>we already disscussed possible sample components <BckSp><#+7>g <BckSp><BckSp>d please provide me <BckSp><#+22><BckSp><BckSp><BckSp><BckSp>.
+2018-07-31 12:11:11+0530 > 
+2018-07-31 12:11:11+0530 > <LShft><LShft><LShft>.
+2018-07-31 12:11:24+0530 > <BckSp><BckSp><LShft>Please provide me <BckSp><BckSp><#+13><BckSp><BckSp>delivery the components <LShft>ASAP.<Left><Left> make sure of <BckSp><BckSp><BckSp><BckSp><BckSp>the <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><#+14><BckSp> the <Left><BckSp><LCtrl>s
+2018-07-31 12:14:27+0530 > 
+2018-07-31 12:14:28+0530 > <LShft>For you <BckSp>r reference attached components k<BckSp>list in ec<BckSp>xcel sheet also.<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp> , make sure of <Left>the <BckSp><BckSp><BckSp><Left><BckSp><Left><Right><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LCtrl><LCtrl><LCtrl>c
+2018-07-31 12:38:03+0530 > <LCtrl>f<LCtrl>v<BckSp>t<LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl>c
+2018-07-31 12:39:28+0530 > <LCtrl><LCtrl>c
+2018-07-31 12:39:43+0530 > <LCtrl>f<LCtrl>v<BckSp>
+2018-07-31 12:39:48+0530 > 
+2018-07-31 12:39:51+0530 > <LCtrl><LCtrl><LCtrl>fds51madhu<Down>
+2018-07-31 13:22:26+0530 > <BckSp><#+26>i2s<Down><Down>
+2018-07-31 13:24:43+0530 > <LCtrl>c
+2018-07-31 13:24:57+0530 > <LCtrl>v d dwww.google.com
+2018-07-31 13:27:50+0530 > d<BckSp><BckSp>zung tan<BckSp><BckSp><BckSp><BckSp><BckSp>utorrent
+2018-07-31 13:28:35+0530 > <BckSp><BckSp><BckSp>torrent se<LCtrl>v<LCtrl>v<LCtrl>v<LCtrl>v<#+1>vi2c <BckSp><BckSp>s to i ic
+2018-07-31 14:18:39+0530 > all protocol support bluetooth chip
+2018-07-31 14:20:04+0530 > i2c t<BckSp><BckSp><BckSp>s to i2c ic
+2018-07-31 14:25:07+0530 > ges<BckSp>kshjnzwz
+2018-07-31 14:26:53+0530 > fed<Down>
+2018-07-31 14:39:14+0530 > acl<BckSp>y<BckSp>rylic sheet cutter hand 
+2018-07-31 14:50:54+0530 > how to connect relay and manual switch same line
+2018-07-31 14:57:58+0530 > laptop hard disj<BckSp>k 1tb
+2018-07-31 15:10:16+0530 > <BckSp>kannan<LShft>@zumisolutions.com<LCtrl>c
+2018-07-31 15:31:34+0530 > <LCtrl>vi sent <BckSp><BckSp><LShft>I work order 10 quantity for each board , <LCtrl>but <BckSp><BckSp><BckSp><LShft><LShft><LShft>Didnt <BckSp><BckSp>'t see <E-1d1><E-1d1>ut <BckSp><BckSp><BckSp>bur <BckSp><BckSp>y<BckSp>t you weremy order , now i re<BckSp><BckSp><BckSp> received 5 gu<BckSp><BckSp>quantity for to<BckSp>wo boards and 10 quantity for 1 boards<BckSp><BckSp> one<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>you wasn't<Left>work .please next tinr<BckSp>e<BckSp><BckSp>me never do any mistake ke.<BckSp><BckSp><BckSp><BckSp><LShft>Thi<BckSp><BckSp><BckSp>tid<BckSp><BckSp>his will all protocol support bluetooth chip
+2018-07-31 15:38:44+0530 > mouser
+2018-07-31 15:41:29+0530 > wifi and bluetooth chip
+2018-07-31 15:42:41+0530 > wifi module a<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp> <RShft>+ ble  sma<LCtrl>z<LCtrl>s<LCtrl>c
+2018-07-31 15:55:25+0530 > <LCtrl>v<RShft>+
+2018-07-31 15:56:19+0530 >  wifi <RShft>+ ble chip part number
+2018-07-31 16:00:48+0530 >  ch<BckSp><BckSp>wifi <RShft>+ bl<LCtrl>w<BckSp>esp32=dow<BckSp><BckSp><BckSp><BckSp>-3<BckSp>dow<BckSp><BckSp><BckSp>322015
+2018-07-31 16:06:06+0530 > <BckSp>mouser
+2018-07-31 16:06:19+0530 > wifi<RShft>+ble
+2018-07-31 16:07:37+0530 > bluetooth chip
+2018-07-31 16:08:26+0530 > <LCtrl>c
+2018-07-31 16:18:37+0530 > <LShft><LCtrl>v p<LCtrl>fmesh<LCtrl>c
+2018-07-31 16:33:08+0530 > <LCtrl>v hardware design pdf
+2018-07-31 16:33:25+0530 > efr32bg13<LCtrl>fmeshespress if<Down>
+2018-07-31 16:51:48+0530 > ram<LCtrl>v vs du <BckSp>what is 
+2018-07-31 17:03:37+0530 >  processor
+2018-07-31 17:03:43+0530 > arm cortex
+2018-07-31 17:04:11+0530 >  m4
+2018-07-31 17:04:19+0530 >  <BckSp><BckSp>vs lx6 processor
+2018-07-31 17:04:59+0530 > silicon labs
+2018-07-31 17:07:37+0530 > espressifsilicon lawah<BckSp><BckSp>hat is lx6 proccessor 
+2018-07-31 17:11:18+0530 > ex<BckSp>sp32 pcb antenna 
+2018-07-31 17:59:01+0530 >  design
+2018-07-31 18:00:03+0530 > <LCtrl>fpcbohm
+2018-07-31 18:04:34+0530 > 
+2018-07-31 18:04:36+0530 > 
+2018-07-31 18:04:36+0530 > 
+2018-07-31 18:04:36+0530 > 
+2018-07-31 18:04:37+0530 > 
+2018-07-31 18:04:37+0530 > 
+2018-07-31 18:04:37+0530 > 
+2018-07-31 18:04:37+0530 > <LCtrl>f<#+1>what is arm cortlx6 esp<BckSp><BckSp><BckSp>tsop <BckSp>3ir receiver working o<BckSp>principle
+2018-07-31 18:37:25+0530 > smart watch<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>smart watch design<Down>
+2018-07-31 18:45:53+0530 >  level matching ic
+2018-07-31 19:02:03+0530 >  with out power suppsdio interface
+2018-07-31 19:06:53+0530 > <LCtrl>fcan
+2018-07-31 19:08:38+0530 >  
+2018-07-31 19:08:42+0530 > 
+2018-07-31 19:08:43+0530 > 
+2018-07-31 19:08:44+0530 > 
+2018-07-31 19:08:45+0530 > 
+2018-07-31 19:08:45+0530 > 
+2018-07-31 19:08:46+0530 > 
+2018-07-31 19:08:47+0530 > 
+2018-07-31 19:08:47+0530 > 
+2018-07-31 19:08:48+0530 > 
+2018-07-31 19:08:48+0530 > 
+2018-07-31 19:08:49+0530 > 
+2018-07-31 19:08:49+0530 > 
+2018-07-31 19:08:49+0530 > 
+2018-07-31 19:08:49+0530 > 
+2018-07-31 19:08:50+0530 > 
+2018-07-31 19:08:50+0530 > 
+2018-07-31 19:08:50+0530 > 
+2018-07-31 19:08:51+0530 > 
+2018-07-31 19:08:51+0530 > 
+2018-07-31 19:08:51+0530 > 
+2018-07-31 19:08:51+0530 > 
+2018-07-31 19:08:51+0530 > 
+2018-07-31 19:08:52+0530 > 
+2018-07-31 19:08:52+0530 > 
+2018-07-31 19:08:52+0530 > 
+2018-07-31 19:08:52+0530 > 
+2018-07-31 19:08:52+0530 > 
+2018-07-31 19:08:53+0530 > 
+2018-07-31 19:08:53+0530 > 
+2018-07-31 19:08:53+0530 > 
+2018-07-31 19:08:53+0530 > 
+2018-07-31 19:08:53+0530 > 
+2018-07-31 19:08:53+0530 > 
+2018-07-31 19:08:54+0530 > 
+2018-07-31 19:08:54+0530 > 
+2018-07-31 19:08:54+0530 > 
+2018-07-31 19:08:54+0530 > 
+2018-07-31 19:08:54+0530 > 
+2018-07-31 19:08:55+0530 > 
+2018-07-31 19:08:55+0530 > 
+2018-07-31 19:08:55+0530 > 
+2018-07-31 19:08:56+0530 > 
+2018-07-31 19:08:56+0530 > 
+2018-07-31 19:08:57+0530 > 
+2018-07-31 19:08:57+0530 > 2.0<BckSp><BckSp><BckSp><BckSp><LCtrl>c
+2018-07-31 19:13:21+0530 > <LCtrl>f<LCtrl>vesp32 <BckSp><BckSp> can bus interface
+2018-07-31 19:14:06+0530 >  cie<BckSp>rcuit
+2018-07-31 19:15:47+0530 > 
