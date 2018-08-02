@@ -1,0 +1,50 @@
+Logging started ...
+
+2018-08-01 09:42:58+0530 > zs123456
+2018-08-01 09:43:43+0530 > news
+2018-08-01 09:52:58+0530 >  ta dh<BckSp><BckSp>rasiyoutube
+2018-08-01 10:24:21+0530 > sathiriyan tamil; 2018
+2018-08-01 10:24:48+0530 > <LCtrl>a<Del>www<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>esp32-d2wd<BckSp>
+2018-08-01 14:20:11+0530 >  firware update pins
+2018-08-01 14:20:57+0530 > <BckSp>hardware design
+2018-08-01 14:26:49+0530 > <BckSp><#+20><BckSp>software update pins
+2018-08-01 14:33:28+0530 > <BckSp>espressif
+2018-08-01 14:38:15+0530 > esp32-d2wd
+2018-08-01 14:38:56+0530 > <CpsLk>ESESP32D2WD
+2018-08-01 14:39:23+0530 > ESP32-D2WD
+2018-08-01 14:39:39+0530 > ESP32 DEBUGGER
+2018-08-01 14:47:56+0530 > <LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><Del>     <BckSp><BckSp><BckSp><BckSp><BckSp><LCtrl>Z<BckSp><BckSp><BckSp><BckSp><BckSp> <#+18>               <LCtrl><Del>     <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LCtrl>S<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LCtrl>S<BckSp><RShft>    <BckSp><BckSp><BckSp><BckSp><BckSp>R<BckSp><CpsLk>r
+2018-08-01 16:02:27+0530 > <LCtrl>sssss<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp> <BckSp> <LCtrl>s<LCtrl>s     <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>      <BckSp><BckSp><BckSp><BckSp>     <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>powerrr<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>pwr.<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp> <BckSp><LCtrl>zzzzzzz<LCtrl>zzzzzz<BckSp><BckSp><BckSp><BckSp><LCtrl>z<LCtrl>z<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>  <BckSp><BckSp>      <LCtrl>z<BckSp> <LCtrl>zzzzzzzzz<LCtrl>zzz<BckSp><BckSp><BckSp><BckSp><LCtrl>s<LCtrl>online p<BckSp>word to pdf
+2018-08-01 16:08:34+0530 > <LCtrl>x
+2018-08-01 16:10:22+0530 >  <#+35> <LCtrl>v    <LCtrl>x
+2018-08-01 16:10:34+0530 >  <#+40><LCtrl><LCtrl>v<BckSp>     <LCtrl>s<BckSp><LCtrl>s<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LCtrl>s<Del>
+2018-08-01 16:12:48+0530 > 
+2018-08-01 16:12:48+0530 > 
+2018-08-01 16:12:48+0530 > 
+2018-08-01 16:12:48+0530 > 
+2018-08-01 16:12:49+0530 > 
+2018-08-01 16:12:50+0530 > 
+2018-08-01 16:12:50+0530 > 
+2018-08-01 16:12:51+0530 > <BckSp><LCtrl>s<Del>e<BckSp><LShft>Esp-<BckSp><BckSp><BckSp><CpsLk>SP-32<BckSp><BckSp><BckSp>32-D2WDMA<LShft>nE<BckSp><BckSp><CpsLk><LShft>New proposal <LShft>ESP32 sup<BckSp><BckSp><BckSp>supppory<BckSp>ting  mesh<BckSp><BckSp><BckSp><BckSp><BckSp>for mesh network<LShft>Hi<BckSp><BckSp><LShft>Dear <LShft>Madhu<BckSp><#+15><LShft>Hi madhu,
+2018-08-01 16:18:21+0530 > 
+2018-08-01 16:18:21+0530 > 
+2018-08-01 16:18:22+0530 >  
+2018-08-01 16:18:25+0530 >   
+2018-08-01 16:18:26+0530 >  <LShft>I found esp<BckSp><BckSp><BckSp><LShft>ESP32<LShft>-w<BckSp>d2wd<BckSp><BckSp><BckSp><BckSp><CpsLk>D2WD <LShft><CpsLk>wifi <RShft>+ bl<BckSp><BckSp><LShft>B<LShft>LE chip,<BckSp> , <LShft>This chip supproting <LShft>Protocol <LShft>U<LShft>ART,<LShft>I<LShft>@<BckSp>2<LShft>C<CpsLk>, <LShft>spi<BckSp><BckSp><BckSp>SPI ,I2S,CAN,ETHERNETESP32-D2WD DA ,SDIO E<BckSp><LShft><CpsLk>etc..
+2018-08-01 16:21:19+0530 > 
+2018-08-01 16:21:20+0530 >  such ad<BckSp><BckSp>s<BckSp>as     
+2018-08-01 16:21:48+0530 > 
+2018-08-01 16:21:48+0530 >  <LShft>One more advantage it <BckSp>'s support for mesg<BckSp>h network also. <BckSp><BckSp> nad <BckSp><BckSp><BckSp><BckSp>and price all very less<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>y \\\<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>is very <BckSp><#+26><BckSp>and  price also very lee<BckSp>ss.
+2018-08-01 16:24:10+0530 >   
+2018-08-01 16:24:12+0530 >   <BckSp> <LShft>Here iattached <Left><Left><Left><Left><Left><Left><Left><Left><Left> <LShft>E<LShft><LShft>S<LShft>P32 features <BckSp>and price <BckSp><BckSp><BckSp>ce details.
+2018-08-01 16:25:16+0530 > 
+2018-08-01 16:25:17+0530 >  <LShft>So , please go through the document and let me know wether  we<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>.<BckSp> we <BckSp><BckSp><BckSp>wheather <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><#+19><BckSp><BckSp><BckSp><BckSp> and advise me we cn<BckSp>an use this modu\\\<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp> chip our next project.<BckSp>this chip use ful for our next projects.<BckSp>low<BckSp> in <BckSp><BckSp><BckSp><BckSp>. file<BckSp><BckSp><BckSp><BckSp><BckSp>in pdf.<LShft>Please find it...  <LCtrl>fmeshmesh network support or not
+2018-08-01 16:54:23+0530 >  ble <BckSp>
+2018-08-01 16:56:05+0530 > esp32w<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>esp fot<BckSp><BckSp><BckSp><BckSp>32 fro<BckSp><BckSp>mesh<BckSp><BckSp>-d0w<BckSp><BckSp>20wd<BckSp><BckSp><BckSp><BckSp>2wd support for ble <BckSp><BckSp>uetooth mesh
+2018-08-01 17:01:21+0530 > mi 4iflipcart
+2018-08-01 17:44:48+0530 > mi 41<BckSp>i
+2018-08-01 17:45:00+0530 > tsop32138 dair reciver<BckSp><BckSp><BckSp><BckSp>eiver
+2018-08-01 17:56:08+0530 > ir receiver
+2018-08-01 17:56:38+0530 >  part number list
+2018-08-01 18:00:28+0530 > infarad<LCtrl>c
+2018-08-01 18:00:41+0530 > <LCtrl>v
