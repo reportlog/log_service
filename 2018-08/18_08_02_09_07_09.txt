@@ -1,0 +1,104 @@
+Logging started ...
+
+2018-08-02 09:07:09+0530 > zs123456
+2018-08-02 09:07:37+0530 > remi mi 4i
+2018-08-02 09:08:48+0530 > facebook
+2018-08-02 09:16:35+0530 > <KP8><KP6><KP8><KP0><KP0><KP5><KP9><KP3><KP3><KP4><KP1><KP1><KP0><KP5><KP1><KP9><KP9><KP4>
+2018-08-02 09:16:47+0530 > <Esc>hero
+2018-08-02 09:17:46+0530 > serkai sari illai
+2018-08-02 09:19:49+0530 > dont feel,<Right><Right><Right><BckSp><#+13><BckSp><BckSp><#+13><BckSp><#+8><BckSp><BckSp><Del><Del><Left><BckSp><BckSp><Del><Del>dont feel ,one day you get good friend
+2018-08-02 09:21:00+0530 > cher<BckSp>ttiya pathu kovil 
+2018-08-02 09:22:24+0530 > so...
+2018-08-02 09:25:54+0530 > thank you siste<BckSp><BckSp>ter.i am really like this word.and got some <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>et some feeling
+2018-08-02 09:26:53+0530 > i dont know english,only tamil,sorry
+2018-08-02 09:27:42+0530 > intha pommai enna <BckSp><BckSp><BckSp>tha shop la vanginathu
+2018-08-02 09:28:27+0530 > adi vanga porra
+2018-08-02 09:28:38+0530 > hero
+2018-08-02 09:28:50+0530 > fact fact
+2018-08-02 09:29:07+0530 > yenn<BckSp><BckSp><BckSp><BckSp>sethanda sekar......
+2018-08-02 09:29:59+0530 > pavam <Right><Right><BckSp><BckSp><BckSp>p<Right><Right><Right><Right> antha payan
+2018-08-02 09:30:16+0530 > beautiful
+2018-08-02 09:30:28+0530 > samma
+2018-08-02 09:30:44+0530 > adenkappa
+2018-08-02 09:30:55+0530 > samma song.i lke this song very mus<BckSp>ch......gtra<BckSp><BckSp><BckSp>reat line
+2018-08-02 09:31:32+0530 > maa<BckSp>ss
+2018-08-02 09:31:55+0530 > zcop<BckSp>mponents offk<BckSp>line purchase fot<BckSp>r home ay<BckSp>utomation<BckSp><LShft>C<LShft>Dear <LShft>Sir,
+2018-08-02 09:41:47+0530 > 
+2018-08-02 09:41:47+0530 >     we are<Left><Left><Left><Left><Left><BckSp><LShft>W<Right><Right><Right><Right><Right><Right><Left> order ed <BckSp><BckSp><BckSp><BckSp>ed big c<BckSp><BckSp><BckSp><BckSp><BckSp>70 per<BckSp><BckSp><BckSp><LShft>% components thriugh <Left><Left><Left><Left><BckSp>o<Right><Right><Right> online , remai<Left><Left><Left><Left><BckSp><LShft>R<Right><Right><Right><Right>ning passive cop<BckSp>mponents we have to buy <LShft>S,<LShft>P <LShft>Road<Left><Left><Left><Left><Left><Left><BckSp>.<Right><Right><Right><Right><Right><Right> one day<BckSp><BckSp><BckSp><BckSp><BckSp>ly.
+2018-08-02 09:44:45+0530 > 
+2018-08-02 09:44:45+0530 > 
+2018-08-02 09:44:46+0530 > <BckSp>   please pri<BckSp>ob<BckSp>vide me remaining components p
+2018-08-02 09:45:50+0530 > 
+2018-08-02 09:45:50+0530 >     <BckSp><LShft>I calculat<BckSp>tr<BckSp>e the passive components amount it will come 2500-3000 <Left><Left><Left><Right><Right><Down><Down><BckSp><BckSp>.<Down><Down><BckSp><BckSp><#+19><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><#+12><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LCtrl>
+2018-08-02 09:48:34+0530 > 
+2018-08-02 09:48:35+0530 >    <LShft>Our online ordered compom<BckSp>nents it will come nearly one week<Left><#+53><Left><Left><Left><Left><Left><Left><Left><Left><Left><LShft>Why i am saying,<Right><#+62><Left> bee<BckSp>tween gap <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>,paa<BckSp>ralley <BckSp><Right><Right><Right><Right><Right> we have to solder passive components also.arrange the passive componts<BckSp><BckSp>ents.<Left><BckSp><LShft>P
+2018-08-02 09:51:31+0530 > 
+2018-08-02 09:51:31+0530 > 
+2018-08-02 09:51:31+0530 > 
+2018-08-02 09:51:31+0530 > <BckSp><Left><Left><Left><Left><Left><Left>ds1307
+2018-08-02 10:07:03+0530 > terminal block
+2018-08-02 10:20:37+0530 >  pcb bard
+2018-08-02 10:21:08+0530 > sb260 dain buck regulator we dont <BckSp>'t consider an<BckSp>bout input current or not
+2018-08-02 13:09:36+0530 > <Down><Down><Down><Down><Down><Down><Down><#+12><BckSp><BckSp>lm2590 <Down>
+2018-08-02 13:13:21+0530 > <BckSp>6how to calculate buck convert<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>regulator input current
+2018-08-02 13:20:40+0530 > mouser
+2018-08-02 13:26:02+0530 > lm2596<LCtrl>c
+2018-08-02 13:27:35+0530 > <LCtrl>vwhat is  in buck regulator
+2018-08-02 13:28:05+0530 > <BckSp>t
+2018-08-02 13:28:24+0530 > <BckSp>output leaka<LCtrl>c
+2018-08-02 13:32:39+0530 > <LCtrl>vap<BckSp><BckSp><BckSp>ab<BckSp>b<BckSp>p3429akttr-g1
+2018-08-02 13:37:49+0530 > <LCtrl><LCtrl><LCtrl><LCtrl> <Down> v<BckSp>buck regulator bu16-4530r5bl
+2018-08-02 13:49:34+0530 > viper28l
+2018-08-02 13:50:50+0530 > p6ke120a<RShft>_<BckSp>-e3/54
+2018-08-02 13:53:08+0530 > ncp1077p065g
+2018-08-02 13:53:29+0530 > buck regulator <BckSp><#+11><BckSp>input <Down>
+2018-08-02 13:58:03+0530 >  <BckSp><#+17><BckSp><BckSp><BckSp><BckSp> co<BckSp><BckSp><BckSp>what is difference betwwen<BckSp><BckSp><BckSp>w<BckSp>een bul<BckSp>ck and linelm2596 dlm1117
+2018-08-02 14:18:14+0530 > what is current limit
+2018-08-02 14:20:07+0530 >  regulm d<CpsLk>WE <BckSp><BckSp><BckSp><BckSp><CpsLk>we have to consider the buck regulator input current<RShft>
+2018-08-02 14:30:28+0530 > lm317 datasheetadj 
+2018-08-02 14:33:41+0530 > 
+2018-08-02 14:37:25+0530 > <LCtrl>v
+2018-08-02 14:38:05+0530 >  5v<BckSp>circuit
+2018-08-02 14:53:44+0530 > current lin<BckSp>mi 
+2018-08-02 14:57:30+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>cir1n4148<Down>
+2018-08-02 14:58:25+0530 >  datmouser
+2018-08-02 15:00:07+0530 > lm4<BckSp>2596
+2018-08-02 15:07:06+0530 >  mosim800
+2018-08-02 15:19:05+0530 > l<BckSp><BckSp>difference bete<BckSp>wwe<BckSp><BckSp>een linear and buck ln<BckSp>m2596 working principle
+2018-08-02 15:40:21+0530 > <LCtrl>c
+2018-08-02 15:51:34+0530 > <LCtrl>vhi link 2<BckSp>12v 10w<KP4><BckSp>
+2018-08-02 16:02:45+0530 > lm317 <Down>
+2018-08-02 16:11:03+0530 > lm317t<LCtrl>www.goog
+2018-08-02 16:35:07+0530 > sim800
+2018-08-02 16:35:13+0530 > 10k pot co<Down>
+2018-08-02 16:47:32+0530 > dig<BckSp>difference between <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp> b
+2018-08-02 17:58:30+0530 > <LCtrl>c
+2018-08-02 17:59:17+0530 > <LCtrl>vlie
+2018-08-02 17:59:53+0530 > <BckSp><BckSp>die
+2018-08-02 18:00:05+0530 > english <Down>
+2018-08-02 18:00:18+0530 > lie<BckSp><BckSp><BckSp>if i am same question for you<Up>ask <Left><Left><Left><Left><Left><BckSp><BckSp><Right><BckSp>,then what yountold<Left><Left><Left><Left> <Left><Left><Right><BckSp><Right><Right><Right><Right><Right><BckSp><BckSp><BckSp><BckSp>say<BckSp><BckSp>ayed<BckSp><BckSp><BckSp>ying <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>what say<BckSp>ying<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>you say<BckSp><BckSp><BckSp>talk<BckSp><BckSp><BckSp><BckSp>say<Up><Right><Right><Right><Right><Right><Right><Right><BckSp><#+44><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Left><Left><Left><Left><Left><Right>are <BckSp><BckSp><BckSp><BckSp><Right><Right><Right><Right><Right><Right><Right><Right><Right>ing<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>is you say<Left><Left><Left><Left><Left><Left><Left><Left><BckSp><BckSp><BckSp><Right><#+18><BckSp><#+20>goodrj gp powe3v lithum<Down>
+2018-08-02 18:20:55+0530 >  mobile
+2018-08-02 18:21:05+0530 > <LCtrl><LCtrl><LCtrl><LCtrl>c
+2018-08-02 18:56:51+0530 > <LCtrl>v
+2018-08-02 18:56:57+0530 > <LCtrl><LCtrl><LCtrl><LCtrl><LCtrl>c
+2018-08-02 18:58:59+0530 > <LCtrl>f<LCtrl>v<BckSp>
+2018-08-02 18:59:04+0530 > 
+2018-08-02 18:59:05+0530 > 
+2018-08-02 18:59:05+0530 > 
+2018-08-02 18:59:08+0530 > <LCtrl>f<LCtrl><LCtrl><LCtrl><LCtrl><LCtrl>24vac<LCtrl>f<BckSp>24r<BckSp>v<BckSp><LShft>V<RShft>_raw<BckSp>aplm317t
+2018-08-02 19:05:35+0530 > www.google
+2018-08-02 19:21:42+0530 > imxu<LCtrl><BckSp>6ull <LCtrl>fwarm<RShft>_reset
+2018-08-02 19:24:10+0530 > 
+2018-08-02 19:24:11+0530 > 
+2018-08-02 19:24:12+0530 > 
+2018-08-02 19:24:13+0530 > 
+2018-08-02 19:24:13+0530 > 
+2018-08-02 19:24:14+0530 > 
+2018-08-02 19:24:14+0530 > 
+2018-08-02 19:24:14+0530 > src<RShft>_srsrwarm<RShft>_resetreset<Left>cold<RShft>_<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LCtrl>c
+2018-08-02 19:35:54+0530 > <LCtrl>vcold<LCtrl>c
+2018-08-02 19:40:32+0530 > <LCtrl>v<LCtrl>c
+2018-08-02 19:41:34+0530 > <LCtrl>v<BckSp>xtali<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>l crytal osc<Down>
+2018-08-02 19:43:32+0530 >  not working it will affet <BckSp><BckSp><BckSp> the warm reset
+2018-08-02 19:44:01+0530 > <BckSp>warm<RShft>_reset is m<BckSp>not working in imx6ull
+2018-08-02 19:44:49+0530 > <BckSp>
