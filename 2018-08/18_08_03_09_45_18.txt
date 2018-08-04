@@ -1,0 +1,48 @@
+Logging started ...
+
+2018-08-03 09:45:19+0530 > zs123456
+2018-08-03 09:45:32+0530 > facebook
+2018-08-03 09:47:12+0530 > <KP8><KP6><KP8><KP0><KP0><KP5><KP9><KP3><KP3><KP4><KP1><KP1><KP0><KP5><KP1><KP9><KP9><KP4>
+2018-08-03 09:47:23+0530 > ok
+2018-08-03 09:48:07+0530 > yes
+2018-08-03 09:48:22+0530 > lollu
+2018-08-03 09:48:29+0530 > iyyo
+2018-08-03 09:49:25+0530 > i think somethink <BckSp><BckSp>g <BckSp>k <BckSp><BckSp><BckSp>k <BckSp><BckSp>g happen
+2018-08-03 09:52:18+0530 > allagu
+2018-08-03 09:53:23+0530 > bu <BckSp>t we are always great 
+2018-08-03 09:55:09+0530 > mass
+2018-08-03 09:55:21+0530 > yethukku
+2018-08-03 09:55:30+0530 > nass<BckSp><BckSp><BckSp><BckSp>mass
+2018-08-03 09:56:49+0530 > samma
+2018-08-03 09:57:05+0530 > wwwwww.goog
+2018-08-03 10:50:06+0530 > rl78/g12<Down><Down>
+2018-08-03 10:50:19+0530 > <LCtrl>f<LCtrl><LCtrl>c
+2018-08-03 10:53:40+0530 > v<LCtrl>c
+2018-08-03 10:53:45+0530 > <LCtrl>v<Down><Down><Down><Down><Down><Down><Down><Down><Down><#+16><Down><#+9><Down><#+5><Down><Down><#+9><Down><Down><#+14><Down><#+13><Down><#+9><Down><#+8><Up><Up><#+23><Up><#+8><Down><Up><Down><Down><Down><Down><Down><Up><Up><Down><#+9><Down><Down><Down><Down><Down><#+11><Up><Down><#+17><Down><Down><#+30><Up><#+22><Up><#+15><Up><#+7>adc converter gpio signal
+2018-08-03 11:37:53+0530 > <BckSp><#+14><BckSp><BckSp>
+2018-08-03 11:38:04+0530 >  ic <Down>
+2018-08-03 11:38:23+0530 > clow <BckSp><BckSp><BckSp><BckSp><BckSp> low price
+2018-08-03 11:38:39+0530 > www.gog<BckSp>ogle.com
+2018-08-03 11:53:24+0530 > ilay<Down><Down><Up>
+2018-08-03 11:53:37+0530 > <BckSp>
+2018-08-03 11:53:44+0530 > uln2003
+2018-08-03 11:57:47+0530 > www,<BckSp>.youtube.ci<BckSp>om
+2018-08-03 11:59:08+0530 > ilacapactive<BckSp><#+20>touch stylish
+2018-08-03 12:33:29+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp>y`r<BckSp>re<BckSp><BckSp>rl78 family so<BckSp><BckSp>cs==<BckSp><BckSp><RShft>++ softsb260
+2018-08-03 14:52:43+0530 > <Down><Down><Down><Down><Down><Down><Down><#+19><Down><Down><#+3><Down><Down><Down><Down>1n4007
+2018-08-03 14:53:37+0530 > <Down><Down><Down><Down><Down><Down><Down><Up><#+16><Up><#+39>in5822
+2018-08-03 14:54:39+0530 > <BckSp><Tab>www.goo
+2018-08-03 16:41:17+0530 > level matching circuit <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>uart ic
+2018-08-03 16:41:41+0530 > <BckSp><#+4><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>leb<BckSp>velma<BckSp><BckSp> matching circuit
+2018-08-03 16:43:26+0530 >  for uart
+2018-08-03 16:43:36+0530 >  using transistor
+2018-08-03 16:45:00+0530 > solor i ci withmc56f8023<LCtrl><LCtrl><BckSp>pi<BckSp>ind<BckSp> diagram
+2018-08-03 17:57:57+0530 > 3 odd number equal to even number sum
+2018-08-03 18:23:36+0530 > facebook
+2018-08-03 19:29:53+0530 > <KP8><KP6><KP8><KP0><KP0><KP5><KP9><KP3><KP3><KP4>
+2018-08-03 19:30:00+0530 > <KP1><KP1><KP0><KP5><KP1><KP9><KP9><KP4>
+2018-08-03 19:30:05+0530 > yes bt<BckSp>ro........
+2018-08-03 19:30:40+0530 > facebbok<BckSp><BckSp><BckSp>ook
+2018-08-03 19:31:36+0530 > <KP8><KP6><KP8><KP0><KP0><KP5><KP9><KP3><KP3><KP4><KP1><KP1><KP0><KP5><KP1><KP9><KP9><KP4>
+2018-08-03 19:31:46+0530 > mmm.kalam pathil soolim<BckSp><BckSp><BckSp><BckSp>llum
+2018-08-03 19:32:34+0530 > 
