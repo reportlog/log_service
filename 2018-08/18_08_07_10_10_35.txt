@@ -1,0 +1,97 @@
+Logging started ...
+
+2018-08-07 10:10:35+0530 > zz123456
+2018-08-07 10:11:34+0530 > zs123456
+2018-08-07 10:11:41+0530 > facebook
+2018-08-07 10:12:52+0530 > <KP8><KP6><KP8><KP0><KP0><KP5><KP9><KP3><KP3><KP4><KP8><KP6><KP8><NumLk><KP8><KP6><KP8><KP0><KP0><KP5><KP9><KP3><KP3><KP4><KP1><KP1><KP0><KP5><KP1><KP9><KP9><KP4>
+2018-08-07 10:13:18+0530 > hi=<BckSp>link 12v pointpoinpoixcl222b331er-g
+2018-08-07 10:57:07+0530 > what is dc to what is dc d <BckSp>c converter and power converter
+2018-08-07 11:02:05+0530 > goo
+2018-08-07 11:29:29+0530 > soloar<Down><Down><Up><Down><Up><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>sugam solor<BckSp>a<BckSp><BckSp>ar<Down><Down>
+2018-08-07 11:29:51+0530 > ri074
+2018-08-07 11:35:44+0530 > <BckSp>km0074
+2018-08-07 11:36:05+0530 > <BckSp><#+18>rashmi ri074/ub
+2018-08-07 11:36:48+0530 > kotak km0074
+2018-08-07 11:39:57+0530 > <BckSp> solsolor panel charger and inverter cir12v 2<PrtSc><BckSp>100amv<BckSp>c56f8023 desbuck boost converter
+2018-08-07 11:55:55+0530 >  ic<BckSp><BckSp>tans<BckSp><BckSp><BckSp>ra
+2018-08-07 11:57:01+0530 >  online purchase
+2018-08-07 12:05:19+0530 > isolation <BckSp><BckSp><BckSp><#+16><BckSp>dc to dc buck booster
+2018-08-07 12:07:19+0530 > <LShft>Dc to dc buck booster transformer
+2018-08-07 12:08:17+0530 > buck booster transformer
+2018-08-07 12:09:28+0530 > <BckSp><#+17><BckSp><#+13><BckSp>buck boost
+2018-08-07 12:14:21+0530 > dc to ac converter
+2018-08-07 12:14:52+0530 > dc ro dc conac to dc converter
+2018-08-07 12:16:14+0530 > 2<BckSp>12 2amp smps
+2018-08-07 12:17:44+0530 > hilink smps<Down><Down>
+2018-08-07 12:19:32+0530 > <BckSp>smps module
+2018-08-07 12:24:22+0530 > 
+2018-08-07 12:24:52+0530 > how to increase the current low current to high current
+2018-08-07 12:30:33+0530 > current conver<Left>dc 
+2018-08-07 12:31:08+0530 > <BckSp><Del><BckSp>12v 5<#+1><BckSp>2<BckSp>1 amps smps
+2018-08-07 12:32:24+0530 > how to convert 400ma to 1.5 amps
+2018-08-07 12:39:42+0530 > how to v<BckSp>calculate the input sim800
+2018-08-07 12:55:27+0530 > 
+2018-08-07 12:57:08+0530 >  hardwaremic29302 dalow power gsm sim800 ha<LCtrl>f54facebook
+2018-08-07 14:21:45+0530 > <KP8><KP6><KP8><KP0><KP0><KP5><KP9><KP3><KP3><KP4><KP1><KP1><KP0><KP5><KP1><KP9><KP9><KP4>
+2018-08-07 14:22:04+0530 > hhhhhhhhhhhhhimd<BckSp><BckSp>x6ull refere<Down><Up>
+2018-08-07 14:34:59+0530 > low powerco<Down>
+2018-08-07 14:36:22+0530 >  gsm<Down>
+2018-08-07 14:36:28+0530 > how to convert 50ma to 1 amps
+2018-08-07 14:38:34+0530 >  cir
+2018-08-07 14:41:54+0530 > 24 5w hilink
+2018-08-07 14:46:53+0530 > emitter lm2596 ds13
+2018-08-07 14:56:50+0530 > 
+2018-08-07 14:57:09+0530 > 24 powersupll<BckSp><BckSp>ply
+2018-08-07 15:01:06+0530 > <BckSp><BckSp><BckSp><BckSp><#+16>4v smps
+2018-08-07 15:01:20+0530 > 5v t0 <BckSp><BckSp>o 12<BckSp><BckSp>24<NumLk><BckSp><Down><Down><Down><Down>constant current bulow voltage gsm
+2018-08-07 15:07:42+0530 > <KP.>
+2018-08-07 15:09:31+0530 > 5v to 1230av <BckSp>c <BckSp><BckSp><BckSp>c to 12 v<BckSp><BckSp> v 2amps
+2018-08-07 15:38:02+0530 > sp fl<BckSp><BckSp>road flyback transformer
+2018-08-07 15:39:50+0530 > flyback transflyback transformer
+2018-08-07 15:42:08+0530 >  mouser
+2018-08-07 15:42:17+0530 > <BckSp>
+2018-08-07 15:42:38+0530 > flyback transformer
+2018-08-07 15:43:23+0530 > <LCtrl>v datac to ac to dc converter
+2018-08-07 15:53:46+0530 > 
+2018-08-07 15:55:29+0530 > acchipest 12v 2amps powery<BckSp>  desmpsac400ma to 2 <BckSp>amps con 2 ina circuit
+2018-08-07 16:09:29+0530 > what is synchronous buck converter
+2018-08-07 16:17:58+0530 > <BckSp> 12 v 5v<LCtrl>c
+2018-08-07 16:19:49+0530 > <LCtrl>v datasheet
+2018-08-07 16:19:58+0530 > <LCtrl><LCtrl><LCtrl>c
+2018-08-07 16:25:42+0530 > x<LCtrl>v<LCtrl><LCtrl>v<LCtrl>v
+2018-08-07 16:26:05+0530 > 
+2018-08-07 16:26:54+0530 > how to increase the current using mosfetcurrent amplifier
+2018-08-07 16:31:57+0530 >  ic high lm2596 d<BckSp>har<BckSp><BckSp><BckSp>data tes<BckSp>how to check the amps in mulitimeter
+2018-08-07 16:42:42+0530 > lm2596<LCtrl><LCtrl><LShft>sudo minicom -s
+2018-08-07 17:15:46+0530 > zs10062013
+2018-08-07 17:15:51+0530 > zs123456
+2018-08-07 17:16:04+0530 > <Down><Down>
+2018-08-07 17:16:07+0530 > 
+2018-08-07 17:16:07+0530 > <Down><Down><Down><Down><Down>
+2018-08-07 17:16:10+0530 > 
+2018-08-07 17:16:19+0530 > 
+2018-08-07 17:16:20+0530 > 
+2018-08-07 17:16:20+0530 > 
+2018-08-07 17:16:21+0530 > 
+2018-08-07 17:16:21+0530 > 
+2018-08-07 17:16:21+0530 > sfrggrgregerggrergergegegergerergergrgjkjkjfggfgffghhhhhmhbhb<LCtrl>c
+2018-08-07 17:21:05+0530 > <LCtrl><LShft>T<Up><Down>sudo minicom -s
+2018-08-07 17:21:24+0530 > zs123456
+2018-08-07 17:21:29+0530 > <Down><Down><Down><Up>
+2018-08-07 17:21:35+0530 > 
+2018-08-07 17:21:36+0530 > <Down><Down><Down><Down><Up><Up><Up><Up>
+2018-08-07 17:21:41+0530 > ec
+2018-08-07 17:21:48+0530 > 
+2018-08-07 17:21:50+0530 > <Down><Down><Down><Down><Down>
+2018-08-07 17:21:53+0530 > <LShft>AT
+2018-08-07 17:22:00+0530 > sim
+2018-08-07 17:24:15+0530 >  data<Down>
+2018-08-07 17:24:20+0530 > gfhfjhfhgggjkgkjgsp<BckSp><BckSp><BckSp><BckSp>smps module 12 2amps
+2018-08-07 17:35:16+0530 > <BckSp><BckSp><BckSp> online purchase
+2018-08-07 17:35:59+0530 > pcb 
+2018-08-07 17:36:39+0530 > 12 v smps
+2018-08-07 17:39:10+0530 >  pcb board
+2018-08-07 17:39:32+0530 > <Down><Up><Up><Up><Up><#+31><BckSp><BckSp><#+19><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>2amps<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>amps smps board
+2018-08-07 17:41:28+0530 > 5v 2amps10005<BckSp>12v 5amps <BckSp><BckSp><BckSp><BckSp><BckSp>v smps
+2018-08-07 17:55:11+0530 > small size 5v <BckSp><BckSp><BckSp>12 v 2 amps smps pcb
+2018-08-07 17:57:03+0530 > what is line regulation in reg
