@@ -1,0 +1,13 @@
+Logging started ...
+
+2018-08-10 09:04:40+0530 > zs123456
+2018-08-10 09:07:37+0530 > facebook
+2018-08-10 09:08:45+0530 > <KP8><KP6><KP8><KP0><KP0><KP5><KP9><KP3><KP3><KP4><KP1><KP1><KP0><KP5><KP1><KP9><KP9><KP4>
+2018-08-10 09:08:55+0530 > masquitoo tholla than<BckSp>inga mudiyalaa
+2018-08-10 09:09:29+0530 > filp <BckSp>kart
+2018-08-10 09:39:03+0530 > ww
+2018-08-10 09:39:14+0530 > 
+2018-08-10 09:41:09+0530 > 
+2018-08-10 09:45:59+0530 > <LCtrl>c
+2018-08-10 10:11:20+0530 > <LCtrl><LCtrl>show to calculate the impedance in a dc <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>switching voltage converter
+2018-08-10 14:32:47+0530 > 
