@@ -1,0 +1,214 @@
+Logging started ...
+
+2018-08-09 08:31:42+0530 > zs123456
+2018-08-09 08:32:16+0530 > facebook
+2018-08-09 08:40:30+0530 > bu
+2018-08-09 08:40:42+0530 > <KP8><KP6><KP8><KP0><KP0><KP5><KP9><KP3><KP3><KP4><KP1><KP1><KP0><KP5><KP1><KP9><KP9><KP4>
+2018-08-09 08:41:00+0530 > good habit....keeo<BckSp>p it
+2018-08-09 08:41:35+0530 > poramaa
+2018-08-09 08:41:38+0530 > yem<BckSp>n intha nalla yennan<BckSp>m
+2018-08-09 08:42:01+0530 > good
+2018-08-09 08:42:42+0530 > good bro
+2018-08-09 08:43:12+0530 > mass
+2018-08-09 08:43:16+0530 > mettukudieruppu don
+2018-08-09 08:43:27+0530 > nadar laa
+2018-08-09 08:43:55+0530 > yes
+2018-08-09 08:45:08+0530 > good
+2018-08-09 08:45:52+0530 > fa e<BckSp><BckSp>cebook
+2018-08-09 08:47:15+0530 > <KP8><KP6><KP8><KP0><KP0><KP5><KP9><KP3><KP3><KP4><KP1><KP1><KP0><KP5><KP1><KP9><KP9><KP4>
+2018-08-09 08:47:45+0530 > good
+2018-08-09 08:48:09+0530 > <LShft>HBD
+2018-08-09 08:48:48+0530 > good village
+2018-08-09 08:49:01+0530 > samma
+2018-08-09 08:49:28+0530 > good song
+2018-08-09 08:49:43+0530 > ok
+2018-08-09 08:50:04+0530 > sammm<BckSp>a jodi
+2018-08-09 08:51:12+0530 > buck boost<Down><Down><Down>
+2018-08-09 08:56:06+0530 > flipcart
+2018-08-09 08:56:26+0530 > redmi y1
+2018-08-09 08:56:40+0530 > <LCtrl>c
+2018-08-09 09:23:39+0530 > <LCtrl>v<BckSp> converter design <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>arch<Down>
+2018-08-09 10:09:57+0530 >  and ex pdf
+2018-08-09 10:10:09+0530 > <LCtrl>terminal block
+2018-08-09 10:17:57+0530 >  exa<BckSp>pbuck converter 
+2018-08-09 10:22:51+0530 > <BckSp><LCtrl><BckSp>explaination pdf
+2018-08-09 10:26:54+0530 > <BckSp>
+2018-08-09 10:30:25+0530 >  ebuck converter <BckSp><#+24>dc dc buck converter wi<Down>
+2018-08-09 10:33:25+0530 > architeturevc<BckSp> <BckSp><BckSp><BckSp>w<BckSp>e 
+2018-08-09 10:35:36+0530 > <BckSp><BckSp><BckSp><BckSp>explation <BckSp><BckSp><BckSp>tu<Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+15><Down><#+11><Down><#+9><Down><#+18><Up><#+12><BckSp><BckSp>
+2018-08-09 10:46:21+0530 >  exwhat is syn<BckSp> buck convebuck converter and buck booss<BckSp>t converter and synch=<BckSp><BckSp>buck and no-sync buck
+2018-08-09 10:55:21+0530 > <Down><#+16><Down><#+8><Down><#+16><Down><Down><Down><#+24><Up><#+12><Down><#+93><Up><#+22><Down><Down><Down><Down><#+17><Up><#+8><Down><#+10><Down><#+33><Up><#+14><BckSp>
+2018-08-09 10:56:30+0530 > <BckSp><BckSp>boost 
+2018-08-09 10:58:27+0530 > wiki
+2018-08-09 10:58:35+0530 > <LCtrl>fimx6dl lvds z<BckSp>and tft display at t<BckSp>a time it will work or not
+2018-08-09 11:04:18+0530 > lvds
+2018-08-09 11:04:52+0530 > lvds<LCtrl>fe=<BckSp>-link<Down><Down><Down><#+10>epdc and parallel<LCtrl>fcomv<BckSp>bination displaylvds  hdmi<BckSp>dlboth s<BckSp>display enav<BckSp>ble
+2018-08-09 11:17:32+0530 > <LCtrl> parallwe<BckSp><BckSp>el and lvds
+2018-08-09 11:20:15+0530 > dl
+2018-08-09 11:24:37+0530 >  both<BckSp><BckSp><BckSp><BckSp><BckSp><#+12><BckSp>lvds and parallel display enable same time
+2018-08-09 11:26:30+0530 > <LCtrl><LCtrl><LCtrl><LCtrl>447<BckSp>2<BckSp>8<BckSp>1<BckSp>4<BckSp>6<BckSp>7<BckSp><BckSp>29<LCtrl>s<BckSp>final<BckSp><BckSp><BckSp><BckSp><BckSp><LShft>Final e<BckSp>release<BckSp><LCtrl>s<BckSp>s<LShft>Fib<BckSp>nal un<BckSp><BckSp><BckSp><#+16><BckSp><BckSp><LShft>Home <BckSp><BckSp><BckSp><BckSp><BckSp><LShft>HA - final rel<BckSp><BckSp><BckSp>release date<LShft>Hi <LShft>Siva,
+2018-08-09 11:46:19+0530 > 
+2018-08-09 11:46:20+0530 > <LShft>Here <LShft>I attched the final release date <CpsLk>N<BckSp><CpsLk>and scheduk\<BckSp><BckSp>le for home automation product ,<LShft>Please find it...
+2018-08-09 11:47:21+0530 > 
+2018-08-09 11:47:22+0530 > 
+2018-08-09 11:48:20+0530 > 
+2018-08-09 11:48:20+0530 > <BckSp><BckSp><BckSp>
+2018-08-09 11:48:22+0530 > <LShft>If n<BckSp>you need any futher  details of the home <BckSp><BckSp><BckSp><BckSp><BckSp>our <LShft>HA prof<BckSp>duct <LShft>,<LShft>l<BckSp><BckSp><BckSp>.<LShft>Let me know , <BckSp> relase date<BckSp>release.<BckSp><BckSp>.
+2018-08-09 11:50:31+0530 > 
+2018-08-09 11:50:31+0530 > <BckSp><BckSp>
+2018-08-09 11:50:35+0530 > 
+2018-08-09 11:50:36+0530 > 
+2018-08-09 11:50:36+0530 > <BckSp>ing<BckSp><BckSp>.<LCtrl><LCtrl><LCtrl>c
+2018-08-09 12:06:58+0530 > <LCtrl>f<LCtrl>v<BckSp><BckSp><BckSp><BckSp><LCtrl>fcbcv<BckSp><BckSp><BckSp><BckSp>ipu<RShft>Dual disp<Right> i<RShft>MX6x
+2018-08-09 12:10:01+0530 > <LCtrl> <RShft>VG<BckSp><BckSp><RShft>LCD ad<BckSp>nd <RShft>LVDS
+2018-08-09 12:10:33+0530 > <LCtrl>nx<BckSp>skcapacitive touch pcb
+2018-08-09 12:56:17+0530 > www
+2018-08-09 13:16:35+0530 > ila<Down>
+2018-08-09 13:16:49+0530 > mouser
+2018-08-09 14:54:55+0530 > mobile phone to speaker connect<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>
+2018-08-09 15:03:11+0530 > sim800 gsm using bluetooth spekar
+2018-08-09 15:09:13+0530 > iot new <Down>
+2018-08-09 15:10:56+0530 > tft lcd price
+2018-08-09 15:17:12+0530 >  10<BckSp><BckSp>
+2018-08-09 15:17:40+0530 > <BckSp><#+34>10'1 lcd<LAlt><Tab><Tab><Tab><Tab><LAlt><Tab><Tab><LAlt><Tab>www
+2018-08-09 15:43:48+0530 > <LCtrl><BckSp><BckSp><LCtrl><LCtrl>flvf<BckSp>447<LCtrl><LCtrl>c
+2018-08-09 17:54:56+0530 > <LCtrl>f<LCtrl>v<BckSp>hdmi<LCtrl>c
+2018-08-09 17:59:45+0530 > <LCtrl>v<LCtrl>c
+2018-08-09 18:01:28+0530 > <LCtrl>v447<LCtrl>c
+2018-08-09 18:06:45+0530 > <LCtrl>f<LCtrl>v<BckSp>architeture of <E-1d1><E-1d1>uck converbter<BckSp><BckSp><BckSp><BckSp> architetuure
+2018-08-09 18:13:41+0530 > <BckSp>eff formula
+2018-08-09 18:17:42+0530 > <BckSp><BckSp><LCtrl>c
+2018-08-09 18:20:32+0530 > <LCtrl>v<BckSp>block and architr<BckSp>what is pv
+2018-08-09 19:16:07+0530 > how to make solor <Down><Down>
+2018-08-09 19:16:50+0530 > tl431 pin
+2018-08-09 19:21:39+0530 > <LCtrl><LCtrl><LCtrl>c
+2018-08-09 19:25:30+0530 > <LCtrl>v
+2018-08-09 19:25:39+0530 > <LCtrl><LCtrl><LCtrl><LCtrl>  zs123456
+2018-08-09 19:30:35+0530 > esp8266 data<BckSp>k<BckSp><BckSp><BckSp><BckSp>battery charging voltage and current calcu12100how to transmi<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>amplifiy the cur<BckSp><BckSp><BckSp>s<BckSp>dc current
+2018-08-09 19:55:19+0530 > <LCtrl>v d<Esc><LCtrl>f<RShft>_id0
+2018-08-09 19:57:41+0530 > 
+2018-08-09 19:57:42+0530 > 
+2018-08-09 19:57:43+0530 > <Left><Left><Left><Left>0
+2018-08-09 19:57:51+0530 > 
+2018-08-09 19:57:51+0530 > 
+2018-08-09 19:57:51+0530 > ipu<BckSp><BckSp>i[p<BckSp><BckSp>pu<BckSp><BckSp><BckSp><LShft><LShft><LShft>LDB
+2018-08-09 19:58:23+0530 > 
+2018-08-09 19:58:24+0530 > 
+2018-08-09 19:58:24+0530 > 
+2018-08-09 19:58:24+0530 > 
+2018-08-09 19:58:25+0530 > 
+2018-08-09 19:58:25+0530 > 
+2018-08-09 19:58:25+0530 > 
+2018-08-09 19:58:26+0530 > 
+2018-08-09 19:58:27+0530 > 
+2018-08-09 19:58:27+0530 > 
+2018-08-09 19:58:27+0530 > 
+2018-08-09 19:58:28+0530 > 
+2018-08-09 19:58:28+0530 > 
+2018-08-09 19:58:29+0530 > 
+2018-08-09 19:58:29+0530 > 
+2018-08-09 19:58:29+0530 > 
+2018-08-09 19:58:30+0530 > 
+2018-08-09 19:58:30+0530 > 
+2018-08-09 19:58:31+0530 > 
+2018-08-09 19:58:31+0530 > 
+2018-08-09 19:58:31+0530 > 
+2018-08-09 19:58:32+0530 > 
+2018-08-09 19:58:32+0530 > 
+2018-08-09 19:58:32+0530 > 
+2018-08-09 19:58:33+0530 > 
+2018-08-09 19:58:33+0530 > <LCtrl>c
+2018-08-09 19:59:01+0530 > <LCtrl><LCtrl>v
+2018-08-09 19:59:13+0530 > <LCtrl>c
+2018-08-09 19:59:34+0530 > <LCtrl>fv
+2018-08-09 19:59:40+0530 > 
+2018-08-09 19:59:41+0530 > 
+2018-08-09 19:59:41+0530 > 
+2018-08-09 19:59:41+0530 > 
+2018-08-09 19:59:42+0530 > 
+2018-08-09 19:59:42+0530 > 
+2018-08-09 19:59:42+0530 > 
+2018-08-09 19:59:43+0530 > 
+2018-08-09 19:59:43+0530 > 
+2018-08-09 19:59:43+0530 > 
+2018-08-09 19:59:44+0530 > 
+2018-08-09 19:59:44+0530 > 
+2018-08-09 19:59:44+0530 > <LCtrl>c
+2018-08-09 19:59:56+0530 > c
+2018-08-09 19:59:56+0530 > <LCtrl>fv
+2018-08-09 20:00:01+0530 > 
+2018-08-09 20:00:02+0530 > 
+2018-08-09 20:00:02+0530 > <Up><#+53><Down><#+43><Down><#+19><LCtrl><PgDn><LCtrl>c
+2018-08-09 20:04:45+0530 > <LCtrl>fv
+2018-08-09 20:04:49+0530 > 
+2018-08-09 20:04:50+0530 > 
+2018-08-09 20:05:12+0530 > 
+2018-08-09 20:05:16+0530 > 
+2018-08-09 20:05:18+0530 > 
+2018-08-09 20:05:19+0530 > 
+2018-08-09 20:05:19+0530 > 
+2018-08-09 20:05:19+0530 > 
+2018-08-09 20:05:20+0530 > 
+2018-08-09 20:05:20+0530 > 
+2018-08-09 20:05:21+0530 > 
+2018-08-09 20:05:21+0530 > 
+2018-08-09 20:05:22+0530 > 
+2018-08-09 20:05:22+0530 > <BckSp><BckSp><BckSp><BckSp>
+2018-08-09 20:05:27+0530 > 
+2018-08-09 20:05:28+0530 > 
+2018-08-09 20:05:28+0530 > 
+2018-08-09 20:05:28+0530 > 
+2018-08-09 20:05:29+0530 > 
+2018-08-09 20:05:29+0530 > 
+2018-08-09 20:05:29+0530 > 
+2018-08-09 20:05:30+0530 > 
+2018-08-09 20:05:30+0530 > 
+2018-08-09 20:05:30+0530 > 
+2018-08-09 20:05:31+0530 > 
+2018-08-09 20:05:31+0530 > 
+2018-08-09 20:05:34+0530 > 
+2018-08-09 20:05:35+0530 > 
+2018-08-09 20:05:35+0530 > 
+2018-08-09 20:05:36+0530 > 
+2018-08-09 20:05:36+0530 > 
+2018-08-09 20:05:36+0530 > <LCtrl>c
+2018-08-09 20:06:12+0530 > fv
+2018-08-09 20:06:14+0530 > 
+2018-08-09 20:06:15+0530 > 
+2018-08-09 20:06:15+0530 > 
+2018-08-09 20:06:15+0530 > 
+2018-08-09 20:06:15+0530 > 
+2018-08-09 20:06:16+0530 > 
+2018-08-09 20:06:16+0530 > 
+2018-08-09 20:06:16+0530 > 
+2018-08-09 20:06:16+0530 > 
+2018-08-09 20:06:16+0530 > 
+2018-08-09 20:06:17+0530 > 
+2018-08-09 20:06:18+0530 > 
+2018-08-09 20:06:18+0530 > 
+2018-08-09 20:06:19+0530 > 
+2018-08-09 20:06:19+0530 > 
+2018-08-09 20:06:21+0530 > 
+2018-08-09 20:06:21+0530 > 
+2018-08-09 20:06:22+0530 > 
+2018-08-09 20:06:22+0530 > 
+2018-08-09 20:06:22+0530 > 
+2018-08-09 20:06:22+0530 > 
+2018-08-09 20:06:23+0530 > 
+2018-08-09 20:06:23+0530 > 
+2018-08-09 20:06:23+0530 > 
+2018-08-09 20:06:23+0530 > 
+2018-08-09 20:06:24+0530 > 
+2018-08-09 20:06:24+0530 > 
+2018-08-09 20:06:24+0530 > 
+2018-08-09 20:06:25+0530 > 
+2018-08-09 20:06:26+0530 > 
+2018-08-09 20:06:26+0530 > 
+2018-08-09 20:06:26+0530 > 
+2018-08-09 20:06:26+0530 > 
+2018-08-09 20:06:26+0530 > <#+29>
+2018-08-09 20:06:33+0530 > 
+2018-08-09 20:06:37+0530 > 
+2018-08-09 20:06:37+0530 > 
+2018-08-09 20:06:38+0530 > 
+2018-08-09 20:06:39+0530 > <BckSp><LCtrl>fv     
