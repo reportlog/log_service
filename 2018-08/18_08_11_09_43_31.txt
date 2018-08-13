@@ -1,0 +1,101 @@
+Logging started ...
+
+2018-08-11 09:43:31+0530 > zs123456
+2018-08-11 09:44:02+0530 > facebppk<BckSp><BckSp><BckSp>ook
+2018-08-11 09:45:15+0530 > <KP8><KP6><KP8><KP0><KP0><KP5><KP9><KP3><KP3><KP4><KP1><KP1><KP0><KP5><KP1><KP9><KP9><KP4>
+2018-08-11 09:45:26+0530 > velunachiyaar 
+2018-08-11 09:47:46+0530 > i am also thalapathy fan
+2018-08-11 09:49:55+0530 > how to choose mov va<BckSp><Down>
+2018-08-11 10:54:03+0530 > ww<BckSp><BckSp><BckSp><BckSp>www.sbicard
+2018-08-11 11:15:25+0530 > kannansenthil<LShft>Senthil6<LShft>@mugam
+2018-08-11 11:16:00+0530 > 5103720160830871105kannan565205sbi
+2018-08-11 11:18:32+0530 > j<BckSp>jacob1<BckSp>90<LShft>Jacob-1990<LShft>@28005103720160830871105kannan497687lino<BckSp>ke
+2018-08-11 11:45:18+0530 > karthikeyan09<BckSp><BckSp>eee091<LShft>@gmail.com<Tab>raju7361<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>raju7351santhiraju7351santhi<LShft>Raju7351<LShft>Santhi<LShft>@*$
+2018-08-11 11:47:33+0530 > link
+2018-08-11 11:47:40+0530 > <LCtrl>a
+2018-08-11 11:47:58+0530 > 
+2018-08-11 11:48:04+0530 > 
+2018-08-11 11:48:06+0530 > 
+2018-08-11 11:48:06+0530 > 
+2018-08-11 11:48:07+0530 > <LCtrl>a<LCtrl>a
+2018-08-11 11:48:11+0530 > li\<BckSp><Down>
+2018-08-11 11:48:30+0530 > linked
+2018-08-11 11:49:05+0530 > <LAlt><Tab>link
+2018-08-11 11:49:39+0530 > 
+2018-08-11 11:49:51+0530 > <BckSp>lin
+2018-08-11 11:50:12+0530 > <LCtrl>c
+2018-08-11 12:03:28+0530 > <LCtrl>v
+2018-08-11 12:03:33+0530 > mmsp430fr25 hardware design dt<BckSp>at<BckSp><BckSp>solar panel to battery cgh<BckSp><BckSp>harge buck boss<BckSp><BckSp>oster  tr online o<BckSp>puchase
+2018-08-11 12:27:29+0530 > isolation 
+2018-08-11 12:28:40+0530 > <BckSp><BckSp><BckSp><BckSp>ardunio use solarvoltage bosster<BckSp><BckSp><BckSp><BckSp><BckSp>oster
+2018-08-11 12:31:01+0530 > <BckSp><BckSp><BckSp><BckSp>solar to ba desig<BckSp><BckSp><BckSp><BckSp><BckSp>mppt charger design
+2018-08-11 12:42:55+0530 > <LCtrl><LCtrl><LCtrl><LCtrl>24v solar to 24v v<BckSp>bat24 volt to 24 v output
+2018-08-11 12:56:53+0530 >  booster
+2018-08-11 12:57:04+0530 > step up dc convertr<BckSp>er
+2018-08-11 12:58:35+0530 > <BckSp><BckSp>step up converter 24v to 70v<BckSp><BckSp><BckSp><Down>
+2018-08-11 13:01:28+0530 > <BckSp> design
+2018-08-11 13:04:56+0530 > <BckSp><BckSp><BckSp><#+47>mppy<BckSp>t chat<BckSp>rger design 24v  ouput <BckSp> 40 amo<BckSp><BckSp><BckSp><BckSp> amps
+2018-08-11 13:06:54+0530 > how to convert 24 v t0 <BckSp><BckSp>0<BckSp>o 100v
+2018-08-11 13:09:01+0530 > <BckSp><#+12><BckSp><BckSp>dc to dc co<BckSp>24 v 40 <BckSp>amp smps<BckSp><BckSp><BckSp><BckSp><Down>
+2018-08-11 13:12:42+0530 >  de<LCtrl>mppt charger conmind reading deisolation volatge se and current sensor
+2018-08-11 14:33:20+0530 >  <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>dc to ac 
+2018-08-11 14:37:19+0530 >  c<BckSp><BckSp><BckSp> inverter circuit 12v 12v to 230vac tr<BckSp>kannan<LShft>@zumisolutions.com
+2018-08-11 14:45:48+0530 > famp
+2018-08-11 14:46:27+0530 > ct voltage and <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>se and voltage sensor'<BckSp>
+2018-08-11 14:49:44+0530 > temperature sensor
+2018-08-11 14:50:36+0530 >  and current sensor am<BckSp>nd voltage <BckSp><BckSp><BckSp>ge sensor both a<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>same ic
+2018-08-11 14:51:57+0530 > isolation temperatur sensor
+2018-08-11 14:53:39+0530 > temperature sensor to aric<RCtrl><Left>isolaisolated buck dc to dc converter
+2018-08-11 15:00:17+0530 > 6 amps to 30 amps <Down>
+2018-08-11 15:05:13+0530 > <BckSp><#+1><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>circonverter 
+2018-08-11 15:06:12+0530 > 100-<BckSp>0 watt battrt<BckSp><BckSp>ery  ch<BckSp><BckSp><Right><BckSp>24 v 40 amps
+2018-08-11 15:11:45+0530 >  cisolater<BckSp>d <BckSp>
+2018-08-11 15:12:38+0530 > solar<Down>
+2018-08-11 15:13:59+0530 >  steu<BckSp>p up dc to dc trns<BckSp><BckSp>ansformer
+2018-08-11 15:14:47+0530 > 40 amps dc to dc converter isolation 
+2018-08-11 15:16:10+0530 > motor<BckSp><BckSp><BckSp>user
+2018-08-11 15:16:29+0530 > dc to dc conv<BckSp><BckSp><BckSp><BckSp>buck converter
+2018-08-11 15:16:50+0530 > isolatr<BckSp>r<BckSp>ed dc isolated dc <BckSp><#+27>dc to dc converter<BckSp><#+11><BckSp><BckSp><BckSp><#+20>isolato<BckSp>ed dc to dc converter ic
+2018-08-11 15:20:31+0530 > mppt d<BckSp>solor charger des<Down>
+2018-08-11 15:40:46+0530 > <LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl> datasheet
+2018-08-11 15:54:42+0530 > mppt v<BckSp>c 
+2018-08-11 16:07:01+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>ic
+2018-08-11 16:20:09+0530 > 
+2018-08-11 16:22:49+0530 > <LCtrl>
+2018-08-11 16:24:35+0530 > 
+2018-08-11 16:26:24+0530 > <LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><BckSp>microcontroller basd mppy<BckSp>tmppt algorithm ic with microcontroller
+2018-08-11 16:37:38+0530 > <LCtrl><BckSp><BckSp><BckSp>n <BckSp><BckSp>  list
+2018-08-11 16:46:19+0530 > <LCtrl>v ba<BckSp><BckSp>hardware de<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>evalur<BckSp>tion module
+2018-08-11 16:49:17+0530 >  <BckSp><BckSp><#+13>n board
+2018-08-11 16:49:55+0530 >  nxp
+2018-08-11 16:50:09+0530 > <LCtrl>v schematic
+2018-08-11 16:51:45+0530 > <BckSp>design
+2018-08-11 16:52:25+0530 > microcontroller based mppt<BckSp><BckSp> tihigh current dr<BckSp><BckSp><BckSp>mppt solar battery management ic
+2018-08-11 17:40:35+0530 > 40 amps bateer<BckSp><BckSp><BckSp>tery c<BckSp>managent ic
+2018-08-11 17:42:36+0530 > batterery  cmouser
+2018-08-11 17:45:30+0530 > what is battery man100mah batter manangen<BckSp>ment sy<BckSp> ic solor to battery bms system
+2018-08-11 17:52:10+0530 >  y]<BckSp>i<BckSp><BckSp>ic
+2018-08-11 17:52:29+0530 > <BckSp>mppt ic<Down><Down>
+2018-08-11 17:53:58+0530 > 12100mah1218100ma<BckSp><BckSp>ah batter <BckSp>y management
+2018-08-11 17:56:26+0530 >  ic
+2018-08-11 17:56:48+0530 > <BckSp> circuit
+2018-08-11 17:57:01+0530 > how to mesure battery temperature am<BckSp>nd current 
+2018-08-11 17:58:08+0530 > ampere ic
+2018-08-11 17:58:30+0530 > 100m<BckSp>ampere currehow to measure thr<BckSp>e voltage in a battery
+2018-08-11 18:00:35+0530 >  sensor
+2018-08-11 18:00:50+0530 > <BckSp>voltage sensor
+2018-08-11 18:01:04+0530 > mppt ic <BckSp>
+2018-08-11 18:02:53+0530 > what is mppt
+2018-08-11 18:03:59+0530 > isolate<BckSp>ed vol wide
+2018-08-11 18:04:57+0530 > mmpt ic<Down><Down>
+2018-08-11 18:10:55+0530 > battert<BckSp>y charge<BckSp>ing cal ic<Down><Down><Down>
+2018-08-11 18:12:49+0530 > boost converter
+2018-08-11 18:13:47+0530 >  12<BckSp><BckSp>3<BckSp>20v t0 <BckSp><BckSp><LShft>O<BckSp>o 3<BckSp>30v 
+2018-08-11 18:14:34+0530 >  ic
+2018-08-11 18:14:41+0530 > <BckSp><BckSp><BckSp><BckSp>constant boost co20a mppt ic
+2018-08-11 18:29:46+0530 > <LCtrl><LCtrl><LCtrl><LCtrl><LCtrl>sm7relay isol<BckSp><BckSp><BckSp>relay using for isolation
+2018-08-11 18:45:16+0530 >  dc
+2018-08-11 19:10:12+0530 > 
+
+Logging stopped at 2018-08-11 19:10:48+0530
+
