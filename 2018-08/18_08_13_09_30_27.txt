@@ -1,0 +1,99 @@
+Logging started ...
+
+2018-08-13 09:30:28+0530 > zs10062013
+2018-08-13 09:30:58+0530 > zs123456
+2018-08-13 09:31:29+0530 > <LCtrl>axfacebook
+2018-08-13 09:34:49+0530 > <KP8><KP6><KP8><KP0><KP0><KP5><KP9><KP3><KP3><KP4><KP1><KP1><KP0><KP5><KP1><KP9><KP9><KP4>
+2018-08-13 09:35:02+0530 > happy birthday bro
+2018-08-13 09:35:25+0530 > happy bitr<BckSp><BckSp>rthday
+2018-08-13 09:35:44+0530 > happy bit<BckSp><BckSp>irthday sister
+2018-08-13 09:36:10+0530 > but h<BckSp>she is have good energitic<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><#+30>ok bro.
+2018-08-13 09:38:19+0530 > mmpt ic<Down><Down>
+2018-08-13 10:47:18+0530 > <Down><Down><Down><Down><Down>buck boostisolated 
+2018-08-13 10:54:13+0530 > mouser
+2018-08-13 10:56:15+0530 > bucl<BckSp>k boost converter
+2018-08-13 10:56:34+0530 > solar charging isolated dc<BckSp><BckSp>buck bp<NumLk><Del><Del><BckSp>ood<BckSp>st converter
+2018-08-13 11:04:08+0530 > <BckSp><#+23><BckSp><BckSp><BckSp>battrt with isolation
+2018-08-13 11:08:10+0530 > battery protection
+2018-08-13 11:09:19+0530 > <BckSp><BckSp>solar battery chr<BckSp>arger and <#+2><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>batter management ic
+2018-08-13 11:11:33+0530 > <BckSp><BckSp><BckSp>ho <BckSp>w to identify charge is full in battery
+2018-08-13 11:14:33+0530 > finger<Down>
+2018-08-13 11:19:33+0530 > fing<BckSp><#+24>fingerim6dl datashee<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>reference manual
+2018-08-13 12:11:28+0530 > imx6dl 
+2018-08-13 12:12:55+0530 > <LCtrl>f<LCtrl>ipu<LCtrl><LCtrl>ldb<LCtrl>f<LCtrl>flcdif
+2018-08-13 12:16:40+0530 > 
+2018-08-13 12:16:41+0530 > 
+2018-08-13 12:16:41+0530 > 
+2018-08-13 12:16:41+0530 > 
+2018-08-13 12:16:42+0530 > 
+2018-08-13 12:16:42+0530 > 
+2018-08-13 12:16:42+0530 > 
+2018-08-13 12:17:15+0530 > 
+2018-08-13 12:17:16+0530 > 
+2018-08-13 12:17:19+0530 > 
+2018-08-13 12:17:19+0530 > 
+2018-08-13 12:17:20+0530 > 
+2018-08-13 12:17:20+0530 > <BckSp><BckSp>if1<Left> <BckSp>if1
+2018-08-13 12:18:04+0530 > 
+2018-08-13 12:18:05+0530 > 
+2018-08-13 12:18:06+0530 > <LCtrl>c
+2018-08-13 12:19:31+0530 > <LCtrl>v<BckSp>epc<BckSp>dce ink<BckSp><BckSp>-in<BckSp>447clock rooy<BckSp>t<LShft>Hi sir,
+2018-08-13 12:25:48+0530 > 
+2018-08-13 12:25:49+0530 > <LShft>As per the given <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>below <BckSp><#+16><BckSp><BckSp><BckSp><BckSp> <BckSp><BckSp><BckSp><LShft><BckSp>
+2018-08-13 12:26:53+0530 > <LShft>I checked <LShft>harish <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>Imx6dl  <BckSp>clock root generation <LShft>It will support , clock either lvds <BckSp><BckSp><BckSp><BckSp><LShft>VD<BckSp><BckSp><BckSp><LShft>LVDS or <LShft>LCD. onr<BckSp>e
+2018-08-13 12:29:50+0530 > 
+2018-08-13 12:29:51+0530 > <LShft>Dual display <LShft>AS per <BckSp><BckSp>s the below mail , not possible for <LShft>Im<BckSp><#+14><BckSp><BckSp><#+12><BckSp><BckSp>not supporting for <LShft>LVDS and <LShft>LCD <LShft>IN<BckSp>n imx6dl processor <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>enable dual <BckSp><BckSp><BckSp><BckSp><BckSp>dual display <LShft>(<LShft>)<BckSp><BckSp><CpsLk><CpsLk><#+4><LShft>).
+2018-08-13 12:33:39+0530 > 
+2018-08-13 12:33:39+0530 > then<BckSp> 
+2018-08-13 12:34:28+0530 > 
+2018-08-13 12:34:28+0530 > <LShft><LShft>Reference manual said crystak<BckSp>l clear <LShft><LShft>root geneneration of clock , <LShft>Please <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>.<Down><Down><#+29><Down><Up><#+38> <LShft>If we select ldb <BckSp><BckSp><BckSp><LShft>DB <LShft>( <LShft>LVDS<LShft>) <BckSp><#+23><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>Please <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>Please see the attached files<BckSp>.screenprovides<BckSp>d crytal <Left> and mux configurationimx6q
+2018-08-13 13:05:02+0530 > <LCtrl>f<LCtrl>v
+2018-08-13 13:09:58+0530 >  data<BckSp>finger<BckSp><#+19>fing<LCtrl>c
+2018-08-13 13:13:30+0530 > filpkart
+2018-08-13 13:15:56+0530 > finger print d<BckSp>sensor
+2018-08-13 13:17:16+0530 >  module<LCtrl>c
+2018-08-13 13:17:53+0530 > <LCtrl>v datasheet
+2018-08-13 13:18:05+0530 > <BckSp><LCtrl>v<BckSp><LCtrl>c
+2018-08-13 13:19:04+0530 > <LCtrl>v connect to pc
+2018-08-13 13:19:34+0530 > mi<BckSp><BckSp>fingermaximum <BckSp><#+24>finger<Down>
+2018-08-13 13:24:42+0530 > mouser
+2018-08-13 13:25:08+0530 > finger print sensor
+2018-08-13 13:25:23+0530 > <BckSp><BckSp>finger print sensor how to extend the mem<BckSp><BckSp><BckSp>finger print
+2018-08-13 13:26:23+0530 > finger print sensor  how to extend the finger print
+2018-08-13 13:27:36+0530 >  upto 1000 print
+2018-08-13 13:29:03+0530 > 
+2018-08-13 13:29:55+0530 > <BckSp> finger print
+2018-08-13 13:31:40+0530 > how extend the finger print 
+2018-08-13 13:32:57+0530 >  <BckSp> person
+2018-08-13 13:33:11+0530 > high price finger print sensor
+2018-08-13 13:34:20+0530 > go
+2018-08-13 13:35:20+0530 > firnger<Down> sens<Down>
+2018-08-13 13:35:43+0530 > <LCtrl>v<LCtrl>v<BckSp><BckSp><BckSp><BckSp>3adh<LCtrl>z<BckSp><BckSp><BckSp>ad<BckSp><LCtrl>zz<LCtrl>zz<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><#+4><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LCtrl>z 5000
+2018-08-13 13:43:19+0530 > <BckSp>adh t<BckSp>aa<BckSp><BckSp>tech<LCtrl>v<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>pri<LCtrl>c
+2018-08-13 13:47:21+0530 > <LCtrl><LCtrl>v<LCtrl>v<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LCtrl>c
+2018-08-13 13:48:27+0530 > <LCtrl>v<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LCtrl>vzra<LShft>Finger pe<BckSp>rint module <LCtrl>v<BckSp><LShft>G<LShft>Hi sir,
+2018-08-13 13:51:36+0530 > 
+2018-08-13 13:51:36+0530 > <LShft>Here <LShft>I attached finger print datasheet , please find it....
+2018-08-13 13:52:01+0530 > 
+2018-08-13 13:52:01+0530 > <Down><BckSp>5<LCtrl>fmemorygt-c<BckSp><#+20>finger <LCtrl>v<BckSp><#+12><BckSp><BckSp><BckSp><LCtrl>c
+2018-08-13 13:59:47+0530 > <LCtrl>v mwmory<Down>
+2018-08-13 13:59:55+0530 >  si
+2018-08-13 14:01:49+0530 > 
+2018-08-13 14:01:49+0530 > finger print max - 3000
+2018-08-13 14:02:15+0530 > 
+2018-08-13 14:02:15+0530 > price    <#+18>  - <#+2> <LShft><LShft>RS<BckSp>s.5<BckSp>3500/- pw<BckSp>ersond<BckSp>gsm module
+2018-08-13 14:05:07+0530 > <BckSp>5<BckSp>gsm and gpssim808 <LCtrl><LCtrl><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><LCtrl><LCtrl><Right><Right><Right><Right><Right><Right><Right><Left><Left><Left><Left><Left><Left><Left><Down><Down><Down>dcomponents <LShft>Recevied<LShft>Hi <LShft>Dhairya.<BckSp>,
+2018-08-13 15:02:47+0530 > 
+2018-08-13 15:02:48+0530 > we are <BckSp><LShft>Wrecevied the all componentscomkey
+2018-08-13 16:33:46+0530 > ffc cable
+2018-08-13 16:34:02+0530 > <BckSp><BckSp>pc
+2018-08-13 16:34:14+0530 > ffpc<BckSp><BckSp><BckSp>pc cable
+2018-08-13 16:34:39+0530 >  bangg<#+6>p6ke120a-e3aps10a-13
+2018-08-13 17:55:06+0530 > ap<BckSp>p<BckSp>bs10ancxp<BckSp><BckSp>p1077p0tl431
+2018-08-13 18:18:51+0530 > tl431 5<BckSp>smps <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>smps
+2018-08-13 18:25:19+0530 > ncp1077p<LCtrl>smps ouput voltage get some delay<Down>
+2018-08-13 19:45:54+0530 > <BckSp>voltage drop i<BckSp>
+2018-08-13 20:15:08+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><#+33>how to maintain the constanst voltage in smps
+2018-08-13 20:20:03+0530 > smps output volatge <BckSp><BckSp><BckSp><BckSp><BckSp>tage is not <BckSp><BckSp><BckSp><BckSp>not constant varying switch on the power
+2018-08-13 20:21:47+0530 > <BckSp><#+44><BckSp><BckSp>drr<BckSp>op
+2018-08-13 20:22:42+0530 > ap3429ak
