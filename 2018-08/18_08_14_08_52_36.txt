@@ -1,0 +1,15 @@
+Logging started ...
+
+2018-08-14 08:52:38+0530 > zs123456
+2018-08-14 08:53:05+0530 > www
+2018-08-14 09:18:28+0530 > ncp431
+2018-08-14 09:18:35+0530 >  pin diagram
+2018-08-14 09:18:44+0530 > a74279271
+2018-08-14 10:02:30+0530 > tsop1738smps <BckSp><#+34>smps output voltage drop problem
+2018-08-14 12:49:01+0530 > smps 
+2018-08-14 12:56:21+0530 > <LCtrl><LCtrl><BckSp>2512 rc1<BckSp>2512jk-070<BckSp>150uln2003adrap3429akttr-g1flipcart
+2018-08-14 17:14:30+0530 > redmi y1
+2018-08-14 17:16:14+0530 > \asus
+2018-08-14 17:18:30+0530 > irm3838<BckSp><BckSp><BckSp>638m-3x
+2018-08-14 17:42:59+0530 >  datasreresistor heat so much w<BckSp><BckSp><BckSp><BckSp><#+13><BckSp><BckSp><BckSp><#+19>how to reduce the resistance heat<BckSp><BckSp><BckSp><BckSp><BckSp>ce<BckSp><BckSp><BckSp> heat
+2018-08-14 18:38:14+0530 > <Down><#+17><Down><Down><#+18><Down><Down><Down><Down><#+14><Down><Down><Down><Down><#+2><Up><Up>
