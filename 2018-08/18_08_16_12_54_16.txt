@@ -1,0 +1,20 @@
+Logging started ...
+
+2018-08-16 12:54:17+0530 > zs123456
+2018-08-16 12:54:33+0530 > resistance
+2018-08-16 12:55:56+0530 > rc251222<BckSp><BckSp>facebook
+2018-08-16 14:16:32+0530 > <KP8><KP6><KP8><KP0><KP0><KP8><KP6><KP8><NumLk><KP8><KP6><KP8><KP0><KP0><KP5><KP9><KP3><KP3><KP4><KP1><KP1><KP0><KP5><KP1><KP9><KP9><KP4>
+2018-08-16 14:16:49+0530 > good
+2018-08-16 14:17:06+0530 > ood
+2018-08-16 14:17:10+0530 > yen
+2018-08-16 14:17:37+0530 > how to av<BckSp><#+18>m<BckSp>nokia 6600 dis<LCtrl><LShft>irm<Down>
+2018-08-16 17:24:39+0530 > how to stop back emf <Down>
+2018-08-16 20:12:38+0530 > microcontroller interface <BckSp><BckSp>ing relay some time on some time off through ir receiver
+2018-08-16 20:20:26+0530 > <BckSp>relay <BckSp>relay protection<Down><Down>
+2018-08-16 20:21:31+0530 > relay affect the smps
+2018-08-16 20:36:39+0530 > how to avoid the back emf<Down><Down><Down>
+2018-08-16 20:37:35+0530 >  which diode 
+2018-08-16 20:39:20+0530 > back emf diode part number
+2018-08-16 20:40:25+0530 > mouser
+2018-08-16 20:42:34+0530 > s1a-131n4001
+2018-08-16 20:43:41+0530 > 
