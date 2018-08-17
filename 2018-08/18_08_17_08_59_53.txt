@@ -1,0 +1,42 @@
+Logging started ...
+
+2018-08-17 08:59:54+0530 > zs123456
+2018-08-17 09:00:49+0530 > facebook
+2018-08-17 09:05:12+0530 > <KP8><KP6><KP8><KP0><KP0><KP5><KP9><KP3><KP3><KP4><KP1><KP1><KP0><KP5><KP1><KP9><KP9><KP4>
+2018-08-17 09:05:45+0530 > happy birthdat<BckSp>y
+2018-08-17 09:06:12+0530 > tha<BckSp>anks mm<BckSp>ama
+2018-08-17 09:07:05+0530 > unmaiyavaa
+2018-08-17 09:07:13+0530 > thanks
+2018-08-17 09:07:32+0530 > arrumaiyana song
+2018-08-17 09:14:03+0530 > no....<BckSp><#+17>mobile illa
+2018-08-17 09:21:12+0530 > nokia66<BckSp><BckSp> 6600 mobile display
+2018-08-17 09:29:20+0530 > <BckSp><#+15><BckSp><BckSp><BckSp><BckSp>
+2018-08-17 09:30:10+0530 > <BckSp><BckSp><BckSp><BckSp>mobile
+2018-08-17 09:30:23+0530 > nokia3310 display
+2018-08-17 09:33:24+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Left><Left><Left><Left><Left><Left> <Right><Right><Right><Right><Right><Right><BckSp>
+2018-08-17 09:34:17+0530 > nokia old mobile display
+2018-08-17 09:39:30+0530 > nokia 6301
+2018-08-17 09:43:19+0530 >  display
+2018-08-17 09:44:56+0530 > 560062ho
+2018-08-17 10:37:23+0530 > 1n4148<Down>
+2018-08-17 10:42:43+0530 > relay load suddently switcj<BckSp>h off why
+2018-08-17 11:21:49+0530 > 1n4007
+2018-08-17 11:27:53+0530 > difference between buck,boost,buckbbo<BckSp><BckSp><BckSp>boost converter
+2018-08-17 12:00:47+0530 > www
+2018-08-17 15:22:25+0530 > new technology <#+1>in electronics
+2018-08-17 15:23:02+0530 > <KP6>nokia 6310 mobile mic
+2018-08-17 17:54:13+0530 > <BckSp>
+2018-08-17 17:54:45+0530 > <BckSp>
+2018-08-17 17:54:51+0530 > <BckSp><#+33>nokia 6310 mobile
+2018-08-17 17:55:09+0530 > <BckSp>2
+2018-08-17 17:55:15+0530 > <BckSp><#+15><BckSp>old mobile
+2018-08-17 17:55:47+0530 > nokia 6301 mobile display
+2018-08-17 17:58:10+0530 > <Down>
+2018-08-17 17:58:21+0530 > <Down><Down><Down>
+2018-08-17 17:58:59+0530 > acyr<BckSp><BckSp>rylic sheet name print in  btmhome automation front look
+2018-08-17 18:17:51+0530 >  in touch
+2018-08-17 18:18:00+0530 > <BckSp><BckSp>for home automation
+2018-08-17 18:21:46+0530 > 
+
+Logging stopped at 2018-08-17 19:01:25+0530
+
