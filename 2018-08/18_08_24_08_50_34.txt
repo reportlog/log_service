@@ -1,0 +1,43 @@
+Logging started ...
+
+2018-08-24 08:50:34+0530 > 
+2018-08-24 08:50:38+0530 > zs123456
+2018-08-24 08:50:50+0530 > mk
+2018-08-24 08:54:24+0530 > amazon
+2018-08-24 09:16:14+0530 > redmi y1
+2018-08-24 09:16:27+0530 > smps wor<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>flyback wosmps 12v 2a
+2018-08-24 10:09:42+0530 > board 
+2018-08-24 10:10:16+0530 > 1212v 2amp<BckSp><BckSp><BckSp><BckSp><BckSp>smps 
+2018-08-24 10:11:49+0530 > how to find hidden camera circui<BckSp><BckSp><BckSp><BckSp><BckSp>detector circuit diagram
+2018-08-24 12:36:49+0530 > <BckSp><BckSp>capacitive <BckSp><#+23>sticker design
+2018-08-24 15:32:10+0530 > draw.io
+2018-08-24 15:53:38+0530 > mouser
+2018-08-24 15:55:28+0530 > rc0805fr-071kl
+2018-08-24 15:56:14+0530 > <Up><Up><Up><BckSp><BckSp>dimension based draw onlicoral dratorrecorelcorel drawcorel dre<BckSp>aw software
+2018-08-24 16:26:55+0530 > torrecorecore;<BckSp><BckSp>el drawng
+2018-08-24 16:28:25+0530 > torr<Down>
+2018-08-24 16:28:30+0530 > corel<LCtrl>corel draw so windows8 64<LCtrl><Del>
+2018-08-24 16:40:38+0530 > <LCtrl><LCtrl><LCtrl><LCtrl><Del><Del>printo btmlayout
+2018-08-24 17:09:37+0530 >  <BckSp> muthucorel draw how to set dimemensins
+2018-08-24 17:30:01+0530 > coreldraw x7  colour give<BckSp><BckSp><BckSp><BckSp><Down><Down><Down><Down><Down>
+2018-08-24 18:33:25+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Down>
+2018-08-24 18:35:48+0530 > \\<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Right><Right><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Right><Right><Right><Right><Right><Right><Left><Left><Left><Left><Left><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left>      <Left><Left><Left><Left><Left><Left><RCtrl><RCtrl><RCtrl><RCtrl><RCtrl><RCtrl><RCtrl><RCtrl><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Left><Left><Right><Left><Left><Right><Right><Right><Right><Right><Right><Right><Right><Left><Right><Right><Right><Right><Left><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><#+5><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><#+13><Right><Right><Right><Right><Right><Right><Right><Esc><Left><Left><Left><Left><Left><Left><Left><Left><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><#+6><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right>  <Esc>b ulb<Left><Left><Left><BckSp>
+2018-08-24 19:16:23+0530 >  image
+2018-08-24 19:16:34+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp>graphic imah<BckSp>ge
+2018-08-24 19:16:47+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp>background white image
+2018-08-24 19:17:44+0530 > kkk
+2018-08-24 19:18:56+0530 > <Left><BckSp><BckSp><BckSp><BckSp>fan
+2018-08-24 19:19:33+0530 > <BckSp><#+43>arrow <Right><Right><Right><Right><Right><Down><Down><Down><Down><Up>
+2018-08-24 19:24:53+0530 > <BckSp><#+13><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Left><#+24> increase
+2018-08-24 19:25:14+0530 >  
+2018-08-24 19:25:20+0530 > fan 
+2018-08-24 19:25:27+0530 > arrow symbol
+2018-08-24 19:25:51+0530 > b<BckSp>p<BckSp>3 ppin <BckSp><BckSp><BckSp><BckSp>in electriv<BckSp>cal socket grapical image
+2018-08-24 19:27:37+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>2d
+2018-08-24 19:27:56+0530 > <BckSp><BckSp>draw
+2018-08-24 19:28:10+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp>symbpo<BckSp><BckSp>ol
+2018-08-24 19:28:33+0530 > <LCtrl>c
+2018-08-24 19:30:10+0530 > <LCtrl>v<LCtrl>ac
+2018-08-24 19:30:17+0530 > jpag to png<Down>
+2018-08-24 19:33:19+0530 > <LCtrl>c
+2018-08-24 19:34:31+0530 > 
