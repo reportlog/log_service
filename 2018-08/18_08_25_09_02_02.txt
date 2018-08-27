@@ -1,0 +1,80 @@
+Logging started ...
+
+2018-08-25 09:02:02+0530 > zs123456
+2018-08-25 09:02:18+0530 > facebook
+2018-08-25 09:03:33+0530 > <KP8><KP6><KP8><KP0><KP0><KP5><KP9><KP3><KP3><KP4><KP1><KP1><KP0><KP5><KP1><KP9><KP9><KP4>
+2018-08-25 09:03:45+0530 > yemmadiooo
+2018-08-25 09:04:04+0530 > arrumai
+2018-08-25 09:04:24+0530 > allaguu
+2018-08-25 09:04:40+0530 > singa kutty
+2018-08-25 09:04:53+0530 > samaa
+2018-08-25 09:05:34+0530 > samma great ,,,vak<BckSp>lthukal
+2018-08-25 09:07:23+0530 > gm
+2018-08-25 09:07:38+0530 > hi
+2018-08-25 09:08:16+0530 > hello
+2018-08-25 09:08:20+0530 > hello
+2018-08-25 09:08:25+0530 > arrumai
+2018-08-25 09:10:23+0530 > samma
+2018-08-25 09:11:17+0530 > good yaa
+2018-08-25 09:13:30+0530 > how <BckSp><BckSp><BckSp><BckSp>youtube.com
+2018-08-25 09:55:34+0530 > electronics inno 2018
+2018-08-25 09:56:59+0530 > dolfi
+2018-08-25 10:02:01+0530 >  washing circuit
+2018-08-25 10:02:37+0530 >  <BckSp>
+2018-08-25 10:07:57+0530 >  circuit diagram
+2018-08-25 10:08:17+0530 >  hardware<BckSp><BckSp>e<BckSp>re microcontroller based 
+2018-08-25 10:25:46+0530 > what is different betwwen rs232 cable and usb to uart converter
+2018-08-25 10:28:32+0530 > 
+2018-08-25 10:30:48+0530 > usb to uart
+2018-08-25 10:35:23+0530 > pl2 wash and 
+2018-08-25 10:41:20+0530 >  shirt
+2018-08-25 10:43:32+0530 > <BckSp><BckSp><#+18>ing dec<BckSp>vice 
+2018-08-25 10:44:15+0530 > using microcontroller 
+2018-08-25 10:44:29+0530 > <BckSp> washing <Down>
+2018-08-25 10:48:19+0530 >  device<BckSp><#+13><BckSp> new pt<BckSp>rojec<#+2>ts
+2018-08-25 10:50:32+0530 > 3 pin socket image
+2018-08-25 10:57:38+0530 >  2d
+2018-08-25 10:57:43+0530 > <BckSp><BckSp>graphical image
+2018-08-25 10:57:58+0530 > <BckSp><BckSp>drawing image
+2018-08-25 10:58:18+0530 > arrow
+2018-08-25 11:01:34+0530 > double  back<Del> 2s<BckSp>d
+2018-08-25 11:04:51+0530 >  balck and white
+2018-08-25 11:07:43+0530 > fan <BckSp>.png <Down><Down>
+2018-08-25 11:09:22+0530 > <BckSp>icon png
+2018-08-25 11:11:57+0530 >  back ground white
+2018-08-25 11:14:16+0530 > <BckSp><BckSp><BckSp><BckSp>3pin
+2018-08-25 11:14:52+0530 > <BckSp>
+2018-08-25 11:15:02+0530 > <BckSp><BckSp>
+2018-08-25 11:15:10+0530 >  socket
+2018-08-25 11:15:20+0530 > <BckSp>
+2018-08-25 11:15:46+0530 >  socket
+2018-08-25 11:16:06+0530 > <BckSp><BckSp>s
+2018-08-25 11:16:22+0530 > bulb<BckSp>icon3pin socket 
+2018-08-25 11:19:30+0530 >  ele<BckSp><BckSp><BckSp>pilug
+2018-08-25 11:20:28+0530 > <BckSp>
+2018-08-25 11:20:31+0530 > <BckSp>
+2018-08-25 11:21:16+0530 >  grapg<BckSp>hical image
+2018-08-25 11:22:18+0530 > arroe=w<BckSp><BckSp><BckSp>w icon
+2018-08-25 11:26:43+0530 > fan icon
+2018-08-25 11:34:07+0530 > socket icon
+2018-08-25 11:38:00+0530 > <LCtrl><Del>
+2018-08-25 11:39:53+0530 > <Del><BckSp><#+17>3pin socket
+2018-08-25 12:12:13+0530 >  png
+2018-08-25 12:12:44+0530 > how to take print in cireldraw design<BckSp><KP0><BckSp>o
+2018-08-25 13:05:10+0530 > jpeg y<BckSp>to png
+2018-08-25 13:15:55+0530 > <LCtrl>c
+2018-08-25 13:17:23+0530 > <LCtrl>v
+2018-08-25 13:17:33+0530 > <Del>mouser
+2018-08-25 13:33:04+0530 > bt136
+2018-08-25 13:33:14+0530 > xouble arrow image
+2018-08-25 15:14:02+0530 > double arrow o<BckSp>in<BckSp>mage
+2018-08-25 15:14:42+0530 > how to take print i<BckSp><BckSp>coreldraw in <BckSp><BckSp><BckSp><BckSp><BckSp>
+2018-08-25 16:03:29+0530 > corel draw how to get same dimenion in pdf print
+2018-08-25 16:10:25+0530 > capacitive touch home automation front sticker design
+2018-08-25 16:30:05+0530 > <BckSp><BckSp><BckSp><BckSp>
+2018-08-25 16:35:45+0530 > <BckSp>home automation
+2018-08-25 16:35:56+0530 > mouser
+2018-08-25 16:46:27+0530 > bt136
+2018-08-25 16:46:48+0530 > bt136s-moc3021
+2018-08-25 16:49:50+0530 > 
+2018-08-25 16:50:59+0530 >  <#+2>
