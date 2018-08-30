@@ -1,0 +1,64 @@
+Logging started ...
+
+2018-08-28 09:46:42+0530 > zs123456
+2018-08-28 09:46:54+0530 > <LCtrl><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><#+61>mouser
+2018-08-28 10:31:18+0530 > <BckSp>re<BckSp><BckSp><BckSp>m<BckSp><BckSp><BckSp>processor hang problems
+2018-08-28 11:46:15+0530 > imx6 
+2018-08-28 11:48:16+0530 > st<BckSp>etupbox working 
+2018-08-28 12:11:01+0530 >  and block diagram
+2018-08-28 12:11:13+0530 > esp8266 ex  flash<LCtrl>fboot mode<BckSp>boo<Down>
+2018-08-28 12:39:27+0530 >  sele<Down>
+2018-08-28 12:40:17+0530 > <BckSp>v power
+2018-08-28 12:41:37+0530 >  chair
+2018-08-28 12:41:54+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp>
+2018-08-28 12:41:59+0530 >  chair push<Down>
+2018-08-28 12:42:40+0530 >  equ<Down>
+2018-08-28 12:42:51+0530 > <BckSp>push in chairs
+2018-08-28 12:43:15+0530 > <BckSp><#+13><BckSp><#+14> chair push and down metirial
+2018-08-28 12:44:02+0530 > <BckSp>
+2018-08-28 12:44:14+0530 >  push 
+2018-08-28 12:44:24+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>push a<BckSp>up and push dowm<BckSp>n metirials
+2018-08-28 12:45:01+0530 > v power chair metirial
+2018-08-28 12:45:59+0530 > <BckSp>
+2018-08-28 12:50:09+0530 > mx<BckSp><BckSp><BckSp>mx<BckSp><BckSp><BckSp><BckSp>im<BckSp><BckSp><BckSp>esp8266 <BckSp>ex <Down><Up>how to use flash mem<Down>
+2018-08-28 12:52:29+0530 > <LCtrl><LCtrl><LCtrl>esp8266 to ardin<Down>
+2018-08-28 12:56:06+0530 > <LCtrl><LCtrl><LCtrl><LCtrl>c
+2018-08-28 12:58:01+0530 > <LCtrl>vsamsung charesp8266 ex sc<Down>
+2018-08-28 14:47:03+0530 > p25080h
+2018-08-28 14:48:18+0530 >  7l<BckSp>q<BckSp><BckSp>
+2018-08-28 14:49:13+0530 >  7l1f34d
+2018-08-28 14:49:40+0530 > <LCtrl>c<LCtrl>z<LCtrl>c
+2018-08-28 14:49:51+0530 > <BckSp>
+2018-08-28 14:49:53+0530 > <LCtrl>v<LCtrl>v
+2018-08-28 14:50:02+0530 > h<BckSp><BckSp>hardware dat<CpsLk>A<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><#+18>ESP8266 <BckSp>-EX BOOT MODE
+2018-08-28 14:58:27+0530 >  TABLE
+2018-08-28 15:02:20+0530 > HOW TO FLASH IN ESP8266-EX 
+2018-08-28 15:06:22+0530 > USE SPI <Esc>SPI FLASH IN ESP8266 EX
+2018-08-28 15:13:14+0530 > -\<BckSp>
+2018-08-28 15:13:20+0530 > P250<BckSp>Q80H
+2018-08-28 15:24:45+0530 > <BckSp>
+2018-08-28 15:24:53+0530 > ESP822-EX SPI FA<BckSp>LASH SIZE
+2018-08-28 15:25:50+0530 > ESPFL<BckSp><BckSp>8266-EX MODULE FLASH
+2018-08-28 15:50:53+0530 >  UPESP82
+2018-08-28 15:53:39+0530 > <BckSp><BckSp><BckSp><BckSp><#+16><BckSp>FLAS<Down><Up>
+2018-08-28 15:53:52+0530 > <BckSp>ARDUIM8110B 
+2018-08-28 18:27:31+0530 > \\<BckSp><BckSp><BckSp><BckSp>POWER MANAGEMW<BckSp>ENT IC
+2018-08-28 18:29:21+0530 > 8110B <Down>
+2018-08-28 18:30:29+0530 > MOUSER
+2018-08-28 18:31:07+0530 > 8110B
+2018-08-28 18:31:20+0530 > NCP1077P065G
+2018-08-28 18:32:32+0530 >  DATA<Down>
+2018-08-28 18:35:41+0530 > <Down>
+2018-08-28 18:38:53+0530 > COMKEY
+2018-08-28 18:41:08+0530 > IMH INDUCTOR
+2018-08-28 18:41:41+0530 > <LCtrl>V
+2018-08-28 18:50:14+0530 > \<BckSp>
+2018-08-28 18:50:20+0530 > L
+2018-08-28 18:50:42+0530 >  ONLINE PURCHASE
+2018-08-28 18:51:01+0530 > I<KP1><KP0>INDUCTANCE ONLINE PU<Down>
+2018-08-28 18:54:49+0530 > MOUSER
+2018-08-28 19:09:36+0530 > 352118KFT<Down>
+2018-08-28 19:10:38+0530 > COMKEY
+2018-08-28 19:22:49+0530 > <BckSp><#+52>22K RELAY WILL HEA<BckSp><#+25>RELAY HEAT WILL COME OR NOT
+2018-08-28 19:43:38+0530 > <BckSp><BckSp><BckSp>RELAY HEAT WILL COMR<BckSp>E
+2018-08-28 19:44:14+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp> 
