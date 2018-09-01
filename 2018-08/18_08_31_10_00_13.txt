@@ -1,0 +1,23 @@
+Logging started ...
+
+2018-08-31 10:00:13+0530 > zs123456
+2018-08-31 10:00:28+0530 > zero cross 
+2018-08-31 10:09:24+0530 >  with calculation
+2018-08-31 10:13:39+0530 > <BckSp>opto<Down>
+2018-08-31 10:20:05+0530 > how to divide ac <Down><Up>
+2018-08-31 10:29:24+0530 >  usi<BckSp><BckSp><BckSp>zero cross detector
+2018-08-31 10:30:05+0530 > preciesion zelow power zero cr<Down>
+2018-08-31 10:32:27+0530 >  with calchow to reduce ac voltage heat
+2018-08-31 10:37:01+0530 > zeo <BckSp><BckSp>ro cross dete5<BckSp><BckSp><BckSp><BckSp><BckSp>5v to 3.3v<Down><Down><Down>
+2018-08-31 12:54:38+0530 > esp8266 ex pidatasheet
+2018-08-31 12:57:17+0530 > voltage dividw<BckSp>e<LAlt>r<BckSp> 5v to 3.3v 
+2018-08-31 12:58:38+0530 > esp8266ex voltage divider 
+2018-08-31 13:06:50+0530 > renesas dev<BckSp>bi<BckSp>ugger how to change voltage ot<BckSp><BckSp>option<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>
+2018-08-31 13:38:47+0530 > \<BckSp>debugger<Left>possible to connect 3.3 logic <RShft>
+2018-08-31 14:30:58+0530 > <BckSp>3st micrrelay connection
+2018-08-31 17:54:25+0530 > <BckSp>relay common pin phase or netural
+2018-08-31 18:21:24+0530 > 
+2018-08-31 20:07:09+0530 > 
+
+Logging stopped at 2018-08-31 20:07:50+0530
+
