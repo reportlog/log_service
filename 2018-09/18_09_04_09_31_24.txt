@@ -1,0 +1,48 @@
+Logging started ...
+
+2018-09-04 09:31:24+0530 > zs123456
+2018-09-04 09:31:32+0530 > home automato<Left><Down>
+2018-09-04 09:54:46+0530 >  docuzumi
+2018-09-04 10:04:03+0530 > <BckSp><BckSp>
+2018-09-04 10:04:08+0530 >  soluthome automation final relese produx<BckSp>ct document
+2018-09-04 10:08:56+0530 > home automatiom<BckSp>n ir and app based userguide
+2018-09-04 10:15:39+0530 > <BckSp><BckSp>home automation hardware docu<Down>
+2018-09-04 10:24:18+0530 > zumi <RCtrl><Menu><#+37><#+2><Menu><RCtrl><Menu><#+15> <#+362><Menu><#+64><AltGr> <#+123><LCtrl><LCtrl><Right><Right><Right><Right><Right><Right><Right>mx214<Left><Left><Left>l<Right><Right><Right>c
+2018-09-04 10:58:35+0530 >  da<LCtrl>c
+2018-09-04 11:02:06+0530 > <LCtrl>f<LCtrl>v<LCtrl><LCtrl><LCtrl>c
+2018-09-04 11:04:37+0530 > <LCtrl>f<LCtrl>vcd4504b 
+2018-09-04 11:20:51+0530 > mc1<BckSp><BckSp>bv<BckSp>c<Left><BckSp>p
+2018-09-04 11:24:14+0530 > project completed mail to senior eng
+2018-09-04 12:23:49+0530 > zakl<BckSp>a<LShft>Tak <BckSp><BckSp>sk completed<LCtrl>c
+2018-09-04 12:40:26+0530 > <LCtrl>v <BckSp><#+12>project 
+2018-09-04 12:40:50+0530 > 
+2018-09-04 12:40:50+0530 > <LShft>Hi all,zumi <BckSp><BckSp><BckSp><BckSp><BckSp><LShft>" <LShft>Zumi zumoi<BckSp><BckSp>i<LShft>Samart <BckSp>au<BckSp><BckSp><LShft>Automation <LShft>" <LShft>Has<BckSp><BckSp><BckSp>has been complete <BckSp>d on 4- se<BckSp><BckSp><BckSp><BckSp><BckSp><LShft>)3<BckSp><BckSp>03 - 09 -2018<LCtrl>c
+2018-09-04 12:43:54+0530 > 
+2018-09-04 12:44:00+0530 > 
+2018-09-04 12:44:00+0530 > <LCtrl>vsoftware and application team.
+2018-09-04 12:45:08+0530 > 
+2018-09-04 12:45:08+0530 > <LShft>Now <LShft>Zumi smary=<BckSp><BckSp>t automation testing <Left><Left><Left><Left><Left><Left><Left><Left>final is going on , <LShft>i<BckSp><BckSp><BckSp><Left>and  <LShft>hardware manual and <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>user q<BckSp>guide <BckSp>perperation <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>ipr<BckSp>eration <BckSp><Right><Right><BckSp><BckSp>hard<BckSp><BckSp><BckSp><BckSp><BckSp>per[<BckSp>peration
+2018-09-04 12:47:35+0530 > action id<BckSp>s<BckSp>.....
+2018-09-04 12:48:12+0530 > 
+2018-09-04 12:48:13+0530 > sih
+2018-09-04 12:48:59+0530 > 
+2018-09-04 12:49:00+0530 > 
+2018-09-04 12:50:17+0530 > 
+2018-09-04 12:50:18+0530 > please letme <BckSp><BckSp><BckSp> me know if you have any question or would like further <BckSp><BckSp><BckSp><BckSp>er information.
+2018-09-04 12:53:30+0530 > <BckSp><Right><BckSp><LShft>P<BckSp><LShft>P
+2018-09-04 12:54:34+0530 > 
+2018-09-04 12:54:34+0530 > <LShft>Siva sir,<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>
+2018-09-04 12:54:52+0530 > siva,
+2018-09-04 12:54:58+0530 > 
+2018-09-04 12:55:01+0530 > <LShft>Hi <BckSp> sir,
+2018-09-04 12:55:12+0530 > 
+2018-09-04 12:55:13+0530 > <LShft>Please release the <BckSp><BckSp><Right><Right><Right><Right><Left><Left><Left><BckSp><BckSp><Right><Right><Right><Left><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><#+19><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>kannan<BckSp><#+32>20amps relay bcp<BckSp><BckSp><BckSp>pcb design
+2018-09-04 16:00:53+0530 > youtube
+2018-09-04 16:06:40+0530 > justin biber
+2018-09-04 16:07:10+0530 > <BckSp><BckSp><BckSp><LCtrl>c
+2018-09-04 16:26:58+0530 > <LCtrl>vtime equal to what
+2018-09-04 17:53:22+0530 > light gates 
+2018-09-04 17:54:27+0530 >  projects
+2018-09-04 17:54:35+0530 >  projects
+2018-09-04 17:58:35+0530 > <LCtrl>c
+2018-09-04 18:21:31+0530 > 
