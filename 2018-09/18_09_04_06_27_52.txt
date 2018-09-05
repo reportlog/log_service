@@ -1,0 +1,10 @@
+Logging started ...
+
+2018-09-04 18:27:52+0530 > zs123456
+2018-09-04 18:28:12+0530 > ir transmitter and re<BckSp><BckSp><BckSp>light gate proj<BckSp><BckSp>light gate us<BckSp><BckSp>calcul<CpsLk>TE<BckSp><BckSp><BckSp>LATE <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><CpsLk>culate the sp projects
+2018-09-04 18:35:58+0530 >  using arspeed unit
+2018-09-04 18:38:35+0530 > <BckSp>road sticker<Down><Down>
+2018-09-04 18:57:51+0530 > 
+
+Logging stopped at 2018-09-04 18:59:14+0530
+
