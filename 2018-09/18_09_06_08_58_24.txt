@@ -1,0 +1,35 @@
+Logging started ...
+
+2018-09-06 08:58:24+0530 > zs123456
+2018-09-06 09:01:30+0530 > flour <BckSp><BckSp><BckSp>wer i<BckSp>tamil and english name with image
+2018-09-06 09:03:14+0530 > english to <Down>
+2018-09-06 09:07:19+0530 > greens<BckSp><BckSp><#+8><BckSp><BckSp><BckSp>jasmine<BckSp><BckSp><#+18>marigold<BckSp><#+19>hule<BckSp><BckSp><BckSp><BckSp>hlue<BckSp><#+18>gule<BckSp><#+19>juhi<BckSp><#+11>ir sensor<Down>
+2018-09-06 09:14:29+0530 >  scomparator uses<Down>
+2018-09-06 09:24:00+0530 > analod<BckSp>g <Down><Down><Down><Down><Down>
+2018-09-06 09:24:34+0530 > <BckSp>comp<Down><Down>
+2018-09-06 09:24:57+0530 >  its convert anlog <BckSp><BckSp><BckSp><BckSp>alog to digital <Down>
+2018-09-06 09:25:27+0530 > ardino <BckSp><BckSp><BckSp><BckSp>uino prsolor mppt <Down>
+2018-09-06 12:42:11+0530 > if add battery parrel<BckSp><BckSp><BckSp>allel
+2018-09-06 12:50:54+0530 > serial and pae<BckSp>rallel batter 140471k dar<BckSp>tasheet
+2018-09-06 17:05:04+0530 > www.youtu<E-1d1><E-1d1>e.com
+2018-09-06 17:29:09+0530 > b
+2018-09-06 17:29:18+0530 > www
+2018-09-06 17:30:03+0530 > tube
+2018-09-06 17:30:07+0530 > new innovat]'vinyl print sticker
+2018-09-06 18:18:18+0530 >  colour image and hole cutting
+2018-09-06 18:20:09+0530 > lm393<Down><Down>
+2018-09-06 18:40:36+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Down><Down>
+2018-09-06 18:40:49+0530 > <BckSp><BckSp>solor inverter<Down>
+2018-09-06 18:51:51+0530 > flipcart
+2018-09-06 19:12:28+0530 > redmi y1
+2018-09-06 19:12:40+0530 > renesae<BckSp>s <Down><Down><Down><Down> r5f102aaa
+2018-09-06 19:14:31+0530 > r5f102aaa
+2018-09-06 19:14:57+0530 > ethernet board to board testing procedure in hardware
+2018-09-06 19:19:26+0530 > <BckSp>ethernet board testing in hardware 
+2018-09-06 19:21:11+0530 > <BckSp>h<CpsLk><CpsLk>ardware test in phy 
+2018-09-06 19:22:41+0530 > lan 
+2018-09-06 19:22:49+0530 > how to check the bauad  in cro
+2018-09-06 19:23:44+0530 > lan to la<BckSp><#+27>ethernet chip to <BckSp><BckSp><BckSp>baoard to <BckSp><#+16> to ethernet chip board to board connection
+2018-09-06 19:25:12+0530 > <BckSp>ethernet board to board connection 
+2018-09-06 19:26:08+0530 > how to communicate ethernet phy
+2018-09-06 19:27:30+0530 > <LCtrl><LCtrl><LCtrl><LCtrl><KP0><KP.><RShft>
