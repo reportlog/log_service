@@ -1,0 +1,23 @@
+Logging started ...
+
+2018-09-08 09:59:00+0530 > zs123456
+2018-09-08 10:02:29+0530 > www
+2018-09-08 11:32:22+0530 > mouser
+2018-09-08 11:32:44+0530 > <LCtrl><LCtrl><LCtrl>c
+2018-09-08 12:37:15+0530 > <LCtrl>v
+2018-09-08 12:37:20+0530 > <LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><Right><Right><Right><Right><Left><Left><Left><Left><Left><KP0><KP0><KP0><KP0><KP0><Right><Right><LCtrl>r<BckSp>flipcart
+2018-09-08 14:24:03+0530 > redmi power bank
+2018-09-08 14:24:20+0530 >  1<Up><Down>
+2018-09-08 14:24:53+0530 > <BckSp>
+2018-09-08 14:25:06+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Down><Down><Down><Down><Up><Down>
+2018-09-08 14:25:59+0530 > <Down><#+17><Down><Down><Down><Down><Down><Down><Up>
+2018-09-08 14:26:20+0530 > amazon
+2018-09-08 14:27:48+0530 > redmi power bank
+2018-09-08 14:28:01+0530 > <LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl>16<CpsLk>2<Down><Down>
+2018-09-08 16:23:16+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>how<BckSp><BckSp><BckSp><BckSp><BckSp>ac signal controll by traic <BckSp><Right><BckSp>ac fan <BckSp>some humming noise ==<BckSp><BckSp><BckSp><BckSp>ardino<BckSp><BckSp><BckSp><#+20>fan humming sound reduce by sof<Down>
+2018-09-08 17:49:03+0530 >  control
+2018-09-08 17:49:11+0530 > <BckSp>fan control bu<BckSp>y traic some noise will <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp> distor\\\\<BckSp><#+52>hormonic distrotion slove by software
+2018-09-08 17:50:26+0530 > sa<BckSp><BckSp><BckSp><LShft>Hi sa<BckSp><BckSp>,
+2018-09-08 18:17:28+0530 > 
+2018-09-08 18:17:28+0530 > <LShft>I need urgent money h<BckSp>for some personal <BckSp><#+48><LCtrl><LCtrl>fj3
+2018-09-08 19:06:56+0530 > <LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl><LCtrl>
