@@ -1,0 +1,31 @@
+Logging started ...
+
+2018-09-11 09:58:19+0530 > zs123456
+2018-09-11 10:00:36+0530 > twwww<BckSp>.google
+2018-09-11 13:55:43+0530 > www.gg<BckSp>oogle.com
+2018-09-11 13:57:39+0530 > 
+2018-09-11 13:57:52+0530 > 
+2018-09-11 13:57:54+0530 > 
+2018-09-11 13:57:54+0530 > 
+2018-09-11 13:57:54+0530 > 
+2018-09-11 13:57:54+0530 > 
+2018-09-11 13:57:55+0530 > 
+2018-09-11 13:57:55+0530 > 
+2018-09-11 13:57:55+0530 > ac detection<Down>
+2018-09-11 14:28:00+0530 >  using optocoupler
+2018-09-11 14:28:55+0530 > <BckSp><#+2>r and microcontroller
+2018-09-11 14:34:50+0530 > <BckSp><#+54><BckSp><#+15><BckSp><#+32><BckSp>home automation  <BckSp>documem<LCtrl>vlink
+2018-09-11 14:43:23+0530 > ho,<BckSp>me automation picac load dte<BckSp><BckSp><Down><Down>
+2018-09-11 15:28:33+0530 > how to check socket plug in detected circuit 
+2018-09-11 15:32:32+0530 > <BckSp>how to design<BckSp><#+12><BckSp><BckSp><BckSp><#+18>open circuit and closed circuir<BckSp>t dr<BckSp>et<Down><BckSp><BckSp><BckSp><BckSp><BckSp>close usinf<BckSp>g micro<Down>
+2018-09-11 15:45:23+0530 > <BckSp>how to get intruppt socket plugin or  n<BckSp><BckSp>not using microco<Down>
+2018-09-11 15:48:47+0530 > ac <BckSp> ac device
+2018-09-11 15:50:46+0530 > <BckSp>ac socket detection using <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp> usin<BckSp><BckSp><BckSp><BckSp>
+2018-09-11 15:58:26+0530 >  using micwww.youtube.com
+2018-09-11 16:48:24+0530 > electronics <Down>
+2018-09-11 16:48:38+0530 > super capawww.<BckSp><BckSp><#+20>,pouser<BckSp><BckSp><BckSp><#+19>mouser
+2018-09-11 17:11:40+0530 > super charge and discharge 
+2018-09-11 17:15:47+0530 > what is leakage current in device
+2018-09-11 17:31:42+0530 > innovation battery car<RShft>
+2018-09-11 18:04:53+0530 > <BckSp>
+2018-09-11 18:24:21+0530 > 
