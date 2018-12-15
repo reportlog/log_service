@@ -1,0 +1,11 @@
+Logging started ...
+
+2018-05-12 14:28:59+0530 > <BckSp><#+42><LCtrl><PgDn><BckSp><BckSp><BckSp><BckSp><BckSp><LCtrl><LShft>Tsudo vim /et<Tab><Tab><Tab>mnrc<Tab>.lo<Tab>
+2018-05-12 14:29:25+0530 > zs10062013
+2018-05-12 14:29:28+0530 > <Esc><RShft>:q<Tab>
+2018-05-12 14:29:30+0530 > logke<Tab>--kill
+2018-05-12 14:29:35+0530 > <Up><Home>sudo 
+2018-05-12 14:29:39+0530 > 
+
+Logging stopped at 2018-05-12 14:29:39+0530
+
