@@ -1,0 +1,28 @@
+Logging started ...
+
+2018-12-15 14:41:49+0530 >  .d<Tab><Tab>a<Tab>s<Tab>
+2018-12-15 14:41:54+0530 > ls
+2018-12-15 14:41:55+0530 > cd l<Tab><#+1>
+2018-12-15 14:41:57+0530 > ls
+2018-12-15 14:41:58+0530 > git st<Tab>t<Tab>
+2018-12-15 14:42:03+0530 > vim <RShft><Ins>
+2018-12-15 14:42:08+0530 > <Esc><RShft>:q<Tab>
+2018-12-15 14:42:11+0530 > <Up><Home>sudo 
+2018-12-15 14:42:13+0530 > zs10062013
+2018-12-15 14:42:17+0530 > <PgDn><PgDn><PgDn><PgDn><#+37><Esc><RShft>:q<Tab>
+2018-12-15 14:42:25+0530 > <LCtrl><PgDn><Up><Up><Up><Up><Up><Up><Down><Up>
+2018-12-15 14:42:32+0530 > <Esc><RShft>:q<Tab>
+2018-12-15 14:42:36+0530 > <Up><BckSp><#+16><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>t<Tab>
+2018-12-15 14:42:50+0530 > <LCtrl><PgUp><LCtrl><LCtrl><PgDn><PgDn><PgUp><Esc><RShft>:q<Tab>
+2018-12-15 14:43:00+0530 > <Up><BckSp><#+22><BckSp><BckSp><BckSp>lo<Tab><#+1><LShft>C<Tab><#+2>
+2018-12-15 14:43:05+0530 > <LCtrl><PgUp><RShft><Ins> -all
+2018-12-15 14:43:15+0530 > <Up><Left><Left><Left>-
+2018-12-15 14:43:19+0530 > <#+1><Up><Down>ls
+2018-12-15 14:43:25+0530 > ara<BckSp><BckSp><BckSp><BckSp><LAlt><Tab><LAlt><Tab>aravinthkumarj1<BckSp><#+22><LAlt><Tab><LCtrl><PgDn><LCtrl><LShft>Tlo<Tab><#+1>g<Tab>k<Tab><Tab><Tab><BckSp>
+2018-12-15 14:43:59+0530 > <Up><Home>sudo <#+1>
+2018-12-15 14:44:02+0530 > zs10062013
+2018-12-15 14:44:06+0530 > <Up>--kill
+2018-12-15 14:44:16+0530 > 
+
+Logging stopped at 2018-12-15 14:44:16+0530
+
