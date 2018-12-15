@@ -1,0 +1,253 @@
+Logging started ...
+
+2018-05-12 15:40:39+0530 > paradise hotel
+2018-05-12 15:42:25+0530 > <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>www.yahoo.com
+2018-05-12 16:03:30+0530 > ad<BckSp><BckSp><LShft>AD
+2018-05-12 16:41:17+0530 > <BckSp><BckSp><LShft>BC
+2018-05-12 16:41:29+0530 > <LCtrl>fwatchdog<LCtrl>fwatpr<KP0><KP4><KP8><KP7><KP2><KP3><KP5><KP3><KP6><KP0><KP4>hawd<BckSp>wd<BckSp><#+31>wd<KP->enh<LCtrl><Del>cagoogle
+2018-05-14 10:19:38+0530 > zynqzynq u<Tab>mpsoc <LShft>Y<BckSp>yocto
+2018-05-14 12:30:36+0530 > <KP.>zynq<BckSp><#+13>zynq u<Tab> youtube
+2018-05-14 12:38:58+0530 > ma
+2018-05-14 13:12:17+0530 > oosh<BckSp><BckSp><BckSp>s<BckSp><BckSp>google maps
+2018-05-14 14:54:39+0530 > oshur <BckSp><BckSp><BckSp><BckSp><BckSp>shour <BckSp><#+10><BckSp>osur<BckSp><BckSp><BckSp><BckSp><BckSp>hossrinivasha the<BckSp><BckSp>yah
+2018-05-14 16:09:34+0530 > kalai<BckSp><BckSp><BckSp>poyyamoz<BckSp><#+23>g<BckSp><LShft><LShft>@zumisolutions.com
+2018-05-14 16:10:26+0530 > <LShft>T<LShft>N<LShft>AG <BckSp><LShft>MDUA
+2018-05-14 17:22:39+0530 > 
+2018-05-14 17:43:20+0530 > <LCtrl>c
+2018-05-14 17:55:58+0530 > c
+2018-05-14 17:55:58+0530 > c
+2018-05-14 17:55:58+0530 > <LCtrl>vgoo
+2018-05-14 17:56:17+0530 > goo<BckSp><BckSp><BckSp>gmib<BckSp><BckSp><BckSp><BckSp>gimp c<BckSp>ubn<BckSp>untu<Down><Down><Down><Down><Down> c<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>command
+2018-05-14 17:56:45+0530 >  fo<BckSp>or ub<BckSp>buntu
+2018-05-14 17:57:01+0530 > <Down><#+19><Down><Down><Down><Down><Down><Down><#+18><Up><#+20><Up><Up><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><BckSp><#+13><BckSp><BckSp>
+2018-05-14 17:58:03+0530 >  fpr <BckSp><BckSp><BckSp>or ppm image conf<BckSp>version
+2018-05-14 17:58:17+0530 > <Down><#+19><Down><#+17><Down><#+9><Down><Down>gim<Left><#+18><Right><Right>lochi<BckSp>iva<#+1>r<LCtrl>c
+2018-05-14 18:01:05+0530 > c
+2018-05-14 18:01:05+0530 > c
+2018-05-14 18:01:05+0530 > <LCtrl>v<BckSp><BckSp><BckSp>ppmroll<Down><Down><Down><Down><Down><Down><Up><Up><Up><#+37><Down><#+73><Down><#+10><Down><#+21><Down><#+21><Down><#+14><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+17><LCtrl>c
+2018-05-14 18:09:29+0530 > c
+2018-05-14 18:09:29+0530 > c
+2018-05-14 18:09:29+0530 > <LCtrl>v
+2018-05-14 18:09:37+0530 > <LAlt><Tab><LCtrl>c
+2018-05-14 18:09:56+0530 > c
+2018-05-14 18:09:56+0530 > <LAlt><Tab><LCtrl>v
+2018-05-14 18:10:03+0530 > <LAlt><Tab><LCtrl>c
+2018-05-14 18:10:14+0530 > c
+2018-05-14 18:10:14+0530 > c
+2018-05-14 18:10:14+0530 > <LAlt><Tab><LCtrl>v
+2018-05-14 18:10:20+0530 > <Down><#+15><Down><Down><Down><Down><#+16><Down><#+16><Down><#+1><Up><Up><Down><#+13><Down><#+14><Down><#+14><Up><Up><#+15><Up><#+9><Up><#+14><Up><#+11><Up><#+12><Up><Up><Up><LAlt><Tab><LAlt><Tab>hg<BckSp><BckSp><BckSp>gi<Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left>lochinvar<BckSp><BckSp><BckSp>ppm<Left><#+12><Left><Left><Left><Left><Left>lp<BckSp>ochinvar<LCtrl>c
+2018-05-14 18:13:43+0530 > c
+2018-05-14 18:13:43+0530 > c
+2018-05-14 18:13:43+0530 > c
+2018-05-14 18:13:44+0530 > c
+2018-05-14 18:13:44+0530 > c
+2018-05-14 18:13:44+0530 > <LCtrl>c
+2018-05-14 18:13:59+0530 > c
+2018-05-14 18:14:00+0530 > c
+2018-05-14 18:14:00+0530 > <RShft><Del>
+2018-05-14 18:14:13+0530 > <LCtrl>v<Down><#+15><Down><Down><#+13><Down><#+14><Down><#+14><Up><Up><#+12><Up><#+46><Up><#+11><LCtrl>c
+2018-05-14 18:20:14+0530 > c
+2018-05-14 18:20:15+0530 > <RCtrl><RShft><Home><LCtrl>v sizie<BckSp><BckSp>e <BckSp><BckSp><BckSp><BckSp><BckSp>image size
+2018-05-14 18:20:29+0530 > <Down><#+17><Down><#+14><Down><#+6><Down><#+14><Down><Down><Down><Up><#+12><Up><Up><Up><Up><Up><Down><#+11><Down><#+16><Down><Down><#+12><Down><#+10><Up><Up><Up><Down><#+12><Down><Down><Down><Down><#+13><Down><#+26><Down><#+21><Down><#+16><Down><Down><Down><#+18><Down><#+10><Up><#+28><LCtrl>fsize<Down><#+10><Down><Down><Down><Down><Down><Up><Up><Up><Up><#+5>
+2018-05-14 18:21:47+0530 > 
+2018-05-14 18:21:48+0530 > 
+2018-05-14 18:21:48+0530 > 
+2018-05-14 18:21:48+0530 > <BckSp><BckSp><#+14><Esc><LCtrl>v<LCtrl>v<Left><#+10><Left><Right><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LAlt><BckSp><BckSp><BckSp><BckSp>lochivar1
+2018-05-14 18:24:08+0530 > <RShft><Del>
+2018-05-14 18:24:41+0530 > <LCtrl>v<LCtrl><LAlt><Tab><LAlt><Tab><Down><Down><#+2><Down><Down><Down><Down><Left><#+16><BckSp>2
+2018-05-14 18:35:58+0530 > <RShft><Del>
+2018-05-14 18:36:23+0530 > <RShft><Down><#+25><Down><#+10><Down><Down><Down><#+12><Up><#+25><Down><#+15><Down><Down><Down><Up><Up><Up><Up><Down><Down><LAlt><Tab><RShft><Del>
+2018-05-14 18:37:48+0530 > <Left><LShft><RShft><Del>
+2018-05-14 18:37:50+0530 > <Right><Left><RShft><Del>
+2018-05-14 18:37:54+0530 > <Left><RShft><Del>
+2018-05-14 18:37:56+0530 > <Left><Left><BckSp>cd <LShft>Dow<Tab>
+2018-05-14 18:39:03+0530 > ls
+2018-05-14 18:39:03+0530 > cd <BckSp><BckSp><BckSp><BckSp><LAlt><Tab><LAlt><Tab>./;p<BckSp><BckSp>lo<Tab><Tab><Tab><Tab><Tab><BckSp><BckSp><LAlt><Tab><LAlt><Tab>lo<Tab><Tab><Tab><Tab><Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab>./<LAlt><Tab><LAlt><Tab><LAlt><LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><BckSp><#+15>cd ..
+2018-05-14 18:40:59+0530 > cd <LShft>DOc<Tab><BckSp><BckSp>c<Tab><BckSp>oc<Tab>
+2018-05-14 18:41:03+0530 > ,/<BckSp><BckSp>./lo<Tab><Tab><Tab><Tab><Tab><BckSp><Tab><Tab><Tab><BckSp><Tab><Tab><Tab><BckSp><BckSp><BckSp>ls
+2018-05-14 18:41:14+0530 > ./<RShft><Ins>
+2018-05-14 18:41:23+0530 > <Up><Home>sudo 
+2018-05-14 18:41:27+0530 > zsa<BckSp><BckSp><BckSp><BckSp><BckSp>zs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP3>
+2018-05-14 18:41:33+0530 > <LAlt><Tab><LAlt><Tab>pp<LAlt><Tab><LAlt><Tab><Tab>m<Tab><Tab><Tab><Tab><LAlt><Tab><LAlt><Tab>qun<Tab>a<Tab><Tab><Tab><Tab><Tab><BckSp><Tab><Tab><BckSp><Tab><LAlt><Tab><LAlt><Tab> <KP2><KP4><KP4> <LAlt><Tab><LAlt><Tab>lo<Tab>c<Tab><Tab><Tab><Tab><Tab><BckSp>lo<Tab><LAlt><Tab><LAlt><Tab><Up><Down>log<Tab>lo<Tab><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Right><KP2><KP4><KP4>
+2018-05-14 18:43:06+0530 > <LAlt><Tab><LAlt><Tab><Left><#+4><Up><Left><#+30><RShft>> 
+2018-05-14 18:43:21+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab>pnm<Tab><LAlt><Tab><LAlt><Tab>n<Tab><Tab>o<Tab>a<Tab><LAlt><Tab><LAlt><Tab>log<Tab>lo<Tab>3<Tab><BckSp>2<Tab><LAlt><Tab><LAlt><Tab><RShft>> lgo<BckSp><BckSp>og<Tab>lo<Tab>2<Tab><Left><Left><Left><Left><Left><LAlt><Tab><LAlt><Tab><Left><Left><Left><Left><Left><Left><Left><Left><RShft>_<LAlt><Tab><LAlt><Tab>ascili<BckSp><BckSp>i<LAlt><Tab><LAlt><Tab>
+2018-05-14 18:44:26+0530 > <LAlt><Tab><Down><Down><Down><#+13><Down><Down><Down><LAlt><Tab><LCtrl>c
+2018-05-14 18:45:35+0530 > c
+2018-05-14 18:45:35+0530 > c
+2018-05-14 18:45:35+0530 > c
+2018-05-14 18:45:36+0530 > <LCtrl>v<Down><Down><Down><#+21><Down><#+15><Down><Down><Down><Up><#+23><Up><Up><Up><#+20><Up><Up><Up><Up><Up><Up><Up><Up><Up><#+11><Down><Down><#+14><Down><#+11><Down><Down><Down><Up><Up><LAlt><Tab><Tab><LCtrl>v<Left><Left><Right><Right><Right><Right><Right><Right><Right><Right><Right><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>
+2018-05-14 18:54:42+0530 > <LAlt><Tab><Tab><Tab><Up><Down><#+20><Down><Down><Down><#+14><LAlt><Tab><LAlt><Tab><LAlt><Tab>;s
+2018-05-14 18:55:21+0530 > ls
+2018-05-14 18:55:22+0530 > ./log<Tab>o<Tab><#+1><Tab><Tab><RShft>_c<BckSp>loc<Tab><#+2><Tab><Tab><Tab><Tab><Tab><Tab><#+3><Tab><Tab><Tab><Tab><BckSp><#+20><LAlt><Tab><LAlt><Tab>./logo<RShft>_lochii<BckSp>var<RShft>_<KP6><KP4><KP0><RShft>_<KP4><KP8><KP0>.ppm
+2018-05-14 18:56:25+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><Down><#+15><Down><Down><Down><Down><Down><Down><Down><#+7><Down><Down><Down><LAlt><Tab><Up><BckSp><#+14><BckSp><BckSp><BckSp>.ppm
+2018-05-14 18:57:09+0530 > <Up><Home>sudo 
+2018-05-14 18:57:18+0530 > zs<KP1><KP0><KP0><KP6><KP2><KP0><KP1><KP6><BckSp><KP3>
+2018-05-14 18:57:25+0530 > <Up>
+2018-05-14 18:57:27+0530 > <LAlt><Tab><LAlt><Tab><Up><Up><Up><Up><Up><Down><Down><Down><Down><#+2><Down><Down><Down><LAlt><Tab><LCtrl>c
+2018-05-14 18:57:57+0530 > c
+2018-05-14 18:57:57+0530 > <LAlt><Tab><RShft><Ins> <LAlt><Tab><LAlt><Tab><LCtrl>c
+2018-05-14 18:58:06+0530 > c
+2018-05-14 18:58:07+0530 > c
+2018-05-14 18:58:07+0530 > <LShft><Up><Up><Down><Down><Down><RShft><Ins><Left><#+21><RShft><Ins> <End> <RShft>><LAlt><Tab><LAlt><Tab> <RShft><Ins><Left><Left><Left><Left><RShft>_4<BckSp>640<RShft>_480
+2018-05-14 18:58:46+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Down><Down><Down><Up><Up><Up><Up><#+17><Down><#+12><Down><#+10><Down><LAlt><Tab><Up><Down><Up><Left><#+31><Right><Right><Right><BckSp><#+27><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LAlt><Tab><LAlt><Tab>pm<BckSp>nmr<Tab><Tab><Tab>a<Tab><BckSp><LAlt><Tab><LAlt><Tab><BckSp><BckSp><BckSp><LAlt><Tab><LAlt><Tab>nmn<Tab>r<Tab>a<Tab><Tab><Tab><Tab><Tab><LAlt><Tab><LAlt><Tab>r<BckSp><BckSp><BckSp><LAlt><Tab><LAlt><Tab><Tab><Tab><Tab>o<Tab>a<Tab><End> <LAlt><Tab><LAlt><Tab><RShft>> lo<Tab>k<BckSp>lo<Tab>c<BckSp><Tab><RShft>_<Tab><KP6><KP4><Tab><LAlt><Tab><LAlt><Tab><Left><Left><Left><Left><Left><RShft>_<LAlt><Tab><LAlt><Tab>ascii<RShft>_<LAlt><Tab><LAlt><Tab><KP2><KP2><KP4>
+2018-05-14 19:01:48+0530 > <LAlt><Tab><Down><Down><Down><Down><Down><Up><Up><Up><Down><Down><Up><#+12><Up><Up><#+2><Up><Up><Down><#+15><Down><Down><LAlt><Tab><LCtrl>c
+2018-05-14 19:03:33+0530 > c
+2018-05-14 19:03:33+0530 > c
+2018-05-14 19:03:34+0530 > c
+2018-05-14 19:03:34+0530 > <LCtrl>v<Right><Left><Right><LShft><Left><Left><Left><Right><Right><Right><RShft><Del>
+2018-05-14 19:13:09+0530 > <Left><Left><LShft><Left><Left><RShft><Del>
+2018-05-14 19:13:15+0530 > <Left><Left><Right><RShft><Del>
+2018-05-14 19:13:18+0530 > <RShft><Del>
+2018-05-14 19:13:56+0530 > <Left><Left><RShft><Del>
+2018-05-14 19:14:00+0530 > <Left><RShft><Del>
+2018-05-14 19:14:05+0530 > <Left><LCtrl>v<LAlt><Tab><LAlt><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Left><Up><Up><Up><#+14><Down><Down><Up><Up><Up><Up><Up><Up><Up><Up><#+10><Down><#+12><Down><Down><Down><LAlt><Tab><LAlt><Tab><LAlt><Tab><Left><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><KP8><KP0><KP0><RShft>_<KP6><KP0><KP0><Up><Up><Up><Down><Down><Down><Up><Up><Up><Down><Down><Down><Down><Down><Down>sud <BckSp><BckSp>do<Tab> <LAlt><Tab><LAlt><Tab><Right><Down><Right><Left><Up><Left><Down><Left><#+13><Right><Right><Right><F2><LCtrl><LShft><Right><Right><Right><Right><Right><LCtrl>c
+2018-05-14 19:17:39+0530 > c
+2018-05-14 19:17:39+0530 > <Esc><#+2><LAlt><Tab><RShft><Ins><Left><#+26><Left><BckSp><#+16><LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><Tab><LCtrl>c
+2018-05-14 19:17:52+0530 > c
+2018-05-14 19:17:52+0530 > <LAlt><Tab><RShft><Ins> <End> <RShft>> <LAlt><Tab><LAlt><Tab>log<Tab>loc<Tab>8<Tab><Left><Left><Left><Left><Left><RShft>_<KP4><KP4><BckSp><BckSp><KP2><KP2><KP4>
+2018-05-14 19:18:19+0530 > <LAlt><Tab><LCtrl>c
+2018-05-14 19:18:30+0530 > c
+2018-05-14 19:18:30+0530 > <LAlt><Tab><RShft><Ins> logo<Tab>loc<Tab><KP8><KP0><KP0><Tab><RShft>_<KP2><KP4><KP4><Tab>.<Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><LAlt><Tab><LAlt><Tab>p<Tab><Tab><Tab><Tab><Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Tab><RShft>_<Tab><RShft>> <LAlt><Tab><LAlt><Tab>log<Tab>lo<Tab>8<Tab><RShft>_<Tab><Left><Left><Left><Left><Left><Left><Left><Left><Left><RShft>_<LAlt><Tab><LAlt><Tab>ascii<LAlt><Tab><LAlt><Tab><Right><BckSp>
+2018-05-14 19:19:25+0530 > <LCtrl>c
+2018-05-14 19:19:49+0530 > c
+2018-05-14 19:19:49+0530 > c
+2018-05-14 19:19:49+0530 > c
+2018-05-14 19:19:49+0530 > c
+2018-05-14 19:19:49+0530 > c
+2018-05-14 19:19:49+0530 > <LCtrl>v<LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><BckSp><BckSp><BckSp><BckSp><KP5><KP0><KP8><Tab><KP7><KP8><BckSp><BckSp><KP7><KP0><KP9><BckSp><BckSp><BckSp><BckSp><KP1><KP0><KP9><LAlt><Tab><LAlt><Tab><Tab><LCtrl>v<Down><Down><Down><#+21><Up><Up><Up><Up><Down><Down><Up><Down><Left><Left><Left><Left><Left><Left><Left><Left><BckSp><BckSp><BckSp><KP7><KP9><KP8><Right><Right><Right><Right><BckSp><BckSp><BckSp><KP8><BckSp><KP5><KP9><KP8>
+2018-05-14 19:33:07+0530 > <Up><Up><Down><Down><Up><Up><Left><#+38><Left><Left><Left><LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><BckSp><BckSp><BckSp><KP7><KP9><KP8><Right><Right><Right><Right><BckSp><BckSp><Tab><Tab><Tab><BckSp><Tab><Del><Del><Del><Del><Right><#+25><Left><Left><Right><#+7><Right><Right><Right><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><KP7><Tab><End><Left><Left><#+14><Left><Left><Left><Right><Left><Del><Del><Del><Del>
+2018-05-14 19:34:01+0530 > <Up><Up><Down><Up><Left><#+38><Left><Left><Left><Left><Left><Left><Left><#+1><Left><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Tab>7<Tab><Right><#+34><Left><BckSp><#+10><BckSp><BckSp><KP7><Tab>
+2018-05-14 19:34:31+0530 > <LCtrl>c
+2018-05-14 19:34:44+0530 > c
+2018-05-14 19:34:44+0530 > c
+2018-05-14 19:34:44+0530 > <LCtrl>v<Down><Down><Down><#+8><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+11><Down><#+10><Down><Up><#+16><Up><#+8><LCtrl><RShft><Del>
+2018-05-14 19:48:37+0530 > goo
+2018-05-14 19:49:08+0530 > resolutin<BckSp><BckSp><BckSp><#+15>types of screen sele<BckSp><BckSp><BckSp><BckSp>resolution
+2018-05-14 19:49:30+0530 > <Down><#+18><Down><#+21><Down><#+13><Down><#+32><Down><#+27>regoo
+2018-05-14 19:50:40+0530 > resolutions <BckSp><#+18>display resolution screen<Down> 
+2018-05-14 19:50:57+0530 >  below <KP8><KP0><KP0><CpsLk><KP6><KP0><KP0>
+2018-05-14 19:51:12+0530 > <BckSp><BckSp><BckSp><KP7><KP6><KP8><Tab><KP5><KP7><KP3><LAlt><Tab><LAlt><Tab><Tab><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><BckSp><KP6>
+2018-05-14 19:52:14+0530 > <LCtrl>v<Left><Left><Left><Left><Left><Left><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><Left><Left><#+15><Right><BckSp>6<LAlt><Tab><LAlt><Tab><Tab><LAlt><Tab><Left><#+11><Right><BckSp><Del>76
+2018-05-14 19:53:37+0530 > <Up><Up><Down><Up><Left><#+37><Right><Right><Right><Left><Left><Left><BckSp><#+9><BckSp><BckSp><BckSp><Tab><Tab>6<Tab><Del><Del><Del><Del><Right><Right><Right><#+27><Right><Right><Left><Left><#+9><BckSp><#+11><Tab>6<Tab><BckSp><BckSp><BckSp><BckSp>
+2018-05-14 19:54:09+0530 > <Up><Up><Left><#+31><Right><Left><#+18><Left><Left><Left><BckSp><#+10><BckSp><BckSp>6<Tab><Right><#+25><Right><Right><Right><Right><Right><Right><Right><Right><Right><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>6<Tab>
+2018-05-14 19:54:41+0530 > <LCtrl><LCtrl><LCtrl><LCtrl>c
+2018-05-14 19:55:34+0530 > c
+2018-05-14 19:55:34+0530 > c
+2018-05-14 19:55:34+0530 > c
+2018-05-14 19:55:34+0530 > c
+2018-05-14 19:55:34+0530 > c
+2018-05-14 19:55:35+0530 > <LCtrl>v<LAlt><Tab><Tab><Tab><LAlt><Tab><BckSp><BckSp><KP8><KP4><Down><Right><Down><Up><Up><Tab><Right><BckSp><BckSp><KP9><KP2><LCtrl>v<Left><Left><Left><Left><BckSp><BckSp><BckSp><KP6><KP9><BckSp><BckSp><KP5><KP9><KP2><Left><Left><Left><Left><BckSp><BckSp><KP8><KP4>
+2018-05-14 20:10:55+0530 > <Up><Up><Left><#+37><Right><Right><Right><Right><BckSp><#+14><BckSp><BckSp><KP7><KP9><BckSp><LAlt><Tab><LAlt><Tab><KP8><Tab><Right><#+25><Right><Right><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><KP8><Tab><BckSp><BckSp><BckSp><BckSp>
+2018-05-14 20:11:32+0530 > <Up><Up><Left><#+17><Left><BckSp><#+10><BckSp><KP8><Tab><Left><#+24><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><KP8><Tab>
+2018-05-14 20:11:54+0530 > <LShft><Left><Left><RShft><Del>
+2018-05-14 20:12:50+0530 > <Left><Left><Up><Right><Right><Right><Right><Right><LCtrl>c
+2018-05-14 20:13:02+0530 > c
+2018-05-14 20:13:03+0530 > c
+2018-05-14 20:13:03+0530 > c
+2018-05-14 20:13:03+0530 > c
+2018-05-14 20:13:03+0530 > c
+2018-05-14 20:13:03+0530 > c
+2018-05-14 20:13:04+0530 > c
+2018-05-14 20:13:04+0530 > c
+2018-05-14 20:13:04+0530 > c
+2018-05-14 20:13:04+0530 > c
+2018-05-14 20:13:05+0530 > c
+2018-05-14 20:13:05+0530 > c
+2018-05-14 20:13:05+0530 > c
+2018-05-14 20:13:05+0530 > c
+2018-05-14 20:13:05+0530 > c
+2018-05-14 20:13:05+0530 > c
+2018-05-14 20:13:06+0530 > <LCtrl>c
+2018-05-14 20:13:15+0530 > c
+2018-05-14 20:13:15+0530 > <LCtrl>v<Down><#+4><Down><#+10><Down><Down><Down><Down><#+19><Down><#+30><Down><#+25><Down><#+20><Down><#+28><Up><#+16><Up><#+3><Down><#+18><Down><#+3><Down><#+14><Down><#+11><Down><#+29><Down><#+9><Down><#+4><Down><#+4><Down><#+1><Down><#+4><Down><Down><Down><#+9><Down><#+5><Down><#+2><Down><#+6><Down><#+23><Down><#+5><Down><#+19><Down><#+21><Down><#+10><Down><#+11><Down><#+24><Down><#+15><Down><#+23><Down><#+21><Down><Down><Up><Down><Up><Down><Down><Up><Up><Up><Down><Down><Up><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Up><#+12><Up><Up><Up><Up><Up><Up><Down><Up><Down><Up><Up><Down><Up><Down><Down><Down><#+14><Down><Down><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>zynq u<Tab>
+2018-05-15 12:15:59+0530 >  zcu102
+2018-05-15 12:16:29+0530 > <LCtrl><LAlt>tcd <CpsLk><LShft>R<BckSp><BckSp><CpsLk><LShft>Pr<Tab><BckSp><BckSp> <LShft>Pr<Tab><Tab><Tab>o<Tab><Tab><Tab>an<Tab><Tab><Tab><BckSp>r<Tab><Tab><Tab><BckSp><Tab><Tab><Tab><BckSp><#+16><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp> ny<Tab><BckSp><BckSp>my<Tab><Tab><Tab><BckSp><BckSp><Tab><Tab>an<Tab>nan<Tab><Tab><Tab><BckSp><BckSp><LShft>An<Tab><Tab><Tab><Tab><Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>;l<BckSp><BckSp>loccat<BckSp><#+2><BckSp><BckSp><BckSp><BckSp><BckSp><#+2>cd <LShft>Pr<Tab><Tab>o<Tab><Tab><Tab>win<Tab><Tab><Tab><Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>A<BckSp>ar<Tab><Tab><Tab><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><#+2><BckSp><LShft>An<Tab><Tab><Tab>
+2018-05-15 13:45:03+0530 > ls
+2018-05-15 13:45:04+0530 > cd s<BckSp><BckSp><BckSp><BckSp><BckSp>cd co<Tab><Tab><Tab><Tab>
+2018-05-15 13:45:11+0530 > ls
+2018-05-15 13:45:12+0530 > cd <BckSp><BckSp><BckSp><#+24>cd 
+2018-05-15 13:45:19+0530 > cde<BckSp><BckSp><BckSp><BckSp>ls
+2018-05-15 13:45:22+0530 > <Down>v<BckSp><BckSp>ls k<Tab><BckSp><LShft>K<Tab><Tab><Tab>ar<Tab><Tab><Tab>nan<Tab><Tab><Tab><BckSp><BckSp><LShft>An<Tab><Tab><Tab><Tab><Tab>syst<Tab>cor<Tab><Tab><Tab><BckSp><#+35>zynq u<Tab><BckSp><BckSp><BckSp><BckSp><BckSp>zcu102 rtos
+2018-05-15 15:45:09+0530 > z<Right>
+2018-05-15 16:23:18+0530 > hypervisoer<BckSp><BckSp>r
+2018-05-15 20:49:32+0530 > <LCtrl>f<#+3><LCtrl>frtos
+2018-05-16 10:30:47+0530 > <BckSp><BckSp><BckSp><BckSp>bare
+2018-05-16 10:31:06+0530 > <BckSp><BckSp><BckSp><BckSp>metal<Down><#+12><Down><#+11><Down><#+15><Down><#+13><Down><#+11><Down><#+15><Down><#+16><Down><#+8><Down><#+19><Down><#+16><Down><#+8><Down><#+10><Down><#+14><Down><#+11><Down><#+2><Down><Down><Down><#+10><Down><#+1><Down><#+7><Down><#+2><Down><Down><Down><Down><Down><#+12><Up><#+3><Down><#+11><Down><#+10><Down><#+11><Down><#+7><Down><#+20><Down><#+12><Down><#+12><Down><#+18><Down><#+9><Down><#+2><Down><#+14><Down><#+12><Down><#+10><Down><#+12><Down><#+17><Down><#+12><Down><#+14><Down><#+17><Down><#+11><Down><#+19><Down><#+18><Down><#+17><Down><#+17><Down><#+20><Down><#+17><Down><#+18><Down><#+19><Down><#+15><Down><#+20><Down><#+20><Down><#+16><Down><#+16><Down><#+12><Down><#+15><Down><#+16><Down><#+16><Down><#+16><Down><#+12><Down><#+16><Down><#+13><Down><#+12><Down><#+17><Down><#+21><Down><#+18><Up><#+24><Down><#+17><Down><#+15><Down><#+18><Down><Down><#+18><Down><#+3><Down><#+14><Down><#+1><Down><#+1><Down><#+1><Down><#+11><Down><#+14><Down><#+12><Down><#+12><Down><#+15><Down><#+15><Down><#+19><Down><#+20><Down><#+16><Down><#+16><Down><#+16><Down><#+19><Down><#+21><Down><#+10><Down><#+7><Down><#+26><Down><#+16><Down><#+26><Down><#+26><Down><#+13><Down><#+20><Down><#+17><Down><#+24><Down><#+17><Down><#+17><Down><#+17><Down><#+17><Down><#+20><Down><#+20><Up><Up><#+15><Up><#+14><Up><#+9><Up><#+1><Up><Up><#+12><Up><#+8><Up><#+16><Up><#+4><Up><#+10><Up><#+10><Up><#+12><Up><#+12><Up><Up><#+4><Up><PgUp><#+20><PgUp><#+19><PgUp><#+19><PgDn><PgDn><LCtrl>fro<BckSp>tos<BckSp><BckSp><BckSp><BckSp><BckSp>rtos
+2018-05-16 11:35:09+0530 > <Up><#+77><Up><#+21><Up><#+18><Down><#+4><Down><#+80><Down><#+23><Down><#+18><Down><#+15><Down><#+17><Down><#+6><Down><Down><Down><#+8><Down><#+19><Down><#+18><Down><#+1><Down><#+7><Down><#+8><Down><Down><Down><Down><Down><Down><Down><#+13><Down><#+11><Down><#+13><Down><#+9><Down><#+15><Down><#+1><Down><#+10><Down><#+16><Up><#+13><Down><#+9><Down><Down><Down><Down><Down><Down><Up>google
+2018-05-16 15:08:38+0530 > linux <Down><Down><Down><Down><Down><Down><Down><Down><Down>
+2018-05-16 15:08:58+0530 > linux internlinux internals
+2018-05-16 15:13:24+0530 > <Down><Down><Up><Down><Up><Up><Down><Down><#+7><Up><Up><Down><Up><Up><Down><Down><Up><Down><Down><Down><Down><Up><#+1><Up><#+16><Down><Down><Down><Down><#+1><Down><Down><#+4><Down><#+27><Down><#+16><Down><#+17><Up><#+18><Up><#+8><Up><#+15><Up><#+11><Up><#+15><Up><#+9><Up><Down><Up><#+11><Down><#+12><Down><#+8><Down><Down><#+26><Down><#+3><Up><#+12><Down><#+12><Up><#+14><Down><#+12><Up><#+12><Down><#+2><Down><Down><#+9><Up><#+16><Down><#+8><Down><#+5><Down><Down><Down><Down><#+4><Down><Down><#+2><Down><Down><Down><Down><#+8><Down><#+9><Down><Down>
+2018-05-16 15:48:04+0530 > <Up><Down><#+16><Down><#+21><Down><#+14><Down><#+18><Down><#+12><Down><#+15><Down><#+12><Up><#+13><Down><#+21><Down><#+14><Down><#+8><Down><#+14><Down><#+25><Up><#+37><Up><#+29><Up><#+22><Up><#+18><Up><#+10><Down><#+18><Up><#+10><Up><#+13><Up><#+15><Up><#+5><Up><#+8><Up><#+9><Up><#+11><Up><#+25><Up><#+12><Down><#+11><Down><Down><#+6><Down><#+18>
+2018-05-16 20:21:11+0530 > <PrtSc><PrtSc><PrtSc>
+2018-05-17 11:09:09+0530 > 
+2018-05-17 11:09:09+0530 > 
+2018-05-17 11:09:09+0530 > <Left><#+3>madhu<LCtrl>n<LShft>Zynq <LShft>Ultra<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp> <LShft>Ultrascale <LShft>Mp<LShft>Soc<LShft>Documentsp<Down><#+15><Up><#+5>
+2018-05-17 17:29:49+0530 > <Del>madhu<LShft><LShft>P<BckSp>peta <BckSp><BckSp><BckSp><BckSp><BckSp><LShft>Petalinux b<BckSp>tools documents<BckSp><BckSp><BckSp><BckSp><BckSp>tool b<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>build <Right><#+14><Right><BckSp>s<Left><#+15><Left><Left><Left><Left><Left><Left><BckSp><#+16><LShft>Zynq <LShft><LShft>U<BckSp>ult<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>Peta <BckSp>linux <LShft>Yocy<BckSp>to <LShft>Rtos <LShft>Hi madhu <BckSp>,
+2018-05-17 17:33:32+0530 > 
+2018-05-17 17:33:33+0530 > <LShft><LShft>I have <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft>Please find this attachments <Left><#+28><Left><Left><Left><LShft>In this mail have attached build<Left><#+9><Left><Left>image <Right><Right><Right><Right><Right> documents for peta linux , yocto, rt<BckSp><BckSp><LShft><LShft>and <LShft>Rt<BckSp><LShft>Tos<BckSp><BckSp><BckSp>os<BckSp><BckSp>tos.<Left><#+42>procedure <Right><#+37><Right><#+2><Right><Right><Right><Right><Right><Right><Right><Left><Left> <Right><Right><#+26><Right><Right><Right><BckSp><#+25> find this the c<BckSp>documents<Left><Left><#+16><Right><Right><BckSp><BckSp><BckSp><BckSp><Right><Right><Right><Right><#+12>.
+2018-05-17 17:39:06+0530 > <LShft>still now <LShft>I havw<BckSp>=<BckSp>e gotrough <Left><#+14><BckSp><BckSp><BckSp><BckSp>was <BckSp><Right><#+14><Right><Left><#+11><Left><Left>ne<Left><#+12><Right><Right><BckSp><BckSp><BckSp>have<Right><#+16> the following topices<LShft>:
+2018-05-17 17:40:33+0530 > <Down>1. <LShft>Zynq <LShft>Ultra scale <LShft>Mp<LShft>Soc - feature <BckSp>s and architecture <Left><#+15><Left><Left><Left><Left><Left><Left><Left>, applications<Right><#+16><Right><Right><Right><Right><Right><Right>.
+2018-05-17 17:41:57+0530 > 2<Left>  <Right><Right><Left>. <LShft>Tools and <LShft><LShft>SD<BckSp><#+13><BckSp><BckSp><BckSp><BckSp><LShft>Where <BckSp><#+10><BckSp><LShft>Build sources and tools<BckSp><#+20><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>supporting env<BckSp><BckSp><BckSp>working environments
+2018-05-17 17:43:40+0530 >   3. <LShft>nds some documents <Left><#+17><Left><Left><Left><Left><Left><Right><Right><Left><BckSp>i<BckSp>fin<Right><#+17><Right><Right><Right> to build images for petalinux, yocto, rtos
+2018-05-17 17:45:50+0530 >   4.<BckSp><BckSp><Up><Right><#+46><Right><Right><Right><Right><#+14><Right><Right><Right><Right><Right><Right>.
+2018-05-17 17:46:34+0530 > 
+2018-05-17 17:46:35+0530 > 
+2018-05-17 17:46:35+0530 > <LShft>Now <LShft>I am working <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>stud<BckSp><BckSp><BckSp><BckSp> studying for <LShft>how to <Left><#+22><Left><BckSp><Right><#+14><Right><Right><BckSp><BckSp><BckSp><Right><BckSp><Right><Right><#+14><Left><Left><Up><Right><#+27> load <Up><Up><Up><Up><Right><#+12><Down><Down><Down><Down><Up><Up><Up><Up><Up><Right><#+35> and tools<Down><Down><Down><Down><Up><Up><Up><Up><Down><Down><Down><Down><Up><Up><Up><Up><BckSp><#+11><BckSp><BckSp><BckSp><Down><Down><Down><Down>image im<BckSp>nto in<BckSp><#+44><BckSp>
+2018-05-17 17:48:30+0530 > 
+2018-05-17 17:48:30+0530 > 
+2018-05-17 17:48:30+0530 > <LShft>Regards,
+2018-05-17 17:48:35+0530 > <LShft>Kali<BckSp>aliyarasan.<BckSp><#+10><BckSp><BckSp><BckSp><LCtrl>c
+2018-05-17 17:50:28+0530 > 
+2018-05-17 17:50:39+0530 > 
+2018-05-17 17:50:39+0530 > <LShft>For <LShft>Rtos<LShft><LShft>:
+2018-05-17 17:50:45+0530 > <LCtrl>v
+2018-05-17 17:50:49+0530 > 
+2018-05-17 17:50:50+0530 > <LShft>For <LShft>Yocto<LShft>:
+2018-05-17 17:50:58+0530 > <LCtrl>c
+2018-05-17 17:51:07+0530 > and tools<Up><Up>cd <LShft>pr<BckSp><BckSp><LShft>Pr<Tab>o<Tab><LShft>P<Tab><Tab><Tab><BckSp>p<Tab><Tab><Tab>sab<Tab><Tab><Tab>an<Tab><Tab><Tab><Tab><Tab><Tab><Tab><Tab><BckSp><#+27><BckSp><Tab><Tab><BckSp><#+14><Tab><Tab>ya
+2018-05-17 19:06:49+0530 > vinothkumar<LShft>@zumisolutions.com
+2018-05-17 19:07:07+0530 > vinothiloveyou
+2018-05-17 19:07:14+0530 > <LAlt><Tab><LAlt><Tab><LAlt><Tab><LCtrl>x<LCtrl><LShft>VINOTH
+2018-05-17 19:08:07+0530 > 
+2018-05-17 19:08:07+0530 > <LCtrl>vppoouuiiiu<Down><Up><#+13><Down><#+3><Down><Down><#+3><Down><#+2><Down><Down><Down><LCtrl>fboot swit<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LCtrl>fboot switch<BckSp><#+20><LCtrl>fboot switch<Left><#+12><Right><BckSp><#+13><LCtrl>f
+2018-05-18 11:54:32+0530 > <LCtrl>f
+2018-05-18 11:54:58+0530 > zynq b<BckSp>u<Right><BckSp><#+11><BckSp>znc102<BckSp><BckSp><BckSp><BckSp><BckSp>cu102 boor<BckSp>t switch
+2018-05-18 11:55:59+0530 > <LCtrl>f
+2018-05-18 11:56:30+0530 > 
+2018-05-18 11:56:31+0530 > 
+2018-05-18 11:56:32+0530 > madhz<LShft>Boot switch confo<BckSp>iguration<Left><#+26><Left><LShft>Z<LShft>YNQ <LShft>Hi madhu,
+2018-05-18 11:58:48+0530 > 
+2018-05-18 11:58:49+0530 > <LShft>Please find this <LShft>ZN<BckSp><LShft>YNQ ultra scale ms<BckSp>psop user guide document, <BckSp><BckSp> <BckSp>.
+2018-05-18 12:00:21+0530 > <Up><Right><#+53><Right><Right><Right><Right><BckSp> here they mentioning th<BckSp><#+25>to find <BckSp>out boo switch configuratu<BckSp>ion<Left><#+27><Left><Left><Left> <Right><#+12><Right>t<Right><#+20><Right><Right><Right><Right><Right>.
+2018-05-18 12:01:09+0530 > 
+2018-05-18 12:01:10+0530 > 
+2018-05-18 12:01:10+0530 > 
+2018-05-18 12:01:10+0530 > 
+2018-05-18 12:01:10+0530 > <LShft>Regards,
+2018-05-18 12:01:15+0530 > kalaiyarasan<Left><#+13><Left><Left><Left><BckSp><LShft>K<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><Right><#+18>-userguide<LCtrl><LCtrl><LCtrl><LCtrl><KP-><KP-><KP-><KP-><KP-><KP-><LCtrl><KP+><KP+><Up><Up><#+14><Up><#+17><Up><#+5><Up><#+13><Up><#+11><Up><#+11><Up><#+10><Up><#+11><Up><#+8><Up><#+11><Up><#+10><Up><#+1><Up><#+8><Up><#+9><Up><#+10><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Up><Down><Down><Down><#+1><Down><Down><#+10><Down><#+9><Down><Down><Down><Down><Down><Up><#+6><Up><Up><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><Down><#+6><Down><#+15><Down><#+15><Down><#+13><Down><#+14><Down><#+15><Down><#+14><Down><#+6><Down><Up><#+17><Up><#+15><Up><#+11><Up><#+5><Up><#+9><Up><#+7><Up><#+10><Up><#+10><Up><#+13><Up><#+10><Up><#+5><Up><#+8><Up><#+2><Up><Up><Up><Up><Up><Up><#+10><Down><#+10><Down><Down><#+4><Down><#+11><Down><#+1><Down><#+7><Down><#+12><Down><#+2><Down><#+8><Down><#+7><Down><#+12><Down><#+11><Down><#+11><Down><#+12><Down><#+12><Down><#+14><Down><#+12>di<Up><Down><LCtrl>c
+2018-05-18 16:11:27+0530 > <LCtrl>f<LCtrl>v <LCtrl>f<LCtrl>v <LCtrl><LCtrl>ffsbl
+2018-05-18 20:18:24+0530 > how to load kernal image using booten tool
+2018-05-18 20:57:08+0530 > <Left>g<Left><#+23><Down><Right><Left><#+31><Right><Right><Right><Right><BckSp>e<Right><#+19><Left><Left> xilix<BckSp><BckSp><BckSp><BckSp>linux
+2018-05-18 20:58:03+0530 > emmc
+2018-05-18 21:29:40+0530 > <LShft>Hi <LShft>Siddhant,<BckSp>
+2018-05-18 22:22:30+0530 > 
+2018-05-18 22:22:32+0530 > <LShft>This <BckSp><BckSp><BckSp><BckSp><BckSp><LShft>This are the <BckSp><#+11><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><LShft><LShft>The genernal <BckSp><BckSp><BckSp><BckSp>al boot sequence steps as <BckSp><BckSp><BckSp><Left><#+24><Left><Left><Left><Left><Left><Left>following setps <BckSp><BckSp><BckSp><BckSp>tps <BckSp><BckSp><BckSp><BckSp><BckSp>teps are <Right><#+10><Right><#+6><Right><Right><#+17><Right><Right><Right><Right><Right><Right><Right><BckSp><#+7><BckSp><BckSp><BckSp><BckSp>of <Left><#+28><Left><Left><Left><Right><#+23><Right><Right><Right><Right><Right><#+7><Right><Right><Right><Right><LShft>Zynq ultrascale mpsoc <LShft>ZC<LShft>U102<Left><#+28><Left><Left><Left><BckSp><BckSp>for<Left><#+15><Left><Left><Left><Left><Left><Left><Right><#+30><End><LShft><LShft><RShft>:
+2018-05-18 22:27:53+0530 > <BckSp><BckSp><BckSp><LShft><RShft>:
+2018-05-18 22:27:56+0530 >  <LShft>1. <BckSp><BckSp><BckSp><BckSp>
+2018-05-18 22:28:11+0530 > 1. after power on the <BckSp><#+20><BckSp><BckSp><LShft>After power on <BckSp>, <LShft>BOOTROM id<BckSp>s executed in <LShft>platform management unit<LShft>(<LShft>PMC<LShft>)<Left><#+46><Right><Right><Right>code <Right><#+31><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right>. <LShft>It will do pre boot configuration<Left><#+22><Right><BckSp>-<Left><Left><#+11><Left><Left><Right><#+8><Right><BckSp><#+7><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>make<Right><#+24><Right><Right><Right><Left><Left><#+24><Left><Left><BckSp><#+9><BckSp> wi;<BckSp>l do<Right><#+23><Right><Right><Right> and make it system redy<Left><Left>a<Right><Right><Left><#+35><Left><Right><#+15><Right><Right><Right><#+8><Right><Right><Right><Right><Right><Right><#+4><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right> and realse <BckSp><BckSp><BckSp><BckSp>lese <BckSp><BckSp><BckSp><BckSp><BckSp>l<BckSp><BckSp>lese <BckSp><BckSp><BckSp><BckSp><BckSp>lea<BckSp>ace  <LShft>configuration security unit<LShft>(CSU<LShft>).
+2018-05-18 22:32:52+0530 > 
+2018-05-18 22:32:53+0530 > 2. <LShft>CSU is looking for boot switch <BckSp><#+23><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>base on boot se<BckSp>witch it losds <LShft>FSDL<Left><Left><Left><Left><Left><Left><Left><BckSp>s<BckSp>a<Right><#+11><Right><Left><#+30>d<Right><#+32><Right><Left> into on c<BckSp><BckSp><BckSp><BckSp>its on-chip <LShft>RAM<LShft>(OCM<LShft>).<Left><#+24><Left><Left><Left><Left><Left><#+16>featch <BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>eatch <LShft>FSDL<Left><Left><Left><Left> <Right><Right><Right><Right> from external boot source<LShft>(<LShft>eg<LShft>: <LShft>QSPI#@<LShft><BckSp><BckSp>32<LShft>) and<Right><#+39><Right><Left> <LShft>Based on boot headers value its loads ]<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp> execute <LShft>FSDL on either <LShft><LShft>A5 or <Left><Left><Left><Left>3<Right><Right><Right> <LShft>R<Left><Left><Left><Left><Left><Left><Left><BckSp><LShft>R<Right><Right><BckSp><Right><Right><Right><Right><Right><BckSp><LShft>A53 r<BckSp>process<BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>.
+2018-05-18 22:43:35+0530 > 
+2018-05-18 22:43:37+0530 > 3. <LShft>After start execution of <LShft>FSDL the post boot configuration is intiated <BckSp><#+11><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>is executed<BckSp><BckSp>s.<Down>
+2018-05-18 22:45:38+0530 > 4. <LShft>end o<BckSp><BckSp><BckSp><BckSp><BckSp><LShft>U-boot i<BckSp>and kernal <BckSp><BckSp><BckSp>el is loaded in <LShft>A53 aft<BckSp><BckSp><BckSp>at end of the <LShft>FSDL execution<Left><#+36><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left> and application<Right><Right><BckSp><BckSp> are<Right><#+27><Right><#+16><Right><Right><Right><Right><Right><Right><Right>.
+2018-05-18 22:48:13+0530 > 
+2018-05-18 22:48:13+0530 > 
+2018-05-18 22:48:13+0530 > <Up><#+6><Up><Up><Right><#+36><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right>from boot source <Right><Right>to<Right><#+6><Up><#+4><Right>it <Right><#+11><Right>s t<BckSp><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp><BckSp>performed
+2018-05-18 22:52:14+0530 > <LShft>Note<LShft>: kernal <BckSp><BckSp><BckSp>el is loaded based on loadaddress<Left><#+10><Left><Left> <Right><#+14><Left><Left> value spacified in u-boot imasd<BckSp><BckSp>ge.
+2018-05-18 22:53:40+0530 > 
+2018-05-18 22:53:40+0530 > <LShft>Regards,<LShft>
+2018-05-18 22:53:45+0530 > <LShft>Kalaiyarasan.<Left><Right><#+6><Right><Right><Right><#+2><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><BckSp><#+8><BckSp><BckSp><BckSp>i<BckSp>value is <BckSp> www
+2018-05-19 14:48:14+0530 > www.youtube.com
+2018-05-19 14:48:35+0530 > ts<RShft>_cal<Down>
+2018-05-19 14:59:18+0530 >  how to record voice call in watsapp <LShft><LMeta><KP3><KP.>
+2018-05-20 05:38:08+0530 > eshy<#+45>z
